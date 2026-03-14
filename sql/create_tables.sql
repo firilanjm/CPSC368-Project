@@ -72,8 +72,8 @@ CREATE TABLE box_office (
 CREATE TABLE rt_reviews (
     norm_title VARCHAR2(4000) NOT NULL,
     year NUMBER(4) NOT NULL,
-    critics_consensus VARCHAR2(4000) NOT NULL,
-    review_date DATE NOT NULL,
+    critics_consensus VARCHAR2(4000),
+    review_date DATE,
     tomatometer_rating NUMBER,
     PRIMARY KEY (norm_title, year, review_date)
 );
