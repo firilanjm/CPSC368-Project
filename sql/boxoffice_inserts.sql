@@ -193,7 +193,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the exorcist 2000 director''s cut', '', 2000, NULL
+    'the exorcist 2000 director''s cut', 'NULL', 2000, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -798,7 +798,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'widow of st. pierre', '', 2000, NULL
+    'widow of st. pierre', 'NULL', 2000, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -848,7 +848,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the jungle book 2000 re-release', '', 2000, NULL
+    'the jungle book 2000 re-release', 'NULL', 2000, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -958,7 +958,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'blood simple 2000 re-release', '', 2000, NULL
+    'blood simple 2000 re-release', 'NULL', 2000, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -993,7 +993,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'rear window 2000 re-release', '', 2000, NULL
+    'rear window 2000 re-release', 'NULL', 2000, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -1503,7 +1503,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'beauty and the beast 2000 imax release', '', 2001, NULL
+    'beauty and the beast 2000 imax release', 'NULL', 2001, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -1628,7 +1628,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'himalaya 2001 re-release', '', 2001, NULL
+    'himalaya 2001 re-release', 'NULL', 2001, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -1723,12 +1723,12 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'enigma 2001 re-release', '', 2001, NULL
+    'enigma 2001 re-release', 'NULL', 2001, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'with a friend like harry...', '', 2001, NULL
+    'with a friend like harry...', 'NULL', 2001, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -1903,7 +1903,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'tini: the new life of violetta', '', 2001, NULL
+    'tini: the new life of violetta', 'NULL', 2001, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -2443,7 +2443,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'talk to her 2002 re-release', '', 2002, NULL
+    'talk to her 2002 re-release', 'NULL', 2002, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -2588,7 +2588,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'family honor', '', 2002, NULL
+    'family honor', 'NULL', 2002, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -2713,7 +2713,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'asterix & obelix: mission cleopatra 2002 re-release', '', 2002, NULL
+    'asterix & obelix: mission cleopatra 2002 re-release', 'NULL', 2002, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -2728,7 +2728,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the lion king 2002 imax release', '', 2002, NULL
+    'the lion king 2002 imax release', 'NULL', 2002, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -2908,7 +2908,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'toei spring anime fair', '', 2002, NULL
+    'toei spring anime fair', 'NULL', 2002, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -3463,7 +3463,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the jungle book 2 2003 re-release', '', 2003, NULL
+    'the jungle book 2 2003 re-release', 'NULL', 2003, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -3483,7 +3483,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'torque', '', 2003, NULL
+    'torque', 'NULL', 2003, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -3593,7 +3593,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'laws of attraction', '', 2003, NULL
+    'laws of attraction', 'NULL', 2003, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -3698,7 +3698,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the barbarian invasions 2003 re-release', '', 2003, NULL
+    'the barbarian invasions 2003 re-release', 'NULL', 2003, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -3758,7 +3758,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'would i lie to you? 2', '', 2003, NULL
+    'would i lie to you? 2', 'NULL', 2003, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -3883,7 +3883,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'winged migration 2003 re-release', '', 2003, NULL
+    'winged migration 2003 re-release', 'NULL', 2003, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -3953,7 +3953,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'shin chan: the adult empire strikes back', '', 2003, NULL
+    'shin chan: the adult empire strikes back', 'NULL', 2003, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -3968,7 +3968,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'married for 7 years', '', 2003, NULL
+    'married for 7 years', 'NULL', 2003, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -4383,7 +4383,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'taxi 2004 re-release', '', 2004, NULL
+    'taxi 2004 re-release', 'NULL', 2004, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -4453,7 +4453,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'seven dwarves', '', 2004, NULL
+    'seven dwarves', 'NULL', 2004, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -4803,7 +4803,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'quai des illusions', '', 2004, NULL
+    'quai des illusions', 'NULL', 2004, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -4958,7 +4958,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'kureyon shin-chan 2004 re-release', '', 2004, NULL
+    'kureyon shin-chan 2004 re-release', 'NULL', 2004, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -5533,7 +5533,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'dark water 2005 re-release', '', 2005, NULL
+    'dark water 2005 re-release', 'NULL', 2005, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -5673,7 +5673,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the new world 2005 re-release', '', 2005, NULL
+    'the new world 2005 re-release', 'NULL', 2005, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -5853,7 +5853,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'iznogoud- caliph instead of the caliph', '', 2005, NULL
+    'iznogoud- caliph instead of the caliph', 'NULL', 2005, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -5898,7 +5898,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'night watch 2005 re-release', '', 2005, NULL
+    'night watch 2005 re-release', 'NULL', 2005, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -5983,7 +5983,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'most beautiful week in my life', '', 2005, NULL
+    'most beautiful week in my life', 'NULL', 2005, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -6918,7 +6918,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'movie: marrying the mafia 3 - family hustle', '', 2006, NULL
+    'movie: marrying the mafia 3 - family hustle', 'NULL', 2006, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -7968,7 +7968,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the wild guys 4', '', 2007, NULL
+    'the wild guys 4', 'NULL', 2007, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -8748,7 +8748,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'doraemon the movie: nobita and the green giant legend', '', 2008, NULL
+    'doraemon the movie: nobita and the green giant legend', 'NULL', 2008, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -8853,7 +8853,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'i''m a cat stalker', '', 2008, NULL
+    'i''m a cat stalker', 'NULL', 2008, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -8878,7 +8878,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'under the same moon', '', 2008, NULL
+    'under the same moon', 'NULL', 2008, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -9088,7 +9088,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'prince of persia: the sands of time', '', 2009, NULL
+    'prince of persia: the sands of time', 'NULL', 2009, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -9313,7 +9313,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'green zone', '', 2009, NULL
+    'green zone', 'NULL', 2009, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -9568,12 +9568,12 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the spy next door', '', 2009, NULL
+    'the spy next door', 'NULL', 2009, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'nodame cantabile: the movie ii', '', 2009, NULL
+    'nodame cantabile: the movie ii', 'NULL', 2009, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -9603,7 +9603,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'toy story 2009 re-release', '', 2009, NULL
+    'toy story 2009 re-release', 'NULL', 2009, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -10138,7 +10138,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'knight and day 2010 re-release', '', 2010, NULL
+    'knight and day 2010 re-release', 'NULL', 2010, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -10268,7 +10268,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the adjustment bureau', '', 2010, NULL
+    'the adjustment bureau', 'NULL', 2010, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -10298,7 +10298,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'sanctum', '', 2010, NULL
+    'sanctum', 'NULL', 2010, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -10393,7 +10393,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'blades of blood 2010 re-release', '', 2010, NULL
+    'blades of blood 2010 re-release', 'NULL', 2010, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -10558,7 +10558,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'conference of animals', '', 2010, NULL
+    'conference of animals', 'NULL', 2010, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -10613,7 +10613,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'streetdance 2', '', 2010, NULL
+    'streetdance 2', 'NULL', 2010, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -10633,7 +10633,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'avatar 2010 special edition', '', 2010, NULL
+    'avatar 2010 special edition', 'NULL', 2010, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -10668,17 +10668,17 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'nodame cantabile: the movie ii 2010 re-release', '', 2010, NULL
+    'nodame cantabile: the movie ii 2010 re-release', 'NULL', 2010, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'sp: the motion picture i', '', 2010, NULL
+    'sp: the motion picture i', 'NULL', 2010, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'kokkuri-san: gekijô-ban', '', 2010, NULL
+    'kokkuri-san: gekijô-ban', 'NULL', 2010, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -10738,7 +10738,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'dogwood tree', '', 2010, NULL
+    'dogwood tree', 'NULL', 2010, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -10768,7 +10768,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the santa claus gang', '', 2010, NULL
+    'the santa claus gang', 'NULL', 2010, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -10793,7 +10793,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'splice 2010 re-release', '', 2010, NULL
+    'splice 2010 re-release', 'NULL', 2010, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -10813,7 +10813,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'christmas in south africa', '', 2010, NULL
+    'christmas in south africa', 'NULL', 2010, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -10848,7 +10848,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'nasha russia. yaytsa sudby', '', 2010, NULL
+    'nasha russia. yaytsa sudby', 'NULL', 2010, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -10878,7 +10878,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'a thousand words', '', 2010, NULL
+    'a thousand words', 'NULL', 2010, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -10898,7 +10898,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'inazuma eleven go the movie: the ultimate bonds gryphon', '', 2010, NULL
+    'inazuma eleven go the movie: the ultimate bonds gryphon', 'NULL', 2010, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -10998,7 +10998,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'green zone 2010 re-release', '', 2010, NULL
+    'green zone 2010 re-release', 'NULL', 2010, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -11183,7 +11183,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the lion king 2011 3d release', '', 2011, NULL
+    'the lion king 2011 3d release', 'NULL', 2011, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -11488,7 +11488,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'footloose 2011 re-release', '', 2011, NULL
+    'footloose 2011 re-release', 'NULL', 2011, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -11533,12 +11533,12 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'gekijouban tenpesuto 3d', '', 2011, NULL
+    'gekijouban tenpesuto 3d', 'NULL', 2011, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'silent hill: revelation', '', 2011, NULL
+    'silent hill: revelation', 'NULL', 2011, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -11688,7 +11688,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'one for the money', '', 2011, NULL
+    'one for the money', 'NULL', 2011, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -11768,7 +11768,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'vysotsky. thank you for being alive', '', 2011, NULL
+    'vysotsky. thank you for being alive', 'NULL', 2011, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -12103,7 +12103,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'titanic 2012 3d release', '', 2012, NULL
+    'titanic 2012 3d release', 'NULL', 2012, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -12153,7 +12153,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'we''re the millers', '', 2012, NULL
+    'we''re the millers', 'NULL', 2012, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -12273,12 +12273,12 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the wind rises', '', 2012, NULL
+    'the wind rises', 'NULL', 2012, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'last vegas', '', 2012, NULL
+    'last vegas', 'NULL', 2012, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -12308,7 +12308,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'walking with dinosaurs 3d', '', 2012, NULL
+    'walking with dinosaurs 3d', 'NULL', 2012, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -12348,7 +12348,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'star wars: episode i - the phantom menace 2012 3d release', '', 2012, NULL
+    'star wars: episode i - the phantom menace 2012 3d release', 'NULL', 2012, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -12468,7 +12468,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'finding nemo 2012 3d release', '', 2012, NULL
+    'finding nemo 2012 3d release', 'NULL', 2012, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -12488,7 +12488,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the secret of the gods', '', 2012, NULL
+    'the secret of the gods', 'NULL', 2012, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -12498,7 +12498,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'beauty and the beast 2012 3d release', '', 2012, NULL
+    'beauty and the beast 2012 3d release', 'NULL', 2012, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -12568,7 +12568,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'monsters, inc. 2012 3d release', '', 2012, NULL
+    'monsters, inc. 2012 3d release', 'NULL', 2012, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -12608,7 +12608,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'gekijouban tenpesuto 3d 2012 re-release', '', 2012, NULL
+    'gekijouban tenpesuto 3d 2012 re-release', 'NULL', 2012, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -12753,7 +12753,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'movie 43', '', 2012, NULL
+    'movie 43', 'NULL', 2012, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -12968,7 +12968,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'fall in love like a star', '', 2012, NULL
+    'fall in love like a star', 'NULL', 2012, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -12978,7 +12978,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'unbowed', '', 2012, NULL
+    'unbowed', 'NULL', 2012, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -12988,12 +12988,12 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'streetdance 2 2012 re-release', '', 2012, NULL
+    'streetdance 2 2012 re-release', 'NULL', 2012, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    '2012 2012 re-release', '', 2012, NULL
+    '2012 2012 re-release', 'NULL', 2012, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -13293,7 +13293,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'jurassic park 2013 re-release', '', 2013, NULL
+    'jurassic park 2013 re-release', 'NULL', 2013, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -13543,7 +13543,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the legend of hercules', '', 2013, NULL
+    'the legend of hercules', 'NULL', 2013, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -13718,7 +13718,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'yolki 3', '', 2013, NULL
+    'yolki 3', 'NULL', 2013, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -13728,7 +13728,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'antoine and sebastian', '', 2013, NULL
+    'antoine and sebastian', 'NULL', 2013, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -13823,7 +13823,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    '101 proposals', '', 2013, NULL
+    '101 proposals', 'NULL', 2013, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -13998,7 +13998,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'bring happiness home', '', 2013, NULL
+    'bring happiness home', 'NULL', 2013, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -14238,7 +14238,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the monkey king: havoc in heaven''s palace', '', 2014, NULL
+    'the monkey king: havoc in heaven''s palace', 'NULL', 2014, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -14488,7 +14488,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'crimson peak', '', 2014, NULL
+    'crimson peak', 'NULL', 2014, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -14638,7 +14638,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'dearest 2014 re-release', '', 2014, NULL
+    'dearest 2014 re-release', 'NULL', 2014, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -14773,7 +14773,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'forbidden empire 2014 re-release', '', 2014, NULL
+    'forbidden empire 2014 re-release', 'NULL', 2014, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -14808,7 +14808,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'doraemon the movie: the new records of nobita''s spaceblazer 2014 re-release', '', 2014, NULL
+    'doraemon the movie: the new records of nobita''s spaceblazer 2014 re-release', 'NULL', 2014, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -14853,7 +14853,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the crossing', '', 2014, NULL
+    'the crossing', 'NULL', 2014, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -15258,7 +15258,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'gods of egypt', '', 2015, NULL
+    'gods of egypt', 'NULL', 2015, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -15303,7 +15303,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'ride along 2', '', 2015, NULL
+    'ride along 2', 'NULL', 2015, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -15333,7 +15333,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the 5th wave', '', 2015, NULL
+    'the 5th wave', 'NULL', 2015, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -15508,7 +15508,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    '13 hours', '', 2015, NULL
+    '13 hours', 'NULL', 2015, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -15518,7 +15518,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'a violent prosecutor', '', 2015, NULL
+    'a violent prosecutor', 'NULL', 2015, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -15853,7 +15853,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'dad, where are we going 2', '', 2015, NULL
+    'dad, where are we going 2', 'NULL', 2015, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -16648,7 +16648,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'yo-kai watch movie: it''s the secret of birth, meow! 2016 re-release', '', 2016, NULL
+    'yo-kai watch movie: it''s the secret of birth, meow! 2016 re-release', 'NULL', 2016, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -16723,7 +16723,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'masterpiece mystery: sherlock: the abominable bride', '', 2016, NULL
+    'masterpiece mystery: sherlock: the abominable bride', 'NULL', 2016, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -16798,7 +16798,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'pandora', '', 2016, NULL
+    'pandora', 'NULL', 2016, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -16863,7 +16863,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'yôkai watch: the movie: the flying whale and the grand adventure of the double worlds, meow!', '', 2016, NULL
+    'yôkai watch: the movie: the flying whale and the grand adventure of the double worlds, meow!', 'NULL', 2016, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -16878,7 +16878,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'when larry meets mary', '', 2016, NULL
+    'when larry meets mary', 'NULL', 2016, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -17348,7 +17348,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the commuter', '', 2017, NULL
+    'the commuter', 'NULL', 2017, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -17633,7 +17633,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'gintama live action the movie', '', 2017, NULL
+    'gintama live action the movie', 'NULL', 2017, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -17828,7 +17828,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'reset 2017 re-release', '', 2017, NULL
+    'reset 2017 re-release', 'NULL', 2017, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -17913,12 +17913,12 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the bride of badrinath', '', 2017, NULL
+    'the bride of badrinath', 'NULL', 2017, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'a chinese odyssey: part 2 - cinderella 2017 re-release', '', 2017, NULL
+    'a chinese odyssey: part 2 - cinderella 2017 re-release', 'NULL', 2017, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -17943,7 +17943,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'leap! 2017 re-release', '', 2017, NULL
+    'leap! 2017 re-release', 'NULL', 2017, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -18438,7 +18438,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'ipartment the movie', '', 2018, NULL
+    'ipartment the movie', 'NULL', 2018, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -18513,7 +18513,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'spirited away 2018 re-release', '', 2018, NULL
+    'spirited away 2018 re-release', 'NULL', 2018, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -18613,7 +18613,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'once upon a deadpool 2018 re-release', '', 2018, NULL
+    'once upon a deadpool 2018 re-release', 'NULL', 2018, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -18663,7 +18663,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'bajrangi bhaijaan 2018 re-release', '', 2018, NULL
+    'bajrangi bhaijaan 2018 re-release', 'NULL', 2018, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -18838,7 +18838,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'meng chong guo jiang', '', 2018, NULL
+    'meng chong guo jiang', 'NULL', 2018, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -18848,7 +18848,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'ice', '', 2018, NULL
+    'ice', 'NULL', 2018, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -18893,12 +18893,12 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'vip policeman', '', 2018, NULL
+    'vip policeman', 'NULL', 2018, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'my neighbor totoro 2018 re-release', '', 2018, NULL
+    'my neighbor totoro 2018 re-release', 'NULL', 2018, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -19718,7 +19718,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'warrior of the hornor', '', 2019, NULL
+    'warrior of the hornor', 'NULL', 2019, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -20228,7 +20228,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'my mom is a character 3', '', 2020, NULL
+    'my mom is a character 3', 'NULL', 2020, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -20243,7 +20243,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'harry potter and the sorcerer''s stone 2020 re-release', '', 2020, NULL
+    'harry potter and the sorcerer''s stone 2020 re-release', 'NULL', 2020, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -20333,7 +20333,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'interstellar 2020 re-release', '', 2020, NULL
+    'interstellar 2020 re-release', 'NULL', 2020, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -20353,7 +20353,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'fate/stay night [heaven''s feel] iii. spring song', '', 2020, NULL
+    'fate/stay night [heaven''s feel] iii. spring song', 'NULL', 2020, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -20433,7 +20433,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the post 2020 re-release', '', 2020, NULL
+    'the post 2020 re-release', 'NULL', 2020, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -20563,7 +20563,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'inception 10th anniversary re-release', '', 2020, NULL
+    'inception 10th anniversary re-release', 'NULL', 2020, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -20628,7 +20628,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'war of the eltis', '', 2020, NULL
+    'war of the eltis', 'NULL', 2020, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -20668,12 +20668,12 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'spirited away studio ghibli fest 2020', '', 2020, NULL
+    'spirited away studio ghibli fest 2020', 'NULL', 2020, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'princess mononoke studio ghibli fest 2020', '', 2020, NULL
+    'princess mononoke studio ghibli fest 2020', 'NULL', 2020, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -20703,12 +20703,12 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'bohemian rhapsody 2020 re-release', '', 2020, NULL
+    'bohemian rhapsody 2020 re-release', 'NULL', 2020, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the (un)perfect guy', '', 2020, NULL
+    'the (un)perfect guy', 'NULL', 2020, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -20783,7 +20783,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'nausicaä of the valley of the wind 2020 re-release', '', 2020, NULL
+    'nausicaä of the valley of the wind 2020 re-release', 'NULL', 2020, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -20843,7 +20843,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the royal bride', '', 2020, NULL
+    'the royal bride', 'NULL', 2020, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -20858,12 +20858,12 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'yowamushi pedal: the movie 2020 re-release', '', 2020, NULL
+    'yowamushi pedal: the movie 2020 re-release', 'NULL', 2020, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'klassikokkutulek 2: pulmad ja matused', '', 2020, NULL
+    'klassikokkutulek 2: pulmad ja matused', 'NULL', 2020, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -20953,7 +20953,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the tales for old and young', '', 2020, NULL
+    'the tales for old and young', 'NULL', 2020, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -20988,12 +20988,12 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'gladiator 20th anniversary', '', 2020, NULL
+    'gladiator 20th anniversary', 'NULL', 2020, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'intruder', '', 2020, NULL
+    'intruder', 'NULL', 2020, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -21223,12 +21223,12 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'evangelion: 3.0+1.01 thrice upon a time', '', 2021, NULL
+    'evangelion: 3.0+1.01 thrice upon a time', 'NULL', 2021, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'end game', '', 2021, NULL
+    'end game', 'NULL', 2021, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -21293,7 +21293,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'avatar 2021 re-release', '', 2021, NULL
+    'avatar 2021 re-release', 'NULL', 2021, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -21403,7 +21403,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'arashi anniversary tour 5 x 20 film: record of memories', '', 2021, NULL
+    'arashi anniversary tour 5 x 20 film: record of memories', 'NULL', 2021, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -21493,7 +21493,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the last warrior: a messenger of darkness', '', 2021, NULL
+    'the last warrior: a messenger of darkness', 'NULL', 2021, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -21658,7 +21658,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'legend no. 17', '', 2021, NULL
+    'legend no. 17', 'NULL', 2021, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -21668,7 +21668,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'harry potter and the sorcerer''s stone 2021 re-release', '', 2021, NULL
+    'harry potter and the sorcerer''s stone 2021 re-release', 'NULL', 2021, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -21693,7 +21693,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'something about love', '', 2021, NULL
+    'something about love', 'NULL', 2021, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -21838,7 +21838,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'eiga sumikkogurashi: aoi tsukiyo no mahô no ko', '', 2021, NULL
+    'eiga sumikkogurashi: aoi tsukiyo no mahô no ko', 'NULL', 2021, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -21868,7 +21868,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the lord of the rings: the fellowship of the ring 2021 re-release', '', 2021, NULL
+    'the lord of the rings: the fellowship of the ring 2021 re-release', 'NULL', 2021, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -21993,7 +21993,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'love letter 2021 re-release', '', 2021, NULL
+    'love letter 2021 re-release', 'NULL', 2021, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -22248,12 +22248,12 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'chebi: my fluffy friend', '', 2022, NULL
+    'chebi: my fluffy friend', 'NULL', 2022, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'avatar 2022  re-release', '', 2022, NULL
+    'avatar 2022  re-release', 'NULL', 2022, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -22593,7 +22593,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'wonderfully beautiful', '', 2022, NULL
+    'wonderfully beautiful', 'NULL', 2022, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -22658,7 +22658,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the wolf of wall street 2022 re-release', '', 2022, NULL
+    'the wolf of wall street 2022 re-release', 'NULL', 2022, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -22678,7 +22678,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the chosen season 3: episode 1 & 2', '', 2022, NULL
+    'the chosen season 3: episode 1 & 2', 'NULL', 2022, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -22828,7 +22828,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'smack dab kakha', '', 2022, NULL
+    'smack dab kakha', 'NULL', 2022, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -22853,7 +22853,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'spider-man: no way home 2022 re-release', '', 2022, NULL
+    'spider-man: no way home 2022 re-release', 'NULL', 2022, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -22928,7 +22928,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the tatta''s', '', 2022, NULL
+    'the tatta''s', 'NULL', 2022, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -22978,7 +22978,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'osomatsusan the movie 2022 re-release', '', 2022, NULL
+    'osomatsusan the movie 2022 re-release', 'NULL', 2022, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -23328,7 +23328,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'titanic 25 year anniversary', '', 2023, NULL
+    'titanic 25 year anniversary', 'NULL', 2023, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -23533,7 +23533,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the bremen town musicians', '', 2023, NULL
+    'the bremen town musicians', 'NULL', 2023, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -23573,7 +23573,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'toy story 2023 re-release', '', 2023, NULL
+    'toy story 2023 re-release', 'NULL', 2023, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -23588,7 +23588,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'frozen 2023 re-release (sing -a-long)', '', 2023, NULL
+    'frozen 2023 re-release (sing -a-long)', 'NULL', 2023, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -23803,7 +23803,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'three heroes and the navel of the earth', '', 2023, NULL
+    'three heroes and the navel of the earth', 'NULL', 2023, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -23878,7 +23878,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'samurai beyond admiration record to the world''s best', '', 2023, NULL
+    'samurai beyond admiration record to the world''s best', 'NULL', 2023, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -23913,7 +23913,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the nightmare before christmas 30th anniversary re-release', '', 2023, NULL
+    'the nightmare before christmas 30th anniversary re-release', 'NULL', 2023, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -23938,7 +23938,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'talk to her undated france release', '', 2023, NULL
+    'talk to her undated france release', 'NULL', 2023, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -24268,7 +24268,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'coraline 15th anniversary', '', 2024, NULL
+    'coraline 15th anniversary', 'NULL', 2024, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -24368,7 +24368,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'interstellar 2024 re-release', '', 2024, NULL
+    'interstellar 2024 re-release', 'NULL', 2024, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -24438,7 +24438,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the dark knight rises 2024 re-release', '', 2024, NULL
+    'the dark knight rises 2024 re-release', 'NULL', 2024, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -24518,7 +24518,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'crayon shin-chan: ora''s dinosaur diary', '', 2024, NULL
+    'crayon shin-chan: ora''s dinosaur diary', 'NULL', 2024, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -24543,7 +24543,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'star wars: episode i - the phantom menace 2024 re-release', '', 2024, NULL
+    'star wars: episode i - the phantom menace 2024 re-release', 'NULL', 2024, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -24628,7 +24628,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the chosen: s4 episodes 1-3', '', 2024, NULL
+    'the chosen: s4 episodes 1-3', 'NULL', 2024, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -24763,7 +24763,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the lord of the rings: the return of the king 2024 re-release', '', 2024, NULL
+    'the lord of the rings: the return of the king 2024 re-release', 'NULL', 2024, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -24788,7 +24788,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'one direction: this is us 2024 re-release', '', 2024, NULL
+    'one direction: this is us 2024 re-release', 'NULL', 2024, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -24828,17 +24828,17 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'ruki vverkh!', '', 2024, NULL
+    'ruki vverkh!', 'NULL', 2024, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the chosen: s4 episodes 4-6', '', 2024, NULL
+    'the chosen: s4 episodes 4-6', 'NULL', 2024, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the boy with pink trousers', '', 2024, NULL
+    'the boy with pink trousers', 'NULL', 2024, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
@@ -24948,7 +24948,7 @@ INSERT INTO box_office (
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
 ) VALUES (
-    'the chosen: s4 episodes 7-8', '', 2024, NULL
+    'the chosen: s4 episodes 7-8', 'NULL', 2024, NULL
 );
 INSERT INTO box_office (
     norm_title, genre, year, worldwide_revenue
