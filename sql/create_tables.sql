@@ -62,6 +62,7 @@ CREATE TABLE movie_genres (
 -- Create box_office table
 CREATE TABLE box_office (
     norm_title VARCHAR2(4000) NOT NULL,
+    genre VARCHAR2(100) NOT NULL,
     year NUMBER(4) NOT NULL,
     worldwide_revenue NUMBER,
     PRIMARY KEY (norm_title, year)
