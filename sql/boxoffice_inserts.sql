@@ -1,15 +1,5 @@
 SET DEFINE OFF;
 
-DROP TABLE boxoffice PURGE RECYCLEBIN;
-
-
-CREATE TABLE boxoffice (
-    norm_title VARCHAR2(4000),
-    year NUMBER(4),
-    worldwide NUMBER,
-    PRIMARY KEY (norm_title, year)
-);
-
 INSERT INTO boxoffice (
     norm_title, year, worldwide
 ) VALUES (
