@@ -109,3 +109,14 @@ The raw data files are not included in this repository due to file size. Downloa
 Once the files are in place, run the notebooks in order:
 1. `notebooks/data_cleaning.ipynb`
 2. `notebooks/data_inserts.ipynb`
+
+### Connecting to Oracle server with Python
+Before running `notebooks/analysis.ipynb`, you must open an SSH tunnel to the UBC CS department server. In a terminal run:
+```bash
+ssh -l YOUR_CWL -L localhost:1522:dbhost.students.cs.ubc.ca:1522 remote.students.cs.ubc.ca
+```
+
+Keep this terminal open while running the notebook. Then install the required library:
+```bash
+pip install oracledb
+```
