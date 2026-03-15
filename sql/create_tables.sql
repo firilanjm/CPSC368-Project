@@ -15,21 +15,21 @@ CREATE TABLE movies (
     runtime_minutes INTEGER,
     imdb_rating FLOAT);
 
--- Movie genres table (1-to-many relationship)
+-- Create movie genres table 
 CREATE TABLE movie_genres (
     tconst CHAR(10) NOT NULL,
     genre VARCHAR2(100),
     PRIMARY KEY (tconst, genre),
     FOREIGN KEY (tconst) REFERENCES movies(tconst) ON DELETE CASCADE);
 
--- Create box_office table
+-- Create box office table
 CREATE TABLE box_office (
     box_id NUMBER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
     norm_title VARCHAR2(255),
     year INTEGER,
     worldwide_revenue FLOAT);
 
--- Create rt_reviews table 
+-- Create rotten tomato reviews table 
 CREATE TABLE rt_reviews (
     review_id NUMBER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
     norm_title VARCHAR2(255),
