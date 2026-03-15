@@ -1,0 +1,22 @@
+# Raw data — files too large for GitHub (IMDb TSVs, etc.)
+data/raw/
+
+# Keep clean data and folder structure
+!data/clean/
+!data/raw/.gitkeep
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
