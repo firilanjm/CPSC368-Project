@@ -10,7 +10,7 @@ PURGE RECYCLEBIN;
 -- Create movies table
 CREATE TABLE movies (
     tconst CHAR(10) PRIMARY KEY,
-    norm_title VARCHAR2(255) NOT NULL,
+    norm_title VARCHAR2(300) NOT NULL,
     start_year INTEGER NOT NULL,
     runtime_minutes INTEGER,
     imdb_rating FLOAT);
@@ -25,13 +25,13 @@ CREATE TABLE movie_genres (
 -- Create box office table
 CREATE TABLE box_office (
     box_id NUMBER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
-    norm_title VARCHAR2(255),
+    norm_title VARCHAR2(300),
     year INTEGER,
     worldwide_revenue FLOAT);
 
 -- Create rotten tomato reviews table 
 CREATE TABLE rt_reviews (
     review_id NUMBER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
-    norm_title VARCHAR2(255),
+    norm_title VARCHAR2(300),
     tomatometer_rating INTEGER,
-    critics_consensus VARCHAR2(4000));
+    critics_consensus VARCHAR2(5000));
