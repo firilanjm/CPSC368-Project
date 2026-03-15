@@ -56,8 +56,9 @@ CREATE TABLE movie_genres (
 CREATE TABLE box_office (
     box_id NUMBER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
     norm_title VARCHAR2(255),
-    start_year NUMBER(4),
-    worldwide_gross NUMBER
+    genre VARCHAR2(100),
+    year NUMBER(4),
+    worldwide_revenue NUMBER
 );
 
 -- Create rt_reviews table
