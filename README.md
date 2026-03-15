@@ -92,3 +92,20 @@ This project investigates how content characteristics systematically relate to a
   - `Review_type`, `Review_score`, `Review_date`, `Review_content`, `Critics_consensus`, `Movie_title`  
 - **Reliability:** Derived from Rotten Tomatoes; Kaggle usability score 10.00
 
+---
+## Getting Set Up
+
+### Raw Data
+The raw data files are not included in this repository due to file size. Download them and place them in `data/raw/`:
+
+| File | Source |
+|------|--------|
+| `title.basics.tsv` | [IMDb Datasets](https://datasets.imdbws.com/) — unzip `title.basics.tsv.gz` |
+| `title.ratings.tsv` | [IMDb Datasets](https://datasets.imdbws.com/) — unzip `title.ratings.tsv.gz` |
+| `enhanced_box_office_data(2000-2024).csv` | [Kaggle](https://www.kaggle.com/datasets/aditya126/movies-box-office-dataset-2000-2024) |
+| `rotten_tomatoes_movies.csv` | [Kaggle](https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset) |
+| `rotten_tomatoes_critic_reviews.csv` | [Kaggle](https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset) |
+
+Once the files are in place, run the notebooks in order:
+1. `notebooks/data_cleaning.ipynb`
+2. `notebooks/data_inserts.ipynb`
