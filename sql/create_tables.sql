@@ -54,16 +54,16 @@ CREATE TABLE movie_genres (
 
 -- Create box_office table
 CREATE TABLE box_office (
+    box_id NUMBER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
     norm_title VARCHAR2(255),
-    genre VARCHAR2(100),
-    year NUMBER(4),
-    worldwide_revenue NUMBER,
-    PRIMARY KEY (norm_title, year)
+    start_year NUMBER(4),
+    worldwide_gross NUMBER
 );
 
 -- Create rt_reviews table
 CREATE TABLE rt_reviews (
-    norm_title VARCHAR2(255) PRIMARY KEY,
-    critics_consensus VARCHAR2(4000),
-    tomatometer_rating NUMBER
+    review_id NUMBER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    norm_title VARCHAR2(255),
+    tomatometer_rating NUMBER,
+    critics_consensus VARCHAR2(4000)
 );
