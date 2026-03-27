@@ -1,4001 +1,5625 @@
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13009266', 'jivan aakhyan', 2021, 148, 8.9);
+                VALUES ('tt0293429', 'mortal kombat', 2021, 110, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt31899561', 'malanova', 2024, 73, 6.1);
+                VALUES ('tt0337692', 'on the road', 2012, 124, 6.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8266452', 'lev yashin vratar moey mechty', 2019, 120, 6.3);
+                VALUES ('tt0359950', 'the secret life of walter mitty', 2013, 114, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7539040', 'every single someone', 2021, 86, 3.4);
+                VALUES ('tt0365907', 'a walk among the tombstones', 2014, 114, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt31972385', 'vivekam', 2024, 104, 8.0);
+                VALUES ('tt0369610', 'jurassic world', 2015, 124, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3547730', 'reykjavik rising', 2014, 45, 8.0);
+                VALUES ('tt0376136', 'the rum diary', 2011, 119, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3446852', 'bodybuilder', 2014, 104, 6.1);
+                VALUES ('tt0377981', 'gnomeo juliet', 2011, 84, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27510789', 'dykhaniye myortvogo lesa', 2023, 85, 6.2);
+                VALUES ('tt0383010', 'the three stooges', 2012, 92, 5.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt22527704', 'sex in africa', 2012, 48, 8.3);
+                VALUES ('tt0385887', 'motherless brooklyn', 2019, 144, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8256306', 'the civil hoax civil war deniers', 2018, 52, 7.3);
+                VALUES ('tt0398286', 'tangled', 2010, 100, 7.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5518174', 'llegando a casa', 2016, 106, 7.2);
+                VALUES ('tt0401729', 'john carter', 2012, 132, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3778698', '75a4053 the ronald defeo interview', 2014, 240, 5.7);
+                VALUES ('tt0409847', 'cowboys aliens', 2011, 119, 6.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5681942', 'schlep', 2016, 84, 6.8);
+                VALUES ('tt0420293', 'the stanford prison experiment', 2015, 122, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10087490', 'the influence of sex on dieting', 2016, 90, 3.4);
+                VALUES ('tt0427152', 'dinner for schmucks', 2010, 114, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6448414', 'macho peruano que se respeta', 2015, 102, 2.8);
+                VALUES ('tt0429493', 'the ateam', 2010, 117, 6.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1781827', 'hands of stone', 2016, 111, 6.6);
+                VALUES ('tt0431021', 'the possession', 2012, 92, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29608092', 'gumasthan', 2024, 145, 5.9);
+                VALUES ('tt0433035', 'real steel', 2011, 127, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4676506', 'our house', 2015, 96, 5.5);
+                VALUES ('tt0435651', 'the giver', 2014, 97, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11212572', 'nocebo', 2022, 96, 5.8);
+                VALUES ('tt0435761', 'toy story 3', 2010, 103, 8.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2976472', 'partners the movie iii', 2014, 114, 5.5);
+                VALUES ('tt0437086', 'alita battle angel', 2019, 122, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12128038', 'out of the world', 2020, 90, 4.8);
+                VALUES ('tt0439572', 'the flash', 2023, 144, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5723286', 'wheelman', 2017, 82, 6.4);
+                VALUES ('tt0443272', 'lincoln', 2012, 150, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3720596', 'cannibal fog', 2014, 114, 7.4);
+                VALUES ('tt0443465', 'before we go', 2014, 95, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29567635', 'a king like me', 2024, 90, 6.8);
+                VALUES ('tt0446029', 'scott pilgrim vs the world', 2010, 112, 7.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10257496', 'noni le fruit de lespoir', 2020, 80, 2.3);
+                VALUES ('tt0448115', 'shazam', 2019, 132, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11114808', 'pandanggo sa hukay', 2019, 99, 6.0);
+                VALUES ('tt0448694', 'puss in boots', 2011, 90, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2390792', 'shana the wolfs music', 2014, 96, 6.0);
+                VALUES ('tt0451279', 'wonder woman', 2017, 141, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1855229', 'in this waiting', 2011, 68, 6.9);
+                VALUES ('tt0453562', '42', 2013, 128, 7.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15682790', 'the latent image', 2022, 83, 4.9);
+                VALUES ('tt0454876', 'life of pi', 2012, 127, 7.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1308729', 'bullet to the head', 2012, 92, 5.7);
+                VALUES ('tt0455407', 'the crazies', 2010, 101, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4522052', 'bench talkies', 2015, 116, 6.1);
+                VALUES ('tt0455944', 'the equalizer', 2014, 132, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2040311', 'cru', 2013, 73, 6.7);
+                VALUES ('tt0458339', 'captain america the first avenger', 2011, 124, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9066030', 'demon host', 2024, 80, 6.4);
+                VALUES ('tt0458413', 'a long way down', 2014, 96, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1486670', 'f', 2010, 79, 4.7);
+                VALUES ('tt0458481', 'sin city a dame to kill for', 2014, 102, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7479878', 'heegondu dina', 2018, 120, 8.5);
+                VALUES ('tt0462335', 'highrise', 2015, 119, 5.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6086614', 'letters from baghdad', 2016, 95, 6.9);
+                VALUES ('tt0464154', 'piranha 3d', 2010, 88, 5.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2446042', 'taken 3', 2014, 108, 6.0);
+                VALUES ('tt0469021', 'alan partridge', 2013, 90, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4087850', 'darling', 2015, 126, 6.0);
+                VALUES ('tt0470752', 'ex machina', 2014, 108, 7.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12981968', 'ada apa dengan dosa', 2020, 89, 8.0);
+                VALUES ('tt0471042', 'tower heist', 2011, 104, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5612402', 'hudugaru', 2011, 148, 7.8);
+                VALUES ('tt0472181', 'the smurfs', 2011, 103, 5.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3968196', 'star trek temporal anomaly', 2019, 60, 6.1);
+                VALUES ('tt0472399', 'the mechanic', 2011, 93, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt22530172', 'andragogy', 2023, 110, 8.0);
+                VALUES ('tt0473075', 'prince of persia the sands of time', 2010, 116, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3359650', 'crushed', 2015, 111, 4.3);
+                VALUES ('tt0475290', 'hail caesar', 2016, 106, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7583410', 'diva', 2017, 75, 5.8);
+                VALUES ('tt0477080', 'unstoppable', 2010, 98, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4355574', 'live from new york', 2015, 90, 6.7);
+                VALUES ('tt0477302', 'extremely loud incredibly close', 2011, 129, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7904074', 'hendi hormoz', 2018, 90, 6.8);
+                VALUES ('tt0478304', 'the tree of life', 2011, 139, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13989524', 'absolute proof', 2021, 120, 2.8);
+                VALUES ('tt0478970', 'antman', 2015, 117, 7.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7574106', 'fabiana', 2018, 89, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4765708', 'paren s nashego kladbishcha', 2015, 84, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1754948', 'we still live here âs nutayuneân', 2010, 82, 8.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13229894', 'gods crooked lines', 2022, 154, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3749216', 'elixir', 2014, 90, 4.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt23847590', 'the great nazi escape', 2023, 60, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13368304', 'anima', 2020, 80, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt31040456', 'ghosts of red ridge', 2024, 81, 3.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2393730', 'far away so close', 2013, 108, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2055689', 'nachtmeerfahrten', 2011, 69, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt19514938', 'payidar', 2022, 91, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10305920', 'b309', 2019, 46, 8.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15771628', 'xueta island', 2021, 63, 8.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32614374', 'the killing inn', 2023, 90, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt26628567', 'the black mass', 2023, 82, 4.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3094296', 'a farra do circo', 2014, 94, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5255314', 'my son my savior', 2015, 55, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8328526', 'u driver', 2020, 48, 4.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4157144', 'quest the truth always rises', 2017, 86, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32467129', 'video carnage', 2021, 101, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10973466', 'the longest night', 2020, 80, 5.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14488150', 'tick tick again', 2020, 57, 8.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12562168', 'nora highland', 2020, 65, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12117860', 'alles op tafel', 2021, 102, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15374820', 'in search of monsters', 2021, 88, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33336267', 'the parish of the pines', 2023, 159, 7.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7322224', 'triangle of sadness', 2022, 147, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1417582', 'among wolves', 2010, 113, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2292326', 'paranormal island', 2014, 82, 3.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13350988', 'the book of delights', 2020, 99, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1541654', 'cangleska wakan', 2010, 53, 8.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt23845538', 'ustedes deciden', 2023, 92, 5.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4136642', 'meet the vamps the story of the vamps', 2014, 57, 9.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1895315', 'brimstone', 2016, 148, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2233492', 'common outlaws', 2014, 92, 4.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2428708', 'heavenly angle', 2014, 98, 7.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29232978', 'bigfoot vs megalodon 2', 2023, 73, 3.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5535522', 'raasta', 2017, 120, 2.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3141498', 'the nightmare', 2015, 92, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28528526', 'prisons', 2024, 100, 4.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10278448', 'the island of forgiveness', 2022, 86, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4061640', 'traffic', 2014, 110, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt16987436', 'uniki', 2022, 120, 3.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt18310498', 'mars', 2024, 84, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14031960', 'princess principal crown handler chapter 2', 2021, 56, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt19811776', 'dzhuluur masrestling', 2022, 128, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32810101', 'ramsès ii rencontre sur le nil', 2022, 53, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14759678', 'heroes return', 2021, 90, 4.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4736114', 'joana vasconcelos coração independente', 2010, 52, 4.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5354664', 'time raiders', 2016, 124, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3730510', 'puerto ricans in paris', 2015, 82, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7476812', 'one summer afternoon', 2019, 78, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1821689', 'its a great great world', 2011, 100, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14110940', 'photoprem', 2021, 93, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2132301', 'dark power', 2013, 98, 3.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt16152896', 'il nostro eduardo', 2020, 109, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6847636', 'food 30', 2017, 129, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3061100', 'ballet of blood', 2015, 98, 2.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1145430', 'by day and by night', 2010, 90, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1826766', 'my blind uncle', 2010, 101, 2.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14146836', 'tapawingo', 2023, 109, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7589670', 'chalo', 2018, 145, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14239308', 'butterfly knives', 2021, 100, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10515720', 'champagne', 2022, 100, 4.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7588790', 'voyeur', 2017, 95, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1821313', 'a millionaire wanted', 2010, 99, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3578508', 'dramatic escape', 2015, 94, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11998558', 'varisu', 2023, 169, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10985028', 'the end', 2019, 94, 5.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32167216', 'a country called ghana', 2024, 87, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8538552', 'no filter', 2019, 100, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1308112', 'father vs son', 2010, 93, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15482470', 'seire', 2021, 102, 5.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2363516', 'inbetween days', 2012, 58, 7.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3036548', 'reminiscence the beginning', 2014, 100, 3.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5706894', '8 bit generation the commodore wars', 2016, 100, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7527028', 'the tigers nest', 2022, 94, 5.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1543252', 'die superbullen sie kennen keine gnade', 2011, 85, 4.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13914630', 'boys feels high tide', 2021, 93, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt20114686', 'femme', 2023, 99, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt35635466', 'no man standing', 2024, 93, 8.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15432316', 'love reconsidered', 2024, 88, 4.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32523564', 'historia de dos guerreros', 2024, 62, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4615318', 'access all areas', 2017, 94, 4.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14347138', 'the day after quarantine', 2021, 60, 2.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11558600', 'dninang', 2020, 104, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7937168', 'the endless trench', 2019, 147, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9397390', 'australia says yes', 2018, 53, 4.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3909884', 'talk back and youre dead', 2014, 120, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5151570', 'mrs harris goes to paris', 2022, 115, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29101086', 'well shark', 2023, 62, 3.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15338066', 'autoerótica', 2021, 92, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2239078', 'exorcist chronicles', 2013, 88, 2.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5148778', 'cecilia', 2015, 83, 8.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6060874', 'opposite borders', 2020, 73, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27052901', 'naître svetlana staline', 2023, 80, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt16476738', 'the artist', 2021, 59, 8.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2347479', 'pavilion', 2012, 68, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13471672', 'bigfoot down under', 2019, 75, 5.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14708548', 'moms song', 2020, 73, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5157886', 'looking for infinity el camino', 2017, 60, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2514028', 'rosenwald', 2015, 95, 8.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5889372', 'odd squad the movie', 2016, 67, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1863132', '13th sign', 2011, 98, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27301832', 'hipower', 2022, 94, 2.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt30094508', 'sinél', 2024, 72, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5797184', 'escape from pretoria', 2020, 106, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1539325', 'truth about men', 2010, 91, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt31022815', 'corrosive', 2024, 92, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3333920', 'the funeral guest', 2015, 90, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2361509', 'the intern', 2015, 121, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5237742', 'aztech', 2020, 90, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14392056', 'a little more flesh ii', 2021, 97, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4958386', 'love sex kung fu', 2015, 126, 4.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2082475', 'the world according to irving', 2012, 90, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3388280', '4 kings', 2014, 98, 5.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9844322', 'kaamelott first installment', 2021, 120, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4892994', 'saving borshia', 2015, 110, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3547306', 'cut throat city', 2020, 123, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2260720', 'k3 bengeltjes', 2012, 77, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2196005', 'love concord', 2012, 90, 7.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12490740', 'cardboard addicts', 2019, 60, 9.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33079179', 'ruth ellis last woman hanged in great britain', 2020, 52, 8.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1296162', 'leelai', 2012, 145, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27695172', 'the dog who travelled by train', 2023, 93, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5126250', 'the necklace', 2015, 83, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11654504', 'amarjyoti akkamahadevi', 2020, 137, 8.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6470762', 'mazinger z infinity', 2017, 95, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5016750', 'all or nothin', 2024, 95, 7.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5228262', 'a happening of monumental proportions', 2017, 81, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7945450', 'notturno', 2020, 100, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8322828', 'road to the moon', 2018, 96, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15907398', 'the follower', 2022, 94, 4.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt31608720', 'the gospel according to ciretta', 2024, 72, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8329148', 'terra willy', 2019, 89, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt18566454', 'hannu hautala legendan perintö', 2022, 58, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33361390', 'nel nome del padre', 2024, 70, 8.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5189844', 'the churning of kalki', 2015, 79, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11137964', 'damned rites', 2019, 84, 3.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt23142536', 'phd pyar hai drama', 2023, 103, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8338494', 'the curse of willow song', 2020, 90, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2016900', 'fm 1992', 2011, 99, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11654032', 'boonie bears the wild life', 2020, 99, 4.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6053438', 'first reformed', 2017, 113, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1483324', 'at middleton', 2013, 99, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt26256406', 'banel adama', 2023, 87, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13206926', 'joji', 2021, 113, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1291580', 'behind the candelabra', 2013, 118, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4027066', 'terry gilliams benvenuto cellini english national opera', 2014, 180, 8.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1851922', 'femme', 2013, 90, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10815648', 'death will come and shall have your eyes', 2019, 86, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8923506', 'apart', 2021, 86, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3106926', 'triptych', 2013, 90, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10870344', 'night at the hotel', 2019, 71, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5754258', 'tripping through', 2016, 103, 3.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4814354', 'tiny times 40', 2015, 117, 3.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15689900', 'short journeys into the night', 2021, 104, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13887008', 'the year before the war', 2021, 95, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12651768', 'sakebigoe', 2019, 75, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9067644', 'carmelas diary', 2019, 92, 8.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7288846', 'kau takdirku', 2017, 93, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1826813', 'petunia', 2012, 112, 5.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1845872', 'the measure of a man', 2011, 90, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3386560', 'el ciudadano kramer', 2013, 110, 4.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7784920', 'concrete football', 2016, 51, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8260226', 'an impossible love', 2018, 135, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10883704', 'heavy vibes the vince montana retrospect', 2022, 69, 9.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt18548702', 'the house in between 2', 2022, 102, 4.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt34736127', 'el hareefa 2 el remontada', 2024, 130, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9714478', 'harry chapin when in doubt do something', 2020, 93, 7.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21438344', 'afarid', 2022, 80, 3.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1637662', 'the whisper home', 2010, 95, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6103292', 'lock', 2016, 92, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3252020', 'a bridge to a border', 2014, 89, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6044414', 'bad black', 2016, 68, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8653640', 'an ideal husband', 2018, 141, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12849496', 'guardian of the palace', 2020, 90, 4.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt20565812', 'beyond', 2023, 85, 9.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7246408', 'american jedi', 2017, 86, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt31650799', 'i am moon', 2024, 127, 8.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29922811', 'a christmas castle proposal a royal in paradise 2', 2024, 90, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27385233', 'tim mcgraw faith hill country lovin', 2023, 50, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15281062', 'out on a lim', 2022, 97, 5.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2662134', 'par exemple electre', 2012, 80, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7657364', 'gothic harvest', 2018, 82, 3.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2023522', 'hypnosis', 2011, 100, 3.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3958918', 'the war within', 2014, 92, 4.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6789018', 'cícero impune', 2017, 60, 4.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7916914', 'through our eyes', 2018, 70, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13623798', 'bloom', 2020, 90, 7.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10648648', 'extraordinary the seeding', 2019, 105, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5298892', 'bye felicia', 2015, 70, 4.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5949226', 'into the valli', 2018, 76, 8.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13399862', 'african kungfu nazis', 2019, 84, 3.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10649754', 'the local traveler in thailand', 2019, 78, 8.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11642302', 'cats_the_mewvie', 2020, 90, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4697722', 'the last responders life after death', 2019, 99, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9826668', 'the mysterious note', 2019, 87, 4.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5493172', 'flower and sword', 2017, 127, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29475628', 'nunta pe ban', 2023, 96, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6542108', 'patrick the pug', 2018, 94, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27989113', 'like winds like weeds', 2023, 109, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3225250', 'the trail of dracula', 2017, 85, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt20395798', 'sorcery', 2023, 100, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt19858184', 'the presidents wife', 2023, 92, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1909288', 'brødre i krig', 2010, 55, 8.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29387950', 'seven days to remember', 2018, 54, 7.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9724710', 'jurassic road', 2019, 119, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6007046', 'señora haidi', 2017, 85, 5.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15662700', 'a bit of light', 2022, 98, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt19246754', 'bulan di atas kuburan', 2015, 120, 8.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6904994', 'demon box', 2017, 87, 5.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10112154', 'bau na vichaar', 2019, 151, 8.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2234328', 'siyaah', 2012, 97, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14772014', 'he went that way', 2023, 95, 5.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3899932', 'call me lucky', 2015, 106, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14631466', 'bröllop begravning och dop filmen', 2021, 108, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21378166', 'zamal paradise les voies du seigneur sont absurdes', 2021, 146, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6260092', 'lily', 2016, 93, 5.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt18115780', 'the portrait', 2023, 86, 4.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10989240', 'night drive', 2019, 82, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1746581', 'casting blossoms to the sky', 2012, 160, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2939450', 'tromas dead inside', 2016, 87, 4.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28674126', 'diletantti', 2023, 57, 8.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt23133128', 'the northeast winds', 2022, 94, 8.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9743544', 'the wedding present something left behind', 2018, 87, 9.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt24177444', 'camino', 2023, 104, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2070612', 'bahadur the accidental brave', 2011, 54, 5.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2011304', 'the lower angels', 2014, 95, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27755920', 'over the red river', 2024, 83, 3.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9755660', 'a hairy tale', 2019, 102, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9167718', 'people in landscape', 2020, 105, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5175604', 'the dead end', 2016, 86, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8962518', 'tell me softly', 2018, 90, 4.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1808208', 'how to get rid of cellulite', 2011, 106, 4.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3037588', 'my senior year', 2020, 85, 3.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21193010', 'the hammer', 2023, 85, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2781254', 'a darker fifty shades the fetish set', 2015, 82, 2.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1856109', 'where soldiers come from', 2011, 92, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14817272', 'the weekend away', 2022, 89, 5.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5302918', 'nyad', 2023, 121, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2750834', 'dont expect praises', 2012, 108, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt34525380', 'boss maam', 2024, 67, 4.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5873100', 'created equal', 2017, 91, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29330191', 'a boy who dreamt of electricity', 2024, 74, 9.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1967579', 'rasta a souls journey', 2013, 90, 7.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9828918', 'iamhere', 2019, 97, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4602818', 'köpek', 2015, 94, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6222936', 'breaking point', 2016, 107, 7.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2024542', 'trashology', 2012, 84, 4.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2852500', 'the bigfoot project', 2017, 82, 4.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4423066', 'hot sugars cold world', 2015, 87, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8253812', 'ville neuve', 2018, 76, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10915928', 'like a prayer a documentary film', 2019, 119, 9.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13105340', 'the master plan', 2020, 90, 4.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt0470936', 'hot country cold winter', 2016, 104, 4.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27719343', 'life of haeoak', 2021, 97, 8.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10054940', 'arbëria', 2019, 80, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1964589', 'chamaco', 2010, 90, 5.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6268302', 'dushman a story of the enemy within', 2017, 143, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9318514', 'reason', 2018, 218, 8.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7472352', 'shirkers', 2018, 97, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27685218', 'yugodrom', 2024, 84, 4.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3132990', 'esperienza', 2013, 81, 5.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2926582', 'the scampi trail', 2013, 76, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32278087', 'roméo et juliette à lopéra bastille', 2024, 171, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7961558', 'the pillar of salt', 2018, 71, 5.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt18277526', 'intentional crime', 2022, 63, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt22855716', 'er flog voraus', 2022, 73, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2350768', 'from baghdad to brooklyn', 2015, 82, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7384402', 'this is not a war story', 2021, 112, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12905998', 'kicksudden death', 2015, 74, 8.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2369317', 'space station 76', 2014, 93, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21310658', 'mount hideaway mysteries heartache and homecoming', 2022, 125, 5.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6278862', 'blood dynasty', 2017, 70, 2.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt31015391', 'arcadia', 2024, 99, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21249808', 'jack mimoun and the secrets of val verde', 2022, 104, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2195951', 'house of sin', 2011, 80, 3.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4184494', 'my life in china', 2014, 81, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5903870', 'presidents day', 2016, 90, 5.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5923904', 'luther the life and legacy of the german reformer', 2017, 91, 8.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10689606', 'spaceboy', 2021, 100, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6326642', 'the stone eater', 2018, 109, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4985108', 'a summer day your voice', 2015, 94, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt22171884', 'loupetoo', 2022, 90, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13034338', 'aasha encounter', 2022, 83, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3353850', 'pandavulu pandavulu thummeda', 2014, 156, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1987681', 'waking', 2013, 95, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33022354', 'the bearded mermaid', 2024, 95, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9638084', 'national theatre live small island', 2019, 210, 8.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11655968', 'the unbelievable plight of mrs wright', 2019, 80, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt0940656', 'arthur 3 the war of the two worlds', 2010, 101, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt26657133', 'abnabat', 2022, 82, 3.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13097932', 'one life', 2023, 109, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10912532', 'my santa', 2019, 153, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1626135', 'balls to the wall', 2011, 85, 3.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9340750', 'a szovjet levelezõpajtás', 2011, 54, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3410342', 'elevation change', 2017, 84, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5712058', 'premam', 2016, 157, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7188250', 'miss yaya', 2018, 79, 2.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12872302', 'tua', 2020, 52, 8.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5801522', 'into the outbreak', 2017, 83, 2.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8910206', 'whatever we want', 2019, 84, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4990654', 'artoffline', 2015, 60, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33050022', 'the extraterrestrial species almanac', 2024, 100, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt16762816', 'travel from moscow to kostroma on the ship knyazhna victoria', 2021, 45, 9.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1590020', 'eddie meduza the movie', 2010, 74, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1814830', 'piercing i', 2010, 103, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt30474564', 'onona', 2024, 93, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3477480', 'only you', 2014, 105, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11464118', 'kovala', 2021, 122, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4799064', 'mindhorn', 2016, 89, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3830598', 'wacken', 2014, 95, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3647164', 'agave is life', 2014, 59, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3309672', 'and still i sing', 2022, 90, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27191613', 'buio come il cuore', 2024, 101, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10334302', 'loss wont pay the bills', 2018, 64, 7.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3262436', 'skorecki devient producteur', 2013, 94, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt16969006', 'along came love', 2023, 125, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11451996', 'new money the greatest wealth creation event in history', 2019, 72, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1924348', 'pólvora negra', 2011, 87, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4155278', 'apocalypse canoe', 2014, 90, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4103474', 'dream driven', 2014, 96, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6043124', 'lost in the moonlight', 2016, 80, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27828488', 'biznes porusski', 2022, 76, 1.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8753702', 'pangea', 2019, 59, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12033834', 'azoren 3d auf den spuren von entdeckern walen vulkanen', 2012, 150, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3777912', 'colin hay waiting for my real life', 2015, 84, 7.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7683896', 'the blizzard', 2018, 96, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3308358', 'wished', 2017, 110, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2450026', 'face', 2012, 75, 4.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8531398', 'next door', 2020, 83, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6820324', 'timmy failure mistakes were made', 2020, 99, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14552532', 'looking for horses', 2021, 88, 7.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2837296', 'second coming', 2014, 105, 5.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1653647', '442 live with honor die with dignity', 2010, 98, 8.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1255953', 'incendies', 2010, 131, 8.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33774039', 'gaza since october 7', 2024, 94, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4862984', 'hayati mebahdelah', 2015, 98, 3.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2308585', 'cuchillos en el cielo', 2013, 88, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10535522', 'on sacred ground', 2023, 86, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3839870', 'break the stage', 2020, 93, 8.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2330910', 'bloodbath in creightonville', 2012, 87, 3.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10687168', 'no7 cherry lane', 2019, 125, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5692616', 'the very last morning', 2016, 95, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8473626', 'tell me love is real', 2016, 74, 9.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3837842', 'birds like us', 2017, 84, 4.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9535160', 'green flake', 2020, 105, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3639344', 'onnum mindathe', 2014, 146, 5.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6456326', 'monsters of man', 2020, 131, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4217392', 'kung fu yoga', 2017, 107, 5.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5159580', 'miracle man', 2013, 90, 3.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9217296', 'donnys bar mitzvah', 2021, 79, 5.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3579672', 'blockadia rising voices of the tar sands blockade', 2013, 53, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt37247520', 'the distortion', 2023, 74, 7.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt34222030', 'banana boat', 2024, 78, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1677637', 'the auctioneers', 2010, 89, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9818048', 'decoding shankar', 2018, 52, 3.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4791844', 'blood on méliès moon', 2016, 125, 5.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15076688', 'alien intervention', 2023, 103, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6260276', 'tisay', 2016, 103, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1753599', 'club zeus', 2011, 75, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt35046942', 'andy murray game set match', 2024, 45, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6056072', 'kalebegiak', 2016, 116, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33265363', 'van gogh poets lovers', 2024, 90, 7.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15502716', 'richie gadi pelli', 2023, 114, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3596284', 'go forth', 2014, 64, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3755362', 'rendezvous', 2015, 100, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9232092', 'birds of the lakes return', 2018, 54, 8.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1913030', 'god save my shoes', 2011, 60, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6802204', 'summer dew', 2020, 99, 4.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13021072', 'forbidden fruit second bite', 2021, 75, 2.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15225614', 'hangdog', 2023, 91, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11291000', 'desert of no return', 2017, 106, 5.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2338138', 'believe again', 2013, 85, 3.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2945642', 'the god of ramen', 2013, 90, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3602128', 'night of the living deb', 2015, 85, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1376195', 'gunless', 2010, 89, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13979434', 'shathaya gathaya', 2018, 114, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6123920', 'eyeless in gaza', 2016, 51, 8.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2815294', 'uncharted waters', 2013, 89, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt26344944', 'full circle', 2023, 105, 9.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1562910', 'ayahuasca vine of the soul', 2010, 52, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt18115994', 'dying to be famous', 2024, 85, 4.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27012110', 'gaslight', 2023, 111, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10500352', 'wretches', 2018, 103, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3574434', 'suenos de gloria', 2013, 104, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2392634', 'i am breathing', 2013, 72, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4021084', 'this summer feeling', 2015, 106, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1646214', 'love in disguise', 2010, 98, 5.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32908732', 'acting', 2024, 145, 8.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14622542', 'doula', 2022, 105, 4.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt31831104', 'the typewriter and other headaches', 2024, 72, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt16279390', 'dos estaciones', 2022, 99, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7063376', 'lapwing', 2021, 89, 5.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11131032', 'league of legends origins', 2019, 77, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6339230', 'their killer affair', 2017, 87, 3.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7267616', 'edge of the world', 2018, 83, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4029868', 'placebo', 2014, 96, 7.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4000768', 'the art dealer', 2015, 93, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10225288', 'to live to sing', 2019, 105, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9766294', 'fauji calling', 2021, 134, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2104908', 'the world is funny', 2012, 122, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10011412', 'you dont nomi', 2019, 92, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21200960', 'yahoo', 2022, 85, 3.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2140671', 'wither', 2012, 95, 5.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13721354', 'joão de deus o silêncio é uma prece', 2018, 83, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1313244', 'hypothermia', 2010, 73, 4.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13061978', 'bakerz union', 2020, 98, 5.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6402728', 'naa panta kano', 2017, 128, 4.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2190463', 'transcendendo lynch', 2011, 83, 4.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13890834', 'rattlesnake the ahanna story', 2020, 135, 5.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3242418', 'being 14', 2015, 86, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4396648', 'time out', 2015, 98, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4038966', 'my love my bride', 2014, 111, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7028460', 'three and a half', 2018, 121, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6022946', 'great great great', 2017, 80, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10375044', 'sidharthan enna njan', 2019, 122, 3.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2211045', 'the fanatic search 2 a girl thing', 2011, 90, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3212392', 'actress', 2014, 86, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3311862', 'fragmented', 2014, 90, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6170432', 'the league of legend keepers shadows', 2019, 72, 3.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6443706', 'víctimas de tangalanga', 2016, 93, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt34290088', 'conjuring curse', 2023, 106, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8281176', 'the tiny house movie', 2019, 80, 8.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4111956', 'a world away', 2019, 72, 3.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10017454', 'the purple mist', 2019, 106, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt31869446', 'vishesham', 2024, 136, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12463926', 'que os olhos ruins não te enxerguem', 2019, 76, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2101405', 'new prime', 2011, 60, 8.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9436970', 'suede the insatiable ones', 2018, 113, 7.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11766262', 'corona', 2020, 73, 3.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt16974912', 'varma veedu teda', 2022, 120, 7.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt16227726', 'dark shadows and beyond the jonathan frid story', 2021, 102, 8.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt31350080', 'april', 2024, 134, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13743934', 'the kobe bryant documentary life lessons', 2020, 86, 9.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2614816', 'leave to remain', 2013, 89, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2055588', 'open mics', 2011, 83, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2786328', 'the circle', 2013, 48, 7.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2369196', 'broken glass', 2013, 96, 8.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15719636', 'from paseo to pembroke kansas citys golden era', 2021, 94, 9.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7829490', 'exhibition on screen cézanne portraits of a life', 2018, 87, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7313888', 'tátova volha', 2018, 90, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2338231', 'first condition', 2011, 89, 2.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6412904', 'milestones 23', 2011, 110, 5.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3899602', 'the miseducation of joy', 2016, 108, 5.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5584140', 'once upon a time indianerland', 2017, 97, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6294822', 'the post', 2017, 116, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8707850', 'skagit', 2021, 97, 3.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6951870', 'drowning', 2020, 85, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6730970', '212 warrior', 2018, 123, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4009466', 'of sound mind', 2015, 90, 9.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1523291', 'hana surf girls', 2010, 84, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1562849', 'division iii footballs finest', 2011, 98, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8223300', 'kolya kak zerkalo russkoy revolyutsii', 2018, 52, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6779286', 'what is true love', 2015, 74, 7.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1548021', 'swine', 2012, 90, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12491064', 'intruder', 2020, 102, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5425570', 'ka ka ka po', 2016, 130, 4.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27536413', 'the three little proletariat pigs', 2023, 84, 9.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1735996', 'i think its raining', 2011, 92, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1545021', 'bear nation', 2010, 82, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33098130', 'where the robots grow', 2024, 88, 2.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5811154', 'forsaken', 2017, 86, 4.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt26768685', 'rabb da radio 3', 2024, 122, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2731436', 'imminent threat', 2015, 73, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8944070', 'creature from cannibal creek', 2019, 80, 2.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11183680', 'cumar a galway rhapsody', 2019, 72, 8.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5890674', 'ang bagong pamilya ni ponching', 2016, 98, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2101441', 'spring breakers', 2012, 94, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1820402', 'bomb squad', 2011, 83, 3.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13924672', 'apache junction', 2021, 94, 3.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12099938', 'money fight', 2021, 111, 4.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt24509990', 'the hatchet wielding hitchhiker', 2023, 85, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1860181', 'blacks game', 2012, 104, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1681370', 'the algerian', 2014, 99, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8169290', 'kande', 2018, 117, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13465008', 'krishnankutty pani thudangi', 2021, 98, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3261912', 'pattam pole', 2013, 122, 5.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt34540212', 'look up the science of cultural evolution', 2024, 171, 8.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13616400', 'just swipe', 2021, 83, 3.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2198243', 'the owner', 2012, 94, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7966586', 'kapalak kizi', 2018, 94, 2.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt30832543', 'kagojer bou', 2024, 112, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1718765', 'detroit unleaded', 2012, 93, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9826484', 'trinity seven the movie 2 heavens library crimson lord', 2019, 63, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1691926', 'nice guy', 2012, 89, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5784708', 'for they know not what they do', 2019, 91, 7.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2321502', 'uncanny', 2015, 85, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1972571', 'a most wanted man', 2014, 122, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2040597', 'wilding', 2011, 78, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27661174', 'check please', 2024, 82, 8.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1821561', 'eighty letters', 2011, 75, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21871754', 'all i want for christmas', 2022, 86, 5.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1576402', 'inuk', 2010, 90, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8086090', 'the night of saint antony', 2018, 70, 7.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3007826', 'bloody doll', 2014, 90, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7065722', 'cross mountain', 2023, 71, 9.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13039008', 'kill shot', 2023, 93, 3.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8077180', 'put to the things', 2017, 100, 5.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5218852', 'paul wears dresses', 2014, 45, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9657916', 'out in the ring', 2022, 105, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12749460', 'honor among thieves', 2021, 81, 4.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt19849514', 'toxic', 2022, 108, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3204632', 'like me', 2017, 80, 5.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8016262', 'bharjari', 2017, 157, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2644202', 'vallinam', 2014, 132, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1433811', 'disconnect', 2012, 115, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5637212', 'christmas apparition', 2018, 72, 4.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6846530', 'national theatre live whos afraid of virginia woolf', 2017, 198, 8.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2614700', 'keeping rosy', 2014, 89, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2165236', 'turning tide', 2013, 101, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11589646', 'quiet murders', 2020, 99, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7491990', 'fort maria', 2018, 88, 9.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5790592', 'through the valleys', 2016, 47, 8.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9850492', 'babi yar context', 2021, 121, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28946047', 'chalaak', 2023, 88, 3.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2130282', 'these birds walk', 2012, 71, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14953706', 'always lola', 2022, 87, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3338516', 'musica maestros', 2014, 73, 8.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7513016', 'splinters', 2018, 94, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33111846', 'pipe dream', 2024, 49, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt0837562', 'hotel transylvania', 2012, 91, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt26440747', 'sira', 2023, 122, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9043760', 'badnaam', 2020, 119, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6767852', 'tortured for christ', 2018, 77, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2393512', 'jalan kembali bohsia 2', 2012, 97, 3.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32408442', 'mahal ko ang mahal mo', 2024, 48, 4.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7435360', 'kissaton virne', 2017, 81, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1484522', '8 the mormon proposition', 2010, 80, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13624424', 'the joe the detroit red wings joe louis arena', 2018, 71, 8.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4173442', 'the curtain rises', 2015, 119, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1510936', 'the deposition', 2012, 85, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4373884', 'siska deluxe', 2015, 108, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1744662', 'the mayor', 2011, 68, 8.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt30328017', 'momonsters la película', 2023, 70, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14788096', 'veganise me', 2021, 56, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1876443', 'siberia teaches a transsiberian rail trip story', 2011, 60, 8.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2254099', 'she male snails', 2012, 75, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4443838', 'weepah way for now', 2015, 89, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1959409', 'imaginaerum', 2012, 86, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15210256', 'stephen curry underrated', 2023, 110, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9747396', 'mi amigo alexis', 2019, 100, 5.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11542902', 'why bridges collapse', 2019, 53, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5030532', 'chronicles of the living dead', 2015, 65, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3210830', 'men are from mars and thats where im going', 2014, 108, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8991236', 'catnip nation', 2019, 82, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11426228', 'spirit halloween', 2022, 87, 4.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1583753', 'the comedian at the friday', 2010, 93, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11664272', 'oeconomia', 2020, 89, 7.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1674246', 'marathon boy', 2010, 98, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1896753', 'hanezu', 2011, 91, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4038478', 'ayahuasca natures greatest gift', 2014, 65, 9.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt25147606', 'my teacher', 2022, 114, 4.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6135050', 'snow woman', 2016, 95, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11101688', 'about cannabis and cancer', 2019, 80, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9359866', 'pink hill', 2019, 75, 4.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt16411110', 'aki and pawpaw', 2021, 133, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9218782', 'hollywood fringe', 2020, 90, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2589070', 'obsessive rhythms', 2013, 96, 4.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4374482', 'we were rebels', 2014, 93, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10137106', 'brothers in arms', 2019, 60, 8.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8713190', 'ditte louise', 2018, 103, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14156980', 'más allá de las estrellas fotografiando un agujero negro', 2020, 87, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10245450', 'a chefs voyage', 2020, 90, 7.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5033360', 'ninas children', 2015, 70, 8.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6406848', 'dublin oldschool', 2018, 95, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4866768', 'out of the shadows', 2017, 88, 3.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt19035132', 'sikat subar', 2024, 94, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2671776', 'fc de kampioenen kampioen zijn blijft plezant', 2013, 120, 5.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3399888', 'past tense', 2019, 91, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1979379', 'turning point', 2011, 75, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1555156', 'the vigilante', 2010, 88, 2.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt26984916', 'a coldhearted christmas', 2023, 72, 4.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15891234', 'aaro', 2024, 120, 4.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32490826', 'haunted universities 3', 2024, 119, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8905222', 'mortos famintos', 2018, 100, 5.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1937506', 'the philly kid', 2012, 90, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2827856', 'daisys', 2013, 105, 9.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2866360', 'coherence', 2013, 89, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10300662', 'kidnap', 2019, 130, 5.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2094114', 'sharing an island', 2012, 100, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2355961', 'waterwalk', 2012, 121, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8236398', 'in search of greatness', 2018, 77, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12335692', 'last man down', 2021, 87, 3.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6447856', 'this is me', 2015, 90, 5.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3078752', 'story of eva', 2015, 95, 2.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8450662', 'beloved', 2018, 66, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1612782', 'the butterfly room', 2012, 87, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3686878', 'the sins of dracula', 2014, 81, 4.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4032470', 'libres', 2015, 105, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6193538', 'transparent', 2017, 87, 9.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1386697', 'suicide squad', 2016, 123, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9789686', 'the blonde one', 2019, 108, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5542460', 'mapla singam', 2016, 131, 4.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8515442', 'ibot', 2018, 62, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1667093', 'im caravaggio', 2010, 92, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27848228', 'hilom', 2023, 119, 4.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2285579', 'the blindfold', 2012, 90, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6351308', 'sketches of lou', 2016, 82, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1826603', 'asmaa', 2011, 96, 8.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10101246', 'ok está bien', 2020, 91, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6014796', 'if the dancer dances', 2018, 83, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11116134', 'the merry wives of windsor live from shakespeares globe', 2019, 155, 7.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt30524107', 'palipatlipat papalitpalit', 2024, 90, 5.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9763402', 'the misadventures of mistress maneater', 2020, 111, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10883272', 'hayya the power of love 2', 2019, 101, 4.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21962812', 'lenfant du paradis', 2022, 72, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6363190', 'the invisible word', 2017, 52, 7.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32605594', 'christine', 2023, 111, 2.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt30504835', 'the reunion', 2024, 90, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5698764', 'les vaillants', 2015, 79, 8.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5052792', 'la chiperita', 2015, 65, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5073642', 'color out of space', 2019, 111, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33499034', 'the flight of bryan', 2024, 99, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6117702', 'munna michael', 2017, 140, 3.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5544018', 'adrian street story you may be pretty but i am beautiful', 2019, 72, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7323460', 'cidades fantasmas', 2017, 71, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1560747', 'the master', 2012, 138, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2054801', 'peak', 2011, 86, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7137782', 'punk in bonn der film', 2012, 115, 8.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6235774', 'murderer on a white horse', 2016, 60, 4.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21284358', 'close your eyes', 2023, 169, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2408026', 'soongava dance of the orchids', 2012, 85, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7605228', 'jibam', 2017, 99, 8.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15181312', 'benim kocam yapmaz', 2021, 105, 4.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt31394147', 'criature', 2024, 101, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13589914', 'space beyond', 2020, 82, 9.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5987042', 'the devils well', 2018, 88, 4.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3632346', 'the great american wheat harvest', 2014, 65, 7.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4438848', 'neighbors 2 sorority rising', 2016, 92, 5.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9314934', 'jacob', 2019, 46, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt0892791', 'shrek forever after', 2010, 93, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5952468', 'the bside', 2016, 76, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt30430004', 'kudumba sthreeyum kunjadum', 2024, 150, 2.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2597892', 'viral', 2016, 85, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1753786', 'mercury plains', 2016, 102, 4.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2782754', 'allende en su laberinto', 2014, 90, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1606259', 'knuckle', 2011, 97, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8426828', 'haunted transylvania 2', 2018, 71, 2.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5305452', 'voyageuse', 2018, 106, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5246772', 'the drowned dreams', 2015, 54, 7.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3317242', 'the distance between us', 2014, 117, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27047448', 'til death do us part', 2023, 111, 3.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12510868', 'the melt goes on forever the art times of david hammons', 2022, 101, 7.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7317294', 'had thai gai', 2017, 130, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2924442', 'the pact ii', 2014, 96, 4.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt31624522', 'grand me', 2024, 78, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5792652', 'alpzyt', 2016, 105, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33303798', 'zurawski v texas', 2024, 98, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6447602', 'ghost hospital', 2016, 118, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14216596', 'teach me if you can', 2020, 90, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11827072', 'fire on the marmara', 2011, 69, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6338506', 'welcome to hell', 2018, 93, 2.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2649286', 'gay gardens happy gardens', 2013, 90, 4.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32123826', 'vares x', 2024, 85, 3.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt25431196', 'dog', 2024, 45, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8417724', 'baptism of fire', 2020, 86, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4934780', 'where do we go from here', 2015, 82, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1995494', 'would you have sex with an arab', 2011, 85, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14257662', 'moviepass moviecrash', 2024, 96, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14922926', 'all na vibes', 2021, 80, 4.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1276104', 'looper', 2012, 119, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4519680', 'jadoogadu', 2015, 151, 4.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10551562', 'mother fortress', 2018, 78, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1719676', 'vamps', 2010, 89, 4.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13866660', 'the business womens club', 2024, 95, 4.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt34905464', 'aajoor', 2024, 124, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12944128', 'holeinlaw', 2020, 95, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1991191', 'surviving family', 2012, 87, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2521938', 'les éléphants', 2013, 87, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10544750', 'smith', 2020, 117, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4176928', 'the cliff', 2016, 99, 5.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28037451', 'ikai dek wat chedi', 2023, 114, 5.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1801047', 'dead herring', 2012, 86, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28100574', 'love lust other things', 2023, 107, 8.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4047112', 'jeeva', 2014, 127, 8.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11799764', 'merindu cahaya de amstel', 2022, 107, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5357790', 'without you', 2018, 82, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2752736', 'the stream', 2013, 82, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11316854', 'gabriels inferno part one', 2020, 124, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28517189', 'bauryna salu', 2023, 113, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13690104', 'kanasemba kudureyaneri', 2010, 104, 8.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11394332', 'spree', 2020, 93, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11080442', 'the circle', 2020, 95, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1274273', 'the last seven', 2011, 84, 3.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11891850', 'hard truths', 2024, 97, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9808874', 'back home', 2019, 105, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5674064', 'black bud', 2018, 92, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6780296', 'beary tales', 2013, 51, 8.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5463208', 'next stop utopia', 2015, 91, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12325290', 'bulletproof a lesbians guide to surviving the plot', 2024, 105, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3975604', 'halcyon dreams', 2017, 73, 8.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11821034', 'vibration', 2020, 73, 2.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6036786', 'what comes next is the future', 2016, 62, 8.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5472758', 'happy bhaag jayegi', 2016, 126, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2161980', 'the last step', 2012, 88, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3006840', 'searchdog', 2016, 88, 8.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10793640', 'un film dramatique', 2019, 114, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7789690', 'darkling', 2017, 74, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8562824', 'hosa prem', 2018, 135, 7.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3425034', 'fasten your seatbelts', 2014, 110, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27379625', 'a happy man', 2023, 81, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6961808', 'claire darling', 2018, 94, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3838498', 'the ploy', 2016, 100, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29749930', 'is there something going on at home', 2023, 47, 9.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7354554', 'kolestrol vs cinta', 2017, 96, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32889949', 'when giants walked here', 2024, 57, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4051824', 'jersey devil', 2013, 130, 5.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11261918', 'o pushpa i hate tears', 2020, 127, 4.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1808587', 'the stighelmer story', 2011, 100, 4.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1433343', 'the eves', 2012, 85, 4.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4019186', 'the ceremony', 2013, 85, 8.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12683912', 'amber region kaliningrad', 2020, 45, 9.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15554962', 'cafè storia di una ribalta napoletana', 2023, 83, 9.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7994070', 'crayon shinchan burst serving kung fu boys ramen rebellion', 2018, 104, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14598224', 'audition found footage film', 2021, 84, 4.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt31015291', 'langue étrangère', 2024, 101, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10618968', 'outlaw posse', 2024, 108, 4.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9671526', 'bring me the head of carmen m', 2019, 61, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1858524', 'rhymes with banana', 2012, 99, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7487342', 'the road ahead', 2021, 90, 5.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8238312', 'mithun', 2018, 133, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33098099', 'divino tesoro', 2024, 81, 5.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32059246', 'the here now project', 2024, 75, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt26928959', 'green superheroes 2030', 2024, 80, 8.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3512976', 'hustlers', 2014, 105, 7.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4708936', 'where we go from here', 2014, 53, 8.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1854531', 'finnigans war', 2013, 54, 9.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9450078', 'new men', 2019, 48, 9.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13053884', 'dream in silence', 2020, 75, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6021078', 'the everglades', 2015, 50, 8.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6449996', 'love you for loving me', 2013, 97, 4.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3037906', 'euromania', 2014, 56, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3292124', 'ne povezlo', 2013, 47, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5547924', 'algojo', 2016, 94, 2.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1543701', 'street days', 2010, 89, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9370136', 'il triciclo', 2018, 70, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3605266', 'everything beautiful is far away', 2017, 91, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11761300', 'slacker', 2011, 80, 3.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4902266', 'reborn', 2018, 99, 4.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt16058566', 'ooriki uttharana', 2021, 122, 3.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29202771', 'the rev', 2023, 93, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2777190', 'til morning', 2013, 57, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2007936', 'correspondence jonas mekas jl guerin', 2011, 90, 7.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt30429449', 'case of kondana', 2024, 143, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12472554', 'mahaan', 2022, 163, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2095591', 'capricorn dreams', 2011, 81, 2.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10504752', 'janamaithri', 2019, 122, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3969990', 'a casa de cecília', 2015, 102, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2589152', 'los días no vividos', 2012, 120, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt35396881', 'stabbed in the face the rise and fall of the worlds most violent band', 2023, 90, 9.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21983580', 'rahasya', 2022, 120, 7.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3576546', 'trans x istanbul', 2014, 110, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2133343', 'the last phone booth', 2011, 90, 8.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7592594', 'max steel team turbo', 2016, 45, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3327994', 'human', 2015, 190, 8.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1524164', 'cherries and clover', 2011, 81, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3824412', 'results', 2015, 105, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1656168', 'amici miei come tutto ebbe inizio', 2011, 108, 3.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13242960', 'middle class melodies', 2020, 135, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7051048', 'fugue', 2018, 102, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2390436', 'die vierte gewalt', 2012, 91, 7.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9408518', 'asian threefold mirror 2018 journey', 2018, 83, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1678054', 'underwater love', 2011, 87, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8015338', 'and now love', 2019, 86, 7.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3451716', 'ritu', 2014, 129, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4666748', 'erodditys 2', 2015, 94, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8059382', 'robbery', 2018, 93, 4.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4179400', 'love letters from the war', 2014, 60, 4.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28701123', 'chama a bebel', 2023, 90, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6845800', 'supermen world war', 2019, 63, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3868150', 'jack to a king the swansea story', 2014, 98, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5266668', 'rogue warfare', 2019, 103, 3.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6032704', 'apparition', 2019, 83, 3.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1866968', 'gazastrophe palestine', 2010, 95, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt22180542', 'stéphane', 2023, 78, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1718720', 'all that glitters', 2010, 90, 8.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt37431001', 'banana shotgun', 2024, 106, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8268302', 'i work at the cemetery', 2021, 100, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32576660', 'mrs robinson', 2024, 94, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8726174', 'siguiente round', 2018, 82, 8.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5752458', 'hai apna dil toh awara', 2016, 120, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt23785676', 'un día cualquiera', 2024, 90, 4.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13040906', 'askim bahardi', 2021, 94, 4.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27590377', 'how to break a world record', 2024, 84, 8.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5019884', 'the monk and the demon', 2016, 114, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4338866', 'karungali', 2011, 152, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8710194', 'ishq my religion', 2019, 155, 7.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt0451154', 'the passing', 2011, 92, 3.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27543992', 'the gullspång miracle', 2023, 108, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3456494', 'fc rwanda', 2013, 57, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2326075', 'waiting for butterflies', 2015, 119, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14780728', 'salvador', 2021, 87, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13932410', 'fours a crowd', 2022, 99, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15881964', 'liberland', 2021, 52, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9383658', 'insite', 2022, 110, 2.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1546649', 'book girl', 2010, 101, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10964866', 'the matchstick flame 2 lunada bay', 2023, 89, 4.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3559164', 'our life in make believe', 2014, 95, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1602620', 'amour', 2012, 127, 7.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1975869', 'decalogue', 2011, 91, 8.1);
+                VALUES ('tt0479997', 'season of the witch', 2011, 95, 5.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
                 VALUES ('tt0480255', 'the losers', 2010, 97, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32478725', 'tatabojsdoc', 2024, 94, 7.6);
+                VALUES ('tt0480687', 'hall pass', 2011, 105, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2389092', 'souvenir', 2014, 86, 6.7);
+                VALUES ('tt0481499', 'the croods', 2013, 98, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15731054', 'love marriage', 2023, 127, 6.2);
+                VALUES ('tt0485985', 'red tails', 2012, 125, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7690878', 'last stop coney island the life and photography of harold feinstein', 2018, 88, 7.6);
+                VALUES ('tt0490215', 'silence', 2016, 161, 7.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32551579', 'cherub', 2024, 74, 7.0);
+                VALUES ('tt0491152', 'something borrowed', 2011, 112, 5.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13982338', 'silence and sunset', 2020, 136, 6.1);
+                VALUES ('tt0491175', 'suburbicon', 2017, 105, 5.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12047822', 'remnants', 2020, 90, 5.8);
+                VALUES ('tt0493405', 'chips', 2017, 100, 6.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt19767550', 'on the line the richard williams story', 2022, 93, 7.5);
+                VALUES ('tt0498381', 'rings', 2017, 102, 4.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt24217762', 'sneg sestra i rosomakha', 2023, 79, 6.0);
+                VALUES ('tt0499097', 'without remorse', 2021, 109, 5.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1943869', 'was weg is is weg', 2012, 84, 6.1);
+                VALUES ('tt0758752', 'love other drugs', 2010, 112, 6.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11274100', 'archenemy', 2020, 90, 5.0);
+                VALUES ('tt0763831', 'a thousand words', 2012, 91, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28444644', 'dont break me', 2023, 94, 4.9);
+                VALUES ('tt0770703', 'whats your number', 2011, 106, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1823126', 'almayers folly', 2012, 116, 6.2);
+                VALUES ('tt0770802', 'samsara', 2011, 102, 8.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15067124', 'the candidate', 2021, 110, 6.6);
+                VALUES ('tt0770828', 'man of steel', 2013, 143, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15341464', 'kalkokkho', 2021, 125, 8.0);
+                VALUES ('tt0775440', 'cell', 2016, 98, 4.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6904062', 'real', 2017, 137, 4.6);
+                VALUES ('tt0775489', 'the illusionist', 2010, 80, 7.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32424246', 'icónica chamorro', 2023, 60, 8.0);
+                VALUES ('tt0780504', 'drive', 2011, 100, 7.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt20420938', 'dharani mandala madhyadolage', 2022, 149, 6.1);
+                VALUES ('tt0780653', 'the wolfman', 2010, 103, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1808015', 'what a beautiful day', 2011, 97, 6.3);
+                VALUES ('tt0787474', 'the boxtrolls', 2014, 96, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10761694', 'tadap', 2021, 126, 5.1);
+                VALUES ('tt0787524', 'the man who knew infinity', 2015, 108, 7.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3282762', 'as the crow flies', 2016, 83, 8.3);
+                VALUES ('tt0790628', 'the incredible burt wonderstone', 2013, 100, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3766354', 'the equalizer 2', 2018, 121, 6.7);
+                VALUES ('tt0790636', 'dallas buyers club', 2013, 117, 7.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7015712', 'listen to me untold stories beyond hatred', 2016, 75, 9.2);
+                VALUES ('tt0790724', 'jack reacher', 2012, 130, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5130442', '22 chaser', 2018, 86, 5.4);
+                VALUES ('tt0790736', 'ripd', 2013, 96, 5.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2520388', 'time is here', 2010, 75, 6.9);
+                VALUES ('tt0795461', 'scary movie 5', 2013, 86, 3.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2057920', 'it watches', 2016, 79, 3.7);
+                VALUES ('tt0798817', '13', 2010, 91, 6.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1976000', 'the two faces of january', 2014, 96, 6.2);
+                VALUES ('tt0800320', 'clash of the titans', 2010, 106, 5.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13227226', 'the countess and the russian billionaire', 2020, 59, 6.5);
+                VALUES ('tt0800325', 'the dirt', 2019, 107, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27031926', 'chyortov kamen', 2024, 105, 4.0);
+                VALUES ('tt0800369', 'thor', 2011, 115, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6921530', 'il banchiere anarchico', 2018, 82, 6.4);
+                VALUES ('tt0803096', 'warcraft', 2016, 123, 6.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5552976', 'un trabajo y una película', 2019, 98, 6.7);
+                VALUES ('tt0804497', 'its kind of a funny story', 2010, 101, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1141306', 'one life maybe two', 2010, 88, 6.0);
+                VALUES ('tt0805647', 'the witches', 2020, 106, 5.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6953034', 'eurotrump', 2017, 92, 6.7);
+                VALUES ('tt0808510', 'tooth fairy', 2010, 101, 5.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3917254', 'the glorious seven', 2019, 93, 2.7);
+                VALUES ('tt0810819', 'the danish girl', 2015, 119, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1958088', 'what would bear do', 2013, 89, 5.0);
+                VALUES ('tt0810913', 'jack and jill', 2011, 91, 3.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27598854', 'kirkkan', 2023, 121, 6.5);
+                VALUES ('tt0810922', 'take me home tonight', 2011, 97, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2198956', 'coldwater', 2013, 104, 6.4);
+                VALUES ('tt0814255', 'percy jackson the olympians the lightning thief', 2010, 118, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3459090', 'soul of a banquet', 2014, 79, 6.3);
+                VALUES ('tt0815236', 'shes out of my league', 2010, 104, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12981832', 'the chambermaid', 2022, 110, 6.4);
+                VALUES ('tt0816442', 'the book thief', 2013, 131, 7.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3430692', 'gregor', 2014, 73, 8.8);
+                VALUES ('tt0816462', 'conan the barbarian', 2011, 113, 5.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4020692', 'jane and the house of miracles', 2016, 100, 6.4);
+                VALUES ('tt0816692', 'interstellar', 2014, 169, 8.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10572668', 'immortal hero', 2019, 118, 5.6);
+                VALUES ('tt0816711', 'world war z', 2013, 116, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5001718', 'everything everything', 2017, 96, 6.3);
+                VALUES ('tt0817177', 'flipped', 2010, 90, 7.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1961159', 'a good dad', 2011, 88, 5.8);
+                VALUES ('tt0817230', 'valentines day', 2010, 125, 5.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt30004022', 'moroccan badass girl', 2023, 83, 5.7);
+                VALUES ('tt0822847', 'priest', 2011, 87, 5.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3793410', 'n vi vanishing roadsides', 2012, 86, 6.9);
+                VALUES ('tt0829150', 'dracula untold', 2014, 92, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7369988', 'i want the eternal', 2017, 74, 3.3);
+                VALUES ('tt0831387', 'godzilla', 2014, 123, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2338243', 'small market big heart', 2012, 79, 8.0);
+                VALUES ('tt0837562', 'hotel transylvania', 2012, 91, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt26009272', 'daniel richter', 2023, 117, 6.9);
+                VALUES ('tt0837563', 'pet sematary', 2019, 100, 5.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3955672', 'apples from the desert', 2014, 96, 7.2);
+                VALUES ('tt0840361', 'the town', 2010, 125, 7.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4201422', 'hear the silence', 2016, 94, 5.9);
+                VALUES ('tt0842926', 'the kids are all right', 2010, 106, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5914996', 'no game no life zero', 2017, 110, 7.3);
+                VALUES ('tt0848228', 'the avengers', 2012, 143, 8.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3006814', 'paulo coelhos best story', 2014, 112, 5.6);
+                VALUES ('tt0848537', 'epic', 2013, 102, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4477024', 'lars and the baron', 2016, 97, 5.9);
+                VALUES ('tt0864835', 'mr peabody sherman', 2014, 92, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2927724', 'the adventures of ano vano', 2011, 105, 6.7);
+                VALUES ('tt0870154', 'jungle cruise', 2021, 127, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3857092', 'volumes of blood', 2015, 96, 4.4);
+                VALUES ('tt0873886', 'red state', 2011, 88, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt31834725', 'my wife my abuser the secret footage', 2024, 55, 7.1);
+                VALUES ('tt0879870', 'eat pray love', 2010, 133, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10360602', 'cat stories', 2019, 73, 5.7);
+                VALUES ('tt0881320', 'sanctum', 2011, 108, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3308620', 'perfect feet', 2019, 101, 6.7);
+                VALUES ('tt0882977', 'snitch', 2013, 112, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13707024', 'cachita la esclavitud borrada', 2020, 70, 5.5);
+                VALUES ('tt0884732', 'the wedding ringer', 2015, 101, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4615280', 'zk3', 2013, 75, 4.2);
+                VALUES ('tt0887261', 'hellraiser', 2022, 121, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28116590', 'unnatural causes', 2023, 129, 5.1);
+                VALUES ('tt0889573', 'the switch', 2010, 101, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1838463', 'being azem', 2010, 87, 8.8);
+                VALUES ('tt0892318', 'letters to juliet', 2010, 105, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7650258', 'queen of the beach', 2019, 105, 9.1);
+                VALUES ('tt0892769', 'how to train your dragon', 2010, 98, 8.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3462926', 'obscure pleasures a portrait of walerian borowczyk', 2013, 75, 6.9);
+                VALUES ('tt0892791', 'shrek forever after', 2010, 93, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15132028', 'private desert', 2021, 121, 7.0);
+                VALUES ('tt0896872', 'the whistleblower', 2010, 112, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2075109', 'bangin vengeance', 2011, 80, 4.4);
+                VALUES ('tt0900387', 'suite française', 2014, 107, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt20253856', 'the hit an investigative documentary', 2022, 83, 4.3);
+                VALUES ('tt0903624', 'the hobbit an unexpected journey', 2012, 169, 7.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1833846', 'eating out the open weekend', 2011, 82, 5.4);
+                VALUES ('tt0903657', 'love mercy', 2014, 121, 7.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13175672', 'siliconn city', 2017, 126, 9.4);
+                VALUES ('tt0905372', 'the thing', 2011, 103, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4265878', 'dora or the sexual neuroses of our parents', 2015, 88, 6.2);
+                VALUES ('tt0914863', 'unthinkable', 2010, 97, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4935746', 'the darkness', 2016, 92, 5.5);
+                VALUES ('tt0918940', 'the legend of tarzan', 2016, 110, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12459180', 'physical media lives', 2021, 130, 4.9);
+                VALUES ('tt0926084', 'harry potter and the deathly hallows part 1', 2010, 146, 7.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8669106', '1940 lo oka gramam', 2010, 129, 7.5);
+                VALUES ('tt0935075', 'rabbit hole', 2010, 91, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15532248', 'petite leçon damour', 2021, 86, 5.5);
+                VALUES ('tt0938283', 'the last airbender', 2010, 103, 3.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9801322', 'the right pocket of the robe', 2018, 100, 6.7);
+                VALUES ('tt0938330', 'silent hill revelation', 2012, 95, 4.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7808118', 'kygo live at the hollywood bowl', 2017, 52, 6.8);
+                VALUES ('tt0944835', 'salt', 2010, 100, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2320718', 'the package iii deadfire', 2012, 60, 7.5);
+                VALUES ('tt0945513', 'source code', 2011, 93, 7.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11086194', 'thankam', 2023, 145, 7.1);
+                VALUES ('tt0947798', 'black swan', 2010, 108, 8.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13520902', 'mudança', 2020, 88, 8.2);
+                VALUES ('tt0947810', 'green zone', 2010, 115, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7448180', 'the debt collector', 2018, 95, 5.9);
+                VALUES ('tt0948470', 'the amazing spiderman', 2012, 136, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11861188', 'awakn', 2020, 80, 3.9);
+                VALUES ('tt0954947', 'the killer inside me', 2010, 109, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10477950', '110 honest', 2019, 84, 4.9);
+                VALUES ('tt0955308', 'robin hood', 2010, 140, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2401723', 'the chasing world 3', 2012, 95, 4.9);
+                VALUES ('tt0963966', 'the sorcerers apprentice', 2010, 109, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5440700', 'theri', 2016, 157, 7.4);
+                VALUES ('tt0964517', 'the fighter', 2010, 116, 7.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7855306', 'mouchuki forest bungalow', 2016, 97, 7.0);
+                VALUES ('tt0968264', 'the conspirator', 2010, 122, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6931292', 'der papst ist kein jeansboy', 2011, 77, 6.9);
+                VALUES ('tt0970179', 'hugo', 2011, 126, 7.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8176312', 'gul makai', 2020, 132, 2.7);
+                VALUES ('tt0970866', 'little fockers', 2010, 98, 5.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2139843', 'electrick children', 2012, 96, 6.7);
+                VALUES ('tt0974015', 'justice league', 2017, 120, 6.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1592530', 'the guide', 2010, 94, 5.7);
+                VALUES ('tt0975645', 'hitchcock', 2012, 98, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt20114908', 'wwii operation phoenix', 2024, 106, 3.9);
+                VALUES ('tt0977855', 'fair game', 2010, 108, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3022898', 'betibú', 2014, 100, 6.2);
+                VALUES ('tt0978764', 'sucker punch', 2011, 110, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3042458', 'the girls on liberty street', 2013, 62, 8.4);
+                VALUES ('tt0980970', 'the chronicles of narnia the voyage of the dawn treader', 2010, 113, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt19396532', 'las guerras del narcotráfico el retorno de lj', 2022, 105, 5.0);
+                VALUES ('tt0983193', 'the adventures of tintin', 2011, 107, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt16193768', 'purple clouds', 2012, 75, 3.2);
+                VALUES ('tt0983946', 'fantasy island', 2020, 109, 4.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2332563', 'buona giornata', 2012, 131, 4.7);
+                VALUES ('tt0985694', 'machete', 2010, 105, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4360094', 'a place in the caribbean', 2017, 114, 5.7);
+                VALUES ('tt0989757', 'dear john', 2010, 108, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1821636', 'the big idea', 2010, 98, 5.2);
+                VALUES ('tt0990407', 'the green hornet', 2011, 119, 5.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5420210', 'the comeback trail', 2020, 104, 5.7);
+                VALUES ('tt0993840', 'army of the dead', 2021, 148, 5.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt18691358', 'rish', 2022, 120, 6.4);
+                VALUES ('tt0993842', 'hanna', 2011, 111, 6.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33144204', 'saban bajramovic my journey', 2024, 55, 8.8);
+                VALUES ('tt0993846', 'the wolf of wall street', 2013, 180, 8.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt30291321', 'runaway radio', 2023, 83, 7.7);
+                VALUES ('tt0997152', 'the experiment', 2010, 96, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2243784', 'youre fkn dead', 2016, 100, 4.7);
+                VALUES ('tt0999913', 'straw dogs', 2011, 110, 5.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1814644', 'bang rajan 2', 2011, 127, 5.4);
+                VALUES ('tt10003008', 'the rental', 2020, 88, 5.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1646111', 'life above all', 2010, 100, 7.1);
+                VALUES ('tt1001520', 'the last voyage of the demeter', 2023, 118, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11186748', 'the unfinished portrait', 2019, 102, 9.4);
+                VALUES ('tt1001526', 'megamind', 2010, 95, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21515872', 'better together', 2023, 103, 4.9);
+                VALUES ('tt10016180', 'the little things', 2021, 128, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3130282', 'patterns of attraction', 2014, 85, 5.8);
+                VALUES ('tt10028196', 'laal singh chaddha', 2022, 159, 5.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21622672', 'venice infinitely avantgarde', 2022, 90, 6.5);
+                VALUES ('tt10039344', 'countdown', 2019, 90, 5.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4610970', 'nyoka and the lost amulet of vultura', 2014, 90, 5.9);
+                VALUES ('tt10059518', 'unhinged', 2020, 90, 6.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1821525', 'love thy enemy', 2011, 111, 6.6);
+                VALUES ('tt10065694', 'antebellum', 2020, 105, 5.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt30386833', 'camp flog gnaw', 2023, 108, 8.0);
+                VALUES ('tt1007029', 'the iron lady', 2011, 105, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7474432', 'abdel et la comtesse', 2018, 95, 4.9);
+                VALUES ('tt10083340', 'gangubai kathiawadi', 2022, 152, 7.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27505702', 'in a good way', 2023, 79, 4.2);
+                VALUES ('tt10095582', 'the tragedy of macbeth', 2021, 105, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11310098', 'space bangers', 2020, 88, 8.5);
+                VALUES ('tt10121392', 'thunder force', 2021, 106, 4.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt34724953', 'together 4inarow', 2024, 92, 6.7);
+                VALUES ('tt10128846', 'megalopolis', 2024, 138, 4.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4232066', 'once again', 2018, 101, 6.9);
+                VALUES ('tt1013743', 'knight and day', 2010, 109, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12357956', 'ten vraga', 2017, 89, 4.8);
+                VALUES ('tt1014759', 'alice in wonderland', 2010, 108, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9461680', 'nona if they soak me ill burn them', 2019, 86, 5.3);
+                VALUES ('tt1014763', 'child 44', 2015, 137, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10555544', 'ring of desire', 2021, 85, 2.9);
+                VALUES ('tt10151854', 'shazam fury of the gods', 2023, 130, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1725042', 'more 4 me', 2012, 88, 9.0);
+                VALUES ('tt10152736', 'thalaivi', 2021, 153, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7304192', 'and then there were none', 2017, 84, 5.9);
+                VALUES ('tt10155932', 'cinderella', 2021, 112, 4.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7093384', 'movie money confidential', 2022, 101, 6.2);
+                VALUES ('tt10160976', 'the nun ii', 2023, 110, 5.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10725374', 'das leben vor dem tod', 2018, 107, 6.8);
+                VALUES ('tt1016150', 'all quiet on the western front', 2022, 148, 7.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11402172', 'kirk yalan', 2019, 97, 3.1);
+                VALUES ('tt10161886', 'the prom', 2020, 130, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2732210', 'tumbledown', 2013, 80, 4.4);
+                VALUES ('tt10168670', 'bones and all', 2022, 131, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9038976', 'battle bots', 2018, 67, 2.1);
+                VALUES ('tt10172266', 'red white royal blue', 2023, 118, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8456098', 'karakomik filmler 2 arada', 2019, 60, 6.4);
+                VALUES ('tt1017451', 'the runaways', 2010, 106, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3165730', 'miyagino', 2010, 113, 5.7);
+                VALUES ('tt10187208', 'a boy called christmas', 2021, 106, 6.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10042868', 'generation wrecks', 2021, 112, 8.8);
+                VALUES ('tt10189514', 'soorarai pottru', 2020, 153, 8.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10554232', 'dara of jasenovac', 2020, 130, 8.0);
+                VALUES ('tt10199590', 'les misérables', 2019, 104, 7.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1522250', 'prometeo deportado', 2011, 112, 6.5);
+                VALUES ('tt1020072', 'selma', 2014, 128, 7.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4040888', 'chorus', 2015, 97, 7.0);
+                VALUES ('tt1020558', 'centurion', 2010, 97, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7550000', 'project power', 2020, 113, 6.0);
+                VALUES ('tt10208198', 'the gangster the cop the devil', 2019, 109, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1841701', 'foreigner', 2010, 90, 6.3);
+                VALUES ('tt10223460', 'marry me', 2022, 112, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3864638', 'to love is enemy of the great dull void', 2020, 69, 8.5);
+                VALUES ('tt10228134', 'jolt', 2021, 91, 5.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1937339', 'sunny', 2011, 124, 7.7);
+                VALUES ('tt10230994', 'beckett', 2021, 110, 5.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5687124', 'les petits chats', 2015, 80, 8.2);
+                VALUES ('tt1023114', 'the way back', 2010, 133, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1707392', 'lovely molly', 2011, 99, 5.3);
+                VALUES ('tt10242388', 'last seen alive', 2022, 95, 5.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6497968', 'william the new judo master', 2016, 95, 5.2);
+                VALUES ('tt10245072', 'salems lot', 2024, 114, 5.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7749142', 'die känguruchroniken', 2020, 92, 5.3);
+                VALUES ('tt1024648', 'argo', 2012, 120, 7.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt0903036', 'westbrick murders', 2010, 90, 2.5);
+                VALUES ('tt1025100', 'gemini man', 2019, 117, 5.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6361186', 'the last fitness instructor', 2016, 75, 5.1);
+                VALUES ('tt10268488', 'the greatest beer run ever', 2022, 126, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4485952', 'reel in the closet', 2015, 70, 7.8);
+                VALUES ('tt10272386', 'the father', 2020, 97, 8.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8887904', 'the shoplifters', 2019, 69, 8.0);
+                VALUES ('tt10275534', 'to catch a killer', 2023, 119, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32486243', 'fish bone', 2024, 98, 5.7);
+                VALUES ('tt1027718', 'wall street money never sleeps', 2010, 133, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt31307480', 'kakushigoto', 2024, 128, 7.1);
+                VALUES ('tt10280276', 'coolie no 1', 2020, 134, 4.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3242056', 'the high school samurai boy', 2013, 101, 8.2);
+                VALUES ('tt10280296', 'sardar udham', 2021, 164, 8.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3732252', 'hill of freedom', 2014, 66, 6.9);
+                VALUES ('tt1028576', 'secretariat', 2010, 123, 7.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2606118', 'htr2b transformation', 2012, 101, 5.5);
+                VALUES ('tt10288566', 'another round', 2020, 117, 7.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27867635', 'hidimbha', 2023, 136, 6.3);
+                VALUES ('tt10293406', 'the power of the dog', 2021, 126, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13545494', 'madison and the happiness jar', 2021, 87, 5.6);
+                VALUES ('tt1029360', 'poltergeist', 2015, 93, 4.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5119048', 'the unheard woman', 2016, 88, 7.4);
+                VALUES ('tt10295212', 'shershaah', 2021, 135, 8.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2139909', 'garth lives in a van', 2011, 62, 5.5);
+                VALUES ('tt10298810', 'lightyear', 2022, 105, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2106691', 'the escape to hollywood', 2012, 54, 6.9);
+                VALUES ('tt10298840', 'strange world', 2022, 102, 5.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6426980', 'ayal jeevichiruppundu', 2017, 140, 8.2);
+                VALUES ('tt10304142', 'amsterdam', 2022, 134, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27072720', 'hardline 2nd term', 2022, 84, 4.0);
+                VALUES ('tt10310140', 'fatman', 2020, 100, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13802544', 'lasvegas', 2023, 98, 6.8);
+                VALUES ('tt10314450', 'becky', 2020, 93, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6626694', 'quatro estações e outono', 2018, 85, 6.8);
+                VALUES ('tt10323676', 'the contractor', 2022, 103, 5.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1583213', 'a barefoot dream', 2010, 121, 7.1);
+                VALUES ('tt10324144', 'article 15', 2019, 130, 8.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8461958', 'a colony', 2018, 102, 7.1);
+                VALUES ('tt10327252', 'the forever purge', 2021, 103, 5.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5485464', 'the sufferers', 2016, 75, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3711858', 'cartas para angola', 2012, 76, 8.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2287891', 'maxim', 2012, 82, 7.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt20199226', 'my fairy troublemaker', 2022, 80, 5.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27224074', 'thrishanku', 2023, 112, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6857308', 'ghost in barbers', 2017, 85, 4.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6986430', 'macadam popcorn', 2017, 80, 8.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6751668', 'parasite', 2019, 132, 8.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29580988', 'renessanseprinsen', 2023, 80, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32270528', 'replika', 2024, 125, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1905005', 'rage midsummers eve', 2015, 90, 3.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt30476486', 'haikyu the dumpster battle', 2024, 85, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1425624', 'couples therapy', 2010, 99, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21957774', 'irish wish', 2024, 93, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8569344', 'adi ask', 2018, 115, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5641510', 'padre de familia', 2016, 96, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4392738', 'chaldean voices', 2014, 82, 9.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6258486', 'ekkadiki pothavu chinnavada', 2016, 140, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11279292', 'love stuff', 2020, 80, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt24080396', 'cocoricò tapes', 2023, 67, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6190198', 'my teacher', 2017, 113, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4214708', 'coming of age in cherry grove the invasion', 2014, 81, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33095241', 'killapa wawan', 2024, 87, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5068972', 'consent', 2017, 88, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt19755170', 'bawaal', 2023, 137, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9526392', 'the king of laughter', 2021, 133, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2342448', 'sr blanc', 2012, 104, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt26349047', 'being ola', 2023, 72, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10309574', 'a christmas winter song', 2019, 90, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5844196', 'hal', 2018, 90, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2397515', 'mask', 2015, 79, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt18286584', 'arm wrestler', 2022, 78, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5148752', 'selfportrait with three women', 2010, 75, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2371456', 'vampire club', 2013, 87, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7762748', 'tracey', 2018, 114, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4562260', 'o amor é lindo porque sim', 2016, 95, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21053422', 'the recycling myth', 2022, 75, 8.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28970408', 'matti katha', 2023, 90, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt22015784', 'aslan hürkus görevimiz gökbey', 2022, 95, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3686168', 'ennamo nadakkudhu', 2014, 128, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4032862', 'drunkslikeus', 2014, 80, 5.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11538040', 'palasik', 2015, 78, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12830570', 'sihirli orman peri kraliçesi', 2022, 80, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2719796', 'hot guys with guns', 2013, 105, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8914922', 'blame game', 2018, 49, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2097300', 'money as debt iii evolution beyond money', 2011, 62, 8.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3127698', 'sanctuary', 2015, 104, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5790100', 'out of darkness', 2016, 192, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2385041', 'coyote', 2014, 75, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5527892', 'lurking evil', 2017, 70, 4.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt20599488', 'what words can do', 2022, 76, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14432716', 'desire machine 60 years of teatro oficina', 2021, 110, 7.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2248028', 'thattathin marayathu', 2012, 127, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1937189', 'i am jesus', 2011, 75, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2088919', 'the atomic states of america', 2012, 95, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2400359', 'i know what im doing', 2013, 93, 5.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21206344', 'sista', 2022, 94, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6977338', 'good boys', 2019, 90, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2417528', 'speed demons', 2012, 80, 4.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2689866', 'a second chance the janelle morrison story', 2013, 84, 8.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27531109', 'the rapture', 2023, 97, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2593294', 'prodavets igrushek', 2013, 90, 4.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5674658', 'kensukes kingdom', 2023, 85, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21420198', 'maid to kill', 2022, 96, 8.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12882656', 'the found footage phenomenon', 2021, 101, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10961374', 'sirley', 2020, 94, 5.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14734980', 'where did ramses go', 2019, 55, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4176462', 'volta à terra', 2014, 78, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1702405', 'the zombie hero', 2010, 95, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2217474', 'running in heels the glendon anna conda hyde story', 2011, 62, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3840534', 'junooniyat', 2016, 155, 4.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13217776', 'land of milk and honey', 2020, 88, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3120054', 'take care', 2014, 94, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9296590', 'the noblemen alpha rift', 2021, 94, 4.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1701210', 'day of the falcon', 2011, 130, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt23150632', 'so long summer vacation', 2022, 97, 8.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4862478', 'embrace the documentary', 2016, 90, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2316672', 'castro in winter', 2012, 56, 3.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt22804110', 'la vierge à lenfant', 2024, 80, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4779036', 'dont blink', 2015, 82, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27372066', 'the path of excellence', 2023, 107, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14169230', 'ashes that swarm', 2021, 55, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13142240', 'anaïs in love', 2021, 98, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15427876', 'embrace kids', 2022, 75, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7670458', 'the lonely battle of thomas reid', 2017, 76, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3247714', 'survivor', 2015, 96, 5.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9134204', 'selling children', 2018, 58, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4520924', 'beauty mark', 2017, 87, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3818826', 'being good', 2015, 120, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt18330292', 'when we speak', 2022, 80, 7.3);
+                VALUES ('tt1033575', 'the descendants', 2011, 115, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
                 VALUES ('tt10342730', 'spiral', 2021, 93, 5.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5239674', 'mom jovi', 2016, 83, 7.0);
+                VALUES ('tt1034314', 'iron sky', 2012, 93, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt20753616', 'katha kanchiki manam intiki', 2022, 140, 5.3);
+                VALUES ('tt1034389', 'the eagle', 2011, 114, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1582478', 'bindaas', 2010, 143, 6.6);
+                VALUES ('tt1034415', 'suspiria', 2018, 152, 6.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1950399', 'the lies we tell but the secrets we keep part 2', 2012, 90, 6.2);
+                VALUES ('tt10350626', 'gunjan saxena the kargil girl', 2020, 112, 5.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5672286', 'indian horse', 2017, 101, 7.3);
+                VALUES ('tt10350922', 'laxmii', 2020, 141, 2.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3079538', 'gilagila remaja 2', 2013, 85, 8.9);
+                VALUES ('tt10362466', 'after we collided', 2020, 105, 5.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4521254', 'aylesbury dead', 2015, 84, 4.3);
+                VALUES ('tt10365998', 'infinity pool', 2023, 117, 6.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7335104', 'goldie', 2019, 88, 5.7);
+                VALUES ('tt10366206', 'john wick chapter 4', 2023, 169, 7.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12607070', 'a hero of our time', 2023, 120, 6.3);
+                VALUES ('tt10366460', 'coda', 2021, 111, 8.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9025958', 'tierra mía', 2018, 74, 7.6);
+                VALUES ('tt10370710', 'the worst person in the world', 2021, 128, 7.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12580538', 'showdown in yesteryear', 2023, 119, 7.2);
+                VALUES ('tt1037705', 'the book of eli', 2010, 118, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2157045', 'doom room', 2013, 90, 3.1);
+                VALUES ('tt1038686', 'legion', 2010, 100, 5.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5969642', 'now its dark', 2018, 125, 6.3);
+                VALUES ('tt1038919', 'the bounty hunter', 2010, 110, 5.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt22301536', 'inside the mind of vladimir putin ascension', 2022, 53, 5.2);
+                VALUES ('tt10393870', 'jayeshbhai jordaar', 2022, 121, 6.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt20118266', 'aku jati aku asperger', 2024, 88, 6.4);
+                VALUES ('tt10403420', 'terrifier 2', 2022, 138, 6.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13217104', 'higher entities the lost tapes', 2019, 124, 8.5);
+                VALUES ('tt10431500', 'miracle in cell no 7', 2019, 132, 8.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2259720', 'del shores my sordid life', 2011, 96, 7.5);
+                VALUES ('tt1043726', 'the legend of hercules', 2014, 99, 4.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8146652', 'paramahans lakshminath gosain', 2023, 78, 8.5);
+                VALUES ('tt10451914', 'outside the wire', 2021, 114, 5.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13814142', 'carols christmas', 2021, 70, 2.1);
+                VALUES ('tt1045658', 'silver linings playbook', 2012, 122, 7.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1552221', 'ecstasy', 2011, 96, 3.8);
+                VALUES ('tt10514222', 'ma raineys black bottom', 2020, 94, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15717116', 'the wall climb for gold', 2022, 96, 7.2);
+                VALUES ('tt1051904', 'goosebumps', 2015, 103, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1810858', 'wind blast', 2010, 114, 5.1);
+                VALUES ('tt1051906', 'the invisible man', 2020, 124, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5293858', 'walangforever', 2015, 119, 7.1);
+                VALUES ('tt10521092', 'the forgotten battle', 2020, 124, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt16246562', 'africa star', 2024, 120, 8.0);
+                VALUES ('tt10530176', 'the call', 2020, 112, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3392998', 'it takes two to fence', 2013, 84, 5.7);
+                VALUES ('tt1053424', 'repo men', 2010, 111, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2755622', 'apparition of evil', 2014, 74, 3.7);
+                VALUES ('tt1053810', 'the big year', 2011, 100, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14578988', 'brocade mouse royal cat nine deep blood wolf', 2020, 83, 5.2);
+                VALUES ('tt10539608', 'the midnight sky', 2020, 118, 5.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10077134', 'csak még egyszer elöre', 2016, 120, 6.7);
+                VALUES ('tt10545296', 'the hunger games the ballad of songbirds snakes', 2023, 157, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11992904', 'the ogglies', 2021, 85, 5.1);
+                VALUES ('tt1055292', 'life as we know it', 2010, 114, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5892354', 'angel', 2016, 80, 6.1);
+                VALUES ('tt10554232', 'dara of jasenovac', 2020, 130, 8.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9165824', 'the show', 2020, 115, 5.7);
+                VALUES ('tt10579952', 'master', 2021, 179, 7.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8427708', 'toh lagi sharat', 2018, 137, 9.0);
+                VALUES ('tt10612922', 'one night in miami', 2020, 114, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt31522718', 'tides', 2024, 47, 7.0);
+                VALUES ('tt10618286', 'mank', 2020, 131, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2759548', 'dark sea', 2013, 96, 5.6);
+                VALUES ('tt10620868', 'alive', 2020, 98, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1517633', 'break up club', 2010, 104, 5.9);
+                VALUES ('tt10633456', 'minari', 2020, 115, 7.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28803498', 'blesser', 2023, 105, 4.4);
+                VALUES ('tt10638522', 'talk to me', 2022, 95, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12945094', 'mothers lover 2', 2019, 70, 6.0);
+                VALUES ('tt10640346', 'babylon', 2022, 189, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10530392', 'penalty', 2019, 128, 5.3);
+                VALUES ('tt10648342', 'thor love and thunder', 2022, 118, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7973916', 'enter the wild', 2018, 96, 3.4);
+                VALUES ('tt1065073', 'boyhood', 2014, 165, 7.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15699148', 'pyali', 2022, 117, 7.1);
+                VALUES ('tt10655524', 'it ends with us', 2024, 130, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10461084', 'instrucciones para la poligamia', 2019, 95, 4.8);
+                VALUES ('tt10665338', 'halloween kills', 2021, 105, 5.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4522144', 'ivanuku thanila gandam', 2015, 145, 5.7);
+                VALUES ('tt10665342', 'halloween ends', 2022, 111, 5.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11355358', 'kaanbhatt', 2021, 120, 8.6);
+                VALUES ('tt1067583', 'water for elephants', 2011, 120, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4896312', 'hunting party', 2015, 105, 5.9);
+                VALUES ('tt10676012', 'to all the boys always and forever', 2021, 116, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6213004', 'driver', 2017, 87, 6.5);
+                VALUES ('tt10676048', 'the marvels', 2023, 105, 5.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32373241', 'nilas dream in the garden of eden', 2024, 102, 5.6);
+                VALUES ('tt1067774', 'monte carlo', 2011, 109, 5.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13137694', 'a skeleton in the closet', 2020, 103, 6.0);
+                VALUES ('tt10682266', 'hubie halloween', 2020, 103, 5.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6915252', 'santo marcos', 2013, 72, 7.8);
+                VALUES ('tt1068242', 'footloose', 2011, 113, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6194530', 'ava', 2017, 105, 6.6);
+                VALUES ('tt10696784', 'the harder they fall', 2021, 139, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14013974', 'that was a serious party', 2022, 72, 6.8);
+                VALUES ('tt10696896', 'stillwater', 2021, 139, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11570526', 'elsandooq elaswad', 2020, 90, 4.6);
+                VALUES ('tt10698680', 'kgf chapter 2', 2022, 166, 8.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5337986', 'amok', 2016, 100, 7.3);
+                VALUES ('tt10699086', 'bachchhan paandey', 2022, 147, 5.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt18375590', 'omar sheriff', 2022, 65, 7.6);
+                VALUES ('tt10701074', 'ponniyin selvan part i', 2022, 167, 7.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8093306', 'the falls', 2018, 108, 5.6);
+                VALUES ('tt1070874', 'the trial of the chicago 7', 2020, 129, 7.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32383976', 'boys on film 24 happy endings', 2024, 174, 6.4);
+                VALUES ('tt1071875', 'ghost rider spirit of vengeance', 2011, 96, 4.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3276924', 'heist', 2015, 93, 6.1);
+                VALUES ('tt10720352', 'arthur the king', 2024, 107, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4780218', 'the book of truth', 2015, 90, 6.4);
+                VALUES ('tt1072748', 'winchester', 2018, 99, 5.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2137818', 'kidthing', 2012, 83, 6.3);
+                VALUES ('tt10731256', 'dont worry darling', 2022, 123, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4489160', 'youre my boss', 2015, 116, 6.3);
+                VALUES ('tt10731768', 'sweet girl', 2021, 110, 5.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3916776', 'die abmachung', 2015, 90, 5.1);
+                VALUES ('tt10733228', 'gehraiyaan', 2022, 148, 5.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15725474', 'my robot brother', 2022, 84, 5.5);
+                VALUES ('tt1074638', 'skyfall', 2012, 143, 7.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28456666', '1971 shei shob din', 2023, 142, 6.7);
+                VALUES ('tt10752004', 'love hard', 2021, 104, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12466240', 'skinwalker', 2021, 94, 3.4);
+                VALUES ('tt1075747', 'jonah hex', 2010, 81, 4.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt18687842', 'girl gang', 2022, 98, 6.4);
+                VALUES ('tt10767052', 'next goal wins', 2023, 104, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5473124', 'recovery', 2019, 82, 4.0);
+                VALUES ('tt1077368', 'dark shadows', 2012, 113, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4790076', 'witchcraft 15 blood rose', 2016, 81, 2.2);
+                VALUES ('tt10811166', 'the kashmir files', 2022, 170, 8.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6481310', 'when will you return', 2017, 114, 6.2);
+                VALUES ('tt1082807', 'the belko experiment', 2016, 89, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4917224', '911', 2017, 90, 4.5);
+                VALUES ('tt1083452', 'eddie the eagle', 2015, 106, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4644144', 'basta poco', 2015, 90, 6.2);
+                VALUES ('tt10838180', 'the matrix resurrections', 2021, 148, 5.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1649320', 'el espiritu de la salsa', 2010, 47, 6.0);
+                VALUES ('tt10855768', 'missing', 2023, 111, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2518926', 'age of dinosaurs', 2013, 88, 2.9);
+                VALUES ('tt1086064', 'bill ted face the music', 2020, 91, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3262022', 'a light beneath their feet', 2015, 90, 6.5);
+                VALUES ('tt1086772', 'blended', 2014, 117, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12491856', 'jinroh shokei game', 2015, 87, 5.1);
+                VALUES ('tt10872600', 'spiderman no way home', 2021, 148, 8.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2294457', '7 petala cinta', 2012, 80, 5.3);
+                VALUES ('tt10886166', '365 days', 2020, 114, 3.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5827360', 'catching feelings', 2017, 124, 5.7);
+                VALUES ('tt10888594', 'radhe', 2021, 109, 1.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt18939192', 'der waldmacher', 2021, 87, 6.9);
+                VALUES ('tt10895576', 'mimi', 2021, 132, 7.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1675311', 'where are you taking me', 2010, 72, 8.4);
+                VALUES ('tt1091191', 'lone survivor', 2013, 121, 7.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2195652', 'mop king', 2013, 89, 6.5);
+                VALUES ('tt10919380', 'freaky', 2020, 102, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2191881', 'among men gay in east germany', 2012, 91, 6.7);
+                VALUES ('tt1092026', 'paul', 2011, 104, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1621966', 'starting over', 2013, 85, 8.7);
+                VALUES ('tt1093357', 'the darkest hour', 2011, 89, 4.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8179024', 'body cam', 2020, 96, 5.3);
+                VALUES ('tt10944760', 'titane', 2021, 108, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12528166', 'out of death', 2021, 96, 3.4);
+                VALUES ('tt10954600', 'antman and the wasp quantumania', 2023, 124, 6.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11540726', 'resurrection', 2022, 103, 5.9);
+                VALUES ('tt10954652', 'old', 2021, 108, 5.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12841428', 'a rifle and a bag', 2020, 89, 6.4);
+                VALUES ('tt10954984', 'nope', 2022, 130, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2191743', 'los bunkers un documental by sonar', 2011, 100, 7.0);
+                VALUES ('tt10962368', 'things heard seen', 2021, 121, 5.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt30750109', 'the corpse washer', 2024, 107, 6.1);
+                VALUES ('tt10986222', 'cmon cmon', 2021, 109, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt23723526', 'bomber number two', 2022, 91, 6.2);
+                VALUES ('tt10999120', 'spirited', 2022, 127, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9176296', 'dolly kitty and those twinkling stars', 2019, 126, 5.2);
+                VALUES ('tt1100089', 'foxcatcher', 2014, 134, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27618123', 'adiyae', 2023, 139, 6.3);
+                VALUES ('tt11003218', 'pig', 2021, 92, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28692368', 'his fathers son', 2024, 80, 8.2);
+                VALUES ('tt11024272', 'the babysitter killer queen', 2020, 101, 5.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14621692', 'money game', 2024, 91, 8.0);
+                VALUES ('tt11027830', 'haseen dillruba', 2021, 135, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt23737556', 'the wish of the fairy fish', 2023, 115, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12968268', 'hollywoods architect the paul r williams story', 2020, 56, 9.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7106968', 'ride', 2018, 95, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27540174', 'the witch trials of jk rowling', 2023, 115, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt18411542', 'the chocolate war', 2022, 82, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9361322', 'the annunciation', 2018, 45, 5.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3690398', 'good girl', 2014, 72, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9233172', 'how big is the galaxy', 2018, 72, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12084304', 'sessiz yalanlar', 2016, 92, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8322680', 'the 3', 2019, 90, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1907731', 'nobody walks', 2012, 83, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt26774729', 'eden prime', 2022, 71, 2.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1894470', 'green guild', 2011, 45, 8.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6848226', 'an uncertain border', 2019, 118, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1365458', 'fortune 500 man', 2015, 90, 7.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12901944', 'anonymous animals', 2020, 64, 4.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5621370', 'raoul ruiz drama against ignorance', 2016, 63, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4733736', 'double daddy', 2015, 85, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1773042', 'shahrukh bola khoobsurat hai tu and she believed in it', 2010, 89, 4.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13815488', 'the razing', 2022, 109, 4.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8160834', 'follow me', 2020, 91, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10293664', 'boa noite', 2019, 90, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12922778', 'you dont know ivan julian', 2020, 53, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12618926', 'parallel mothers', 2021, 123, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2353981', 'el inca la boba y el hijo del ladrón', 2011, 104, 8.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3136722', 'the treehouse', 2014, 74, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6903164', 'queen tut', 2023, 91, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6041174', 'small talk', 2016, 88, 7.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3521084', 'mokshya', 2014, 135, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9873376', 'stranded', 2023, 81, 2.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8996488', 'el xoc', 2018, 61, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6012792', 'golden years', 2017, 103, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6493472', 'bütün saadetler mümkündür', 2017, 97, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2140287', 'solar eclipse', 2011, 81, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9817070', 'law of tehran', 2019, 131, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27512559', 'teen adkun sitaram', 2023, 136, 4.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1253837', 'angels die slowly', 2010, 86, 4.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt0425785', 'el borde del tiempo', 2011, 100, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13568924', 'beaumonde scrapping', 2020, 71, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3084128', 'realiti', 2014, 95, 5.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13332668', 'momentum', 2021, 65, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28079508', 'always i am', 2023, 113, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3016948', 'the factory', 2013, 50, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8398386', 'fly in fly out', 2019, 65, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2011909', 'doverfield', 2011, 70, 2.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9726522', 'monkey king and city of demons', 2018, 90, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13660410', 'pahlavan hargez nemimirad', 2018, 97, 4.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6154834', 'lashtam pashtam', 2018, 108, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3092076', 'les trois frères le retour', 2014, 106, 4.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14192316', 'jingle smells', 2023, 92, 2.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1224378', 'forbidden empire', 2014, 130, 5.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3894762', 'simply gay le film', 2014, 71, 8.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11261062', 'silasila', 2019, 116, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4994718', 'kocan kadar konus dirilis', 2016, 108, 5.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5566714', 'hawaii', 2017, 116, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8702938', 'centipede', 2018, 197, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14852188', 'lost transport', 2022, 100, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2285647', 'pocong kesetanan', 2011, 76, 4.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5293618', 'arishadvarga', 2019, 132, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15082864', 'hunting for the hag', 2023, 86, 4.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3003980', 'deadly intent', 2016, 82, 3.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1734542', 'the ruined eye', 2010, 47, 5.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3421116', 'the cat misses', 2013, 106, 5.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27847866', 'predators of the deep the hunt for the lost four', 2023, 81, 3.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1859607', 'kath kimderella', 2012, 86, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2230342', 'gaming instinct', 2013, 102, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5096486', 'comment jai rencontré mon père', 2017, 82, 5.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4054382', 'white night', 2017, 86, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33292899', 'rentaru famirii', 2023, 107, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3121262', 'zapakh vereska', 2013, 90, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11389784', 'daltons dream', 2023, 90, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2056773', 'viaggio in bergmania', 2011, 74, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3644024', 'petits bonheurs', 2016, 88, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27548649', 'de oneindige slijmfilm', 2023, 75, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9590420', 'farmtastic fun', 2019, 70, 3.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15245240', 'the buckingham murders', 2023, 107, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt23852116', 'burt reynolds the last interview', 2023, 99, 8.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1663660', 'on the ice', 2011, 96, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1667484', 'smoke and mirrors', 2010, 115, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt20455262', 'labour', 2021, 100, 8.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1586745', 'ennui', 2010, 84, 7.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5184888', 'zbärg', 2015, 85, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2886718', 'the campground', 2013, 54, 4.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7106728', 'identity', 2024, 84, 4.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2188753', 'a night of nightmares', 2012, 84, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21438476', 'bentu', 2022, 70, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11319074', 'bad boy', 2020, 135, 3.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3335606', 'berlin syndrome', 2017, 116, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2040402', 'la curva de la felicidad', 2011, 85, 4.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5816682', 'victoria abdul', 2017, 111, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13238232', 'antigone how dare we', 2020, 86, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2606826', 'poraali', 2011, 145, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9716058', 'the one you feed', 2020, 86, 3.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11454088', 'meathook massacre part vi bloodline', 2020, 66, 3.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15309886', 'garip bülbül neset ertas', 2024, 130, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13161448', 'demons', 2020, 50, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2476214', 'ayalum njanum thammil', 2012, 160, 8.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7607414', 'baronesa', 2017, 71, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt26904032', 'election', 2024, 120, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5214108', 'juze', 2017, 94, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28997098', 'iu concert the golden hour', 2023, 171, 8.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3985616', 'beyond punishment', 2015, 98, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14227224', 'being present', 2021, 83, 8.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15540412', 'riviera east', 2022, 105, 5.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1945122', 'kalyan ram kathi', 2010, 129, 5.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt22882058', 'munda southall da', 2023, 114, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1633298', 'too much pussy feminist sluts a queer x show', 2010, 80, 4.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt25052668', 'christmas eve in millers point', 2024, 106, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6010530', 'jewtah', 2018, 81, 8.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2812726', 'voices from the greek underground', 2013, 96, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt18718108', 'lehrer kann jeder', 2022, 89, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33307315', 'divorce', 2024, 91, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4686934', 'tobys big adventure', 2020, 90, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt18264980', 'franklin', 2022, 91, 7.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5771640', 'a wedding', 2016, 98, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9153616', 'ugly me', 2018, 58, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14974566', 'still waters go deep', 2022, 150, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12057168', 'dark spell', 2021, 92, 4.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3863002', 'la extraña elección', 2014, 89, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27382326', 'they want us woke not awake', 2023, 130, 3.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2061623', 'crayons of askalan', 2011, 53, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2040370', 'haunted poland', 2011, 103, 4.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3202120', 'barbecue', 2014, 98, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9315438', 'yajamana', 2019, 164, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1950274', 'mulberry child', 2011, 85, 7.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21415386', 'ánima', 2023, 89, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13684018', 'rifftrax ruby', 2016, 85, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9676134', 'the way home', 2018, 65, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2611378', 'bà nôi grandma', 2013, 85, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1867127', 'zombie atrocity the italian zombie movie part 2', 2010, 94, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5006094', 'the ways of wine', 2015, 95, 5.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt30428085', 'kallio uskon että paikkasi on siellä', 2023, 58, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4062604', 'thosegirls', 2015, 105, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3704298', 'vincent n roxxy', 2016, 102, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10462848', 'deep well', 2017, 89, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2314348', 'the devils music', 2012, 77, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4136056', 'the seven five', 2014, 104, 7.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8065656', '1918', 2015, 105, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5937206', 'last transhumance', 2023, 90, 8.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33265727', 'the blair witch documentary', 2024, 150, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4871018', 'the comedians guide to survival', 2016, 96, 4.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6850702', 'absence blízkosti', 2017, 65, 4.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11907624', 'courting mom and dad', 2021, 90, 3.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6126244', 'rise against the fall', 2019, 80, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt18394428', 'titanic 666', 2022, 91, 3.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5810000', 'i timon', 2017, 78, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29797178', 'fathers', 2023, 66, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2239414', 'hubo', 2012, 80, 7.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2472668', 'cai li fu quan', 2011, 96, 4.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11262070', 'harley queen', 2019, 100, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1670983', 'electric mind', 2010, 60, 7.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13117258', 'where is mikel', 2020, 80, 7.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6591616', 'veljeni vartija', 2018, 98, 4.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2069002', 'band of drivers', 2011, 92, 8.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt31261137', 'country rain', 2024, 90, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt16311360', 'krzyk losing control', 2024, 80, 4.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5556054', 'four kids and it', 2020, 110, 5.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7244730', 'en tránsito', 2017, 65, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3721712', 'flight of the golden fly', 2015, 136, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt16405470', 'solace', 2021, 45, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1597091', 'phillip the fossil', 2010, 73, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12768168', 'fish in a barrel', 2020, 87, 3.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2160407', 'the touchstone', 2017, 85, 2.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3113498', 'confinement', 2016, 77, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5700402', 'under the turban', 2016, 89, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1723602', 'jozi', 2010, 108, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3103606', 'guerilla köche', 2013, 87, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9249158', 'how to train our dragon', 2018, 96, 4.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4665074', 'la tola box', 2014, 85, 8.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5568314', 'vieni a vivere a napoli', 2016, 88, 5.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2419978', 'sing me the songs that say i love you a concert for kate mcgarrigle', 2012, 107, 7.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1610383', 'moral bozuklugu ve 31', 2010, 95, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4805922', 'tpetics', 2015, 68, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2404940', 'blessid', 2015, 97, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt30460040', 'vestindo histórias', 2023, 55, 9.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4669186', 'kevin hart what now', 2016, 96, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2327223', 'bakor putek', 2012, 140, 7.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6223974', 'the farthest', 2017, 121, 8.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14790036', 'el hombre bueno', 2024, 79, 5.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2670226', 'jîn', 2013, 122, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32400538', 'wanted roni kalderon', 2024, 100, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9284340', 'the devils camera', 2018, 52, 3.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt18601992', 'adarna gang', 2022, 120, 4.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3300526', 'just our luck', 2016, 78, 3.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4163732', 'memories of michael', 2017, 97, 2.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14992220', 'pasadena', 2022, 95, 8.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3148528', 'till luck do us part 2', 2013, 102, 5.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7886846', 'bucket list', 2018, 150, 5.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14963418', 'maindhan', 2014, 130, 8.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7985664', 'a day in the life of andy warhol', 2015, 59, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2585840', '12 mesyatsev', 2013, 100, 4.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt20236622', 'the deb', 2024, 121, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2442038', 'bad romance', 2013, 100, 4.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1972819', 'and while we were here', 2012, 83, 5.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8214816', 'spirit quest', 2016, 82, 8.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5261832', 'beyond sixty project', 2018, 78, 8.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3862814', 'maasai 10th lost tribe of israel', 2019, 61, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6865728', 'slim aarons the high life', 2016, 68, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1852097', 'circle of lies', 2012, 82, 4.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt16057994', 'plotagons jared the movie', 2020, 65, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29458284', 'everybody loves sohrab handa', 2023, 101, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3828992', 'jamming addis', 2014, 80, 9.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt23781244', 'f20', 2022, 88, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11588674', 'lucky monster', 2019, 90, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11294754', 'oh no ivor the dance king and some of his friends try to save the world', 2019, 81, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5937870', 'my father iqbal', 2016, 104, 8.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13074056', 'subjects of desire', 2021, 103, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5615904', 'unforgettable', 2016, 113, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1853614', 'a letter to momo', 2011, 120, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7477820', 'sweeney killing sweeney', 2018, 100, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8686304', 'action figures 2', 2018, 62, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1369696', 'skyler', 2012, 83, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2400997', 'commencement', 2012, 94, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt30489753', 'ladybug', 2024, 107, 4.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6084202', 'blizzard of souls', 2019, 123, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1735862', 'dragon eyes', 2012, 91, 4.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11424466', 'the anthology of julius the nigerian immigrant', 2021, 113, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt20499404', 'homes', 2021, 121, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2094748', '365 days of happiness', 2011, 130, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13535454', 'gabriels inferno part two', 2020, 106, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6097798', 'radius', 2017, 93, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5611256', 'my hysteria in the cinema', 2015, 64, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7687250', 'remember redfield', 2018, 91, 4.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9537352', 'nikka zaildar 3', 2019, 117, 4.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13151402', 'unveil the truth the government virus', 2011, 65, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3526924', 'summer solstice', 2015, 96, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5862296', 'the bastards fig tree', 2017, 103, 5.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10659416', 'copper notes of a wish', 2019, 90, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11667452', 'march for freedom', 2019, 134, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt18689276', 'hermanoteu na terra de godah o filme', 2022, 84, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12641694', 'fazla saapma', 2021, 102, 3.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2466418', 'the og girls', 2012, 94, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt20050716', 'carretera nacional', 2022, 64, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5476100', 'vistas', 2020, 78, 5.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2574426', 'agadam', 2013, 123, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10920266', 'nerd', 2019, 88, 3.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6682424', 'yonlu', 2017, 88, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3253040', 'the 13th step', 2016, 52, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2883624', 'wisp', 2013, 76, 5.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1733140', 'hiso', 2010, 102, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5698284', 'zarrar', 2022, 148, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1787067', 'fire in the blood', 2013, 87, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2236650', 'sheryl crow live', 2011, 92, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11593986', 'a mother', 2020, 83, 7.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10409972', 'itla men mazaji', 2019, 103, 3.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11841830', 'black rose', 2020, 120, 4.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2455458', 'misteri pasar kaget', 2012, 79, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1591071', 'qwerty', 2012, 90, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt19879476', 'war dogs and i', 2022, 60, 9.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27497201', 'whos watching us', 2024, 81, 3.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29561824', 'lessons of tolerance', 2023, 95, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2609812', 'jfk remembered 50 years later', 2013, 120, 7.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1667457', 'mary', 2010, 63, 3.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13719824', 'frank capra il était une fois lamérique', 2020, 52, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7668724', 'the marine 6 close quarters', 2018, 85, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1869514', 'kormoranid ehk nahkpükse ei pesta', 2011, 115, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32119337', 'simon of the mountain', 2024, 96, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1766080', 'sharkula diarrhea of a madman', 2010, 95, 9.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt0817545', 'the power of few', 2013, 96, 5.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14775784', 'great freedom', 2021, 116, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1473397', 'lucky', 2011, 103, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14051362', 'raka', 2021, 118, 8.6);
+                VALUES ('tt1103153', 'killers', 2010, 100, 5.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
                 VALUES ('tt11032374', 'demon slayer kimetsu no yaiba the movie mugen train', 2020, 117, 8.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27510845', 'cândido', 2024, 99, 6.2);
+                VALUES ('tt1104001', 'tron legacy', 2010, 125, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29439922', 'hayatimiz roman', 2024, 105, 4.0);
+                VALUES ('tt11045422', 'toofaan', 2021, 163, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1516586', 'the greatest ears in town the arif mardin story', 2010, 100, 7.2);
+                VALUES ('tt11057302', 'madame web', 2024, 116, 4.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11508224', 'kaanchli life in a slough', 2020, 101, 5.0);
+                VALUES ('tt11057644', 'the christmas chronicles part two', 2020, 112, 6.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13614196', 'the mire', 2023, 95, 7.4);
+                VALUES ('tt11080108', 'the map of tiny perfect things', 2021, 98, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15497092', 'don q', 2023, 108, 4.4);
+                VALUES ('tt11083552', 'wrath of man', 2021, 119, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt23810070', 'love suddenly', 2022, 93, 4.4);
+                VALUES ('tt1109624', 'paddington', 2014, 95, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11147362', 'gang of bra', 2019, 90, 6.7);
+                VALUES ('tt11097384', 'spaceman', 2024, 107, 5.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8175968', 'high jack', 2018, 102, 5.3);
+                VALUES ('tt11116912', 'troll', 2022, 101, 5.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt0844993', 'hoodwinked too hood vs evil', 2011, 86, 4.7);
+                VALUES ('tt11127680', 'boiling point', 2021, 92, 7.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3398628', 'the closer we get', 2015, 87, 7.4);
+                VALUES ('tt11138512', 'the northman', 2022, 137, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt26389817', 'drifter', 2023, 79, 5.5);
+                VALUES ('tt11145118', 'creed iii', 2023, 116, 6.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2318763', 'watershed exploring a new water ethic for the new west', 2012, 56, 7.1);
+                VALUES ('tt11152168', 'if', 2024, 104, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1239429', 'carré blanc', 2011, 77, 5.8);
+                VALUES ('tt11161474', 'pieces of a woman', 2020, 126, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12879746', 'dangerous drugs of sex', 2020, 89, 6.3);
+                VALUES ('tt1116184', 'jackass 3d', 2010, 94, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt22984302', 'qatar a dynasty with global ambitions', 2022, 93, 7.2);
+                VALUES ('tt11196036', 'the card counter', 2021, 111, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7391968', 'through the banks of the red cedar', 2018, 69, 7.9);
+                VALUES ('tt11198810', 'she said', 2022, 129, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12545262', 'trigger', 2020, 67, 4.3);
+                VALUES ('tt1120985', 'blue valentine', 2010, 112, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3872778', 'monty python live mostly', 2014, 137, 7.6);
+                VALUES ('tt1121096', 'seventh son', 2014, 102, 5.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13995564', 'short vacation', 2020, 79, 6.2);
+                VALUES ('tt11214590', 'house of gucci', 2021, 158, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32086338', 'my old melodies', 2023, 45, 8.0);
+                VALUES ('tt11233960', 'the unforgivable', 2021, 112, 7.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1799524', 'czechmade man', 2011, 96, 6.2);
+                VALUES ('tt11235772', 'the voyeurs', 2021, 116, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2130033', 'fakta ladh mhana', 2011, 145, 6.2);
+                VALUES ('tt1124035', 'the ides of march', 2011, 101, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2580658', 'the choice', 2015, 86, 5.5);
+                VALUES ('tt1124037', 'free state of jones', 2016, 139, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2156807', 'xlarge', 2011, 140, 7.3);
+                VALUES ('tt11245972', 'scream', 2022, 114, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt18312532', 'mans creed', 2022, 94, 5.2);
+                VALUES ('tt11252248', 'dog', 2022, 101, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2004360', 'souvenirs dune année à marienbad', 2010, 46, 6.3);
+                VALUES ('tt1126590', 'big eyes', 2014, 106, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2306783', 'the falls', 2012, 91, 6.8);
+                VALUES ('tt1126591', 'burlesque', 2010, 119, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4716184', 'sex life of plants', 2015, 94, 5.5);
+                VALUES ('tt1126618', 'morning glory', 2010, 107, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3165612', 'sleeping with other people', 2015, 101, 6.5);
+                VALUES ('tt11271038', 'licorice pizza', 2021, 133, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12361974', 'zack snyders justice league', 2021, 242, 7.9);
+                VALUES ('tt11274492', 'the outlaws', 2023, 95, 5.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15820298', 'angèle', 2021, 84, 7.0);
+                VALUES ('tt11286314', 'dont look up', 2021, 138, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9690184', 'the dose', 2020, 93, 6.0);
+                VALUES ('tt11291274', 'the unbearable weight of massive talent', 2022, 107, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3329062', 'funny money', 2013, 98, 7.9);
+                VALUES ('tt11301886', 'rebel ridge', 2024, 131, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2337981', 'architecture 101', 2012, 118, 7.2);
+                VALUES ('tt11301946', 'beast', 2022, 155, 5.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3638508', 'from the dead', 2019, 80, 3.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10191866', 'murder in the front row the san francisco bay area thrash metal story', 2019, 92, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1583356', 'rammbock berlin undead', 2010, 63, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1908491', 'finding seoul', 2011, 60, 9.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7579788', 'the cropsey incident', 2017, 85, 1.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2645104', 'romantik komedi 2 bekarliga veda', 2013, 105, 5.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5511970', 'le périple', 2017, 88, 3.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt17042714', 'dracula the original living vampire', 2022, 86, 2.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt16243192', 'lakelands', 2022, 100, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5974240', 'the nurse with the purple hair', 2017, 50, 5.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2590280', 'one more try', 2012, 100, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1618430', 'dum maaro dum', 2011, 128, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10508258', 'the red ghost', 2020, 99, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11385066', 'the app', 2019, 78, 2.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13338970', 'can i use your phone', 2020, 48, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8869778', 'a winter love', 2023, 91, 8.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5529852', 'into the centre of the wheel', 2016, 72, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10752998', 'patriotic highway', 2019, 68, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33091607', 'addicted to food sharons story', 2010, 50, 5.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1738293', 'khichdi the movie', 2010, 120, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt31728562', 'the correspondent', 2024, 119, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5096478', 'the pack', 2019, 74, 5.4);
+                VALUES ('tt11304740', 'wish', 2023, 95, 5.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
                 VALUES ('tt1130884', 'shutter island', 2010, 138, 8.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11150620', 'loca', 2021, 85, 6.2);
+                VALUES ('tt11315808', 'joker folie à deux', 2024, 138, 5.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27369527', 'ramana avatara', 2024, 136, 7.9);
+                VALUES ('tt11317142', 'shiva baby', 2020, 77, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1865511', 'streets of flamenco', 2021, 93, 9.8);
+                VALUES ('tt1133985', 'green lantern', 2011, 114, 5.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt20772720', 'the interdimensional connection', 2022, 63, 7.1);
+                VALUES ('tt1135084', 'takers', 2010, 107, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33294406', 'scholarship', 2024, 105, 4.7);
+                VALUES ('tt11358390', 'renfield', 2023, 93, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt31540871', 'fighting demons with dragons', 2024, 93, 7.5);
+                VALUES ('tt1136617', 'the killer', 2023, 118, 6.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7323750', 'mon objet préféré', 2014, 68, 8.0);
+                VALUES ('tt1137450', 'death wish', 2018, 107, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4975902', 'reuse because you cant recycle the planet', 2015, 60, 8.7);
+                VALUES ('tt11382384', 'the dissident', 2020, 119, 7.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32990776', 'shark warning', 2024, 94, 3.4);
+                VALUES ('tt11389872', 'kingdom of the planet of the apes', 2024, 145, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2309722', 'the crypt', 2014, 98, 3.2);
+                VALUES ('tt1139328', 'the ghost writer', 2010, 128, 7.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12316908', 'x zone', 2020, 97, 3.0);
+                VALUES ('tt11426232', 'totally killer', 2023, 106, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9314984', 'the power', 2021, 92, 5.5);
+                VALUES ('tt1142977', 'frankenweenie', 2012, 87, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10691288', 'it takes three', 2019, 74, 4.9);
+                VALUES ('tt11460992', 'runway 34', 2022, 145, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1663631', 'crazy eyes', 2012, 95, 4.1);
+                VALUES ('tt11464826', 'the social dilemma', 2020, 94, 7.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8295510', 'zero fks', 2020, 78, 2.9);
+                VALUES ('tt11466222', 'jackass forever', 2022, 96, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3397838', 'manos the hands of felt', 2014, 72, 7.6);
+                VALUES ('tt1152398', 'beastly', 2011, 86, 5.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27672919', 'tóxico', 2024, 88, 6.6);
+                VALUES ('tt11525644', 'no sudden move', 2021, 115, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7462190', 'who is barbara virginia', 2017, 77, 8.2);
+                VALUES ('tt11539996', 'relay', 2024, 112, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5119260', 'orange sunshine', 2016, 105, 7.3);
+                VALUES ('tt1155076', 'the karate kid', 2010, 140, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2412550', 'colors', 2012, 95, 6.0);
+                VALUES ('tt11555492', 'farha', 2021, 92, 8.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13328814', 'snot and splash', 2023, 88, 5.5);
+                VALUES ('tt11563598', 'a complete unknown', 2024, 141, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1109574', 'between us', 2012, 90, 4.8);
+                VALUES ('tt11564570', 'glass onion', 2022, 139, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9235038', 'tanguy is back', 2019, 93, 4.6);
+                VALUES ('tt1160419', 'dune part one', 2021, 155, 8.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1504320', 'the kings speech', 2010, 118, 8.0);
+                VALUES ('tt1160996', 'the colony', 2013, 95, 5.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4779344', 'benched', 2018, 110, 5.3);
+                VALUES ('tt1161864', 'the rite', 2011, 114, 6.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6445236', 'brothers in arms', 2017, 90, 4.7);
+                VALUES ('tt1164999', 'biutiful', 2010, 148, 7.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4718164', 'leftovers', 2017, 70, 8.0);
+                VALUES ('tt11655202', 'riders of justice', 2020, 116, 7.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8523028', 'roped', 2020, 91, 5.5);
+                VALUES ('tt11657662', 'the witcher nightmare of the wolf', 2021, 83, 7.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1698008', 'super shark', 2011, 87, 2.6);
+                VALUES ('tt11663228', 'jailer', 2023, 168, 7.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2512042', 'thank you for the music 40 jahre abba', 2012, 210, 5.6);
+                VALUES ('tt11671006', 'the man from toronto', 2022, 110, 5.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3325392', 'dalai lama awakening', 2014, 120, 8.2);
+                VALUES ('tt1167638', '22 bullets', 2010, 117, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2897102', 'let the lion roar', 2014, 65, 3.6);
+                VALUES ('tt1170358', 'the hobbit the desolation of smaug', 2013, 161, 7.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1916766', 'finding neighbors', 2013, 96, 5.9);
+                VALUES ('tt11703710', 'downton abbey a new era', 2022, 124, 7.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3163560', 'clydecynic', 2013, 86, 7.6);
+                VALUES ('tt1172049', 'demolition', 2015, 101, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt0211266', 'black star autobiography of a close friend', 2022, 85, 8.3);
+                VALUES ('tt1172991', 'the company men', 2010, 104, 6.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2946508', 'rummy', 2014, 145, 5.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13122258', 'do bairro', 2021, 75, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5087914', 'surviving the outbreak', 2017, 86, 2.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1345466', 'exodus fall', 2011, 93, 7.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1821694', 'red 2', 2013, 116, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7648416', 'just believe', 2018, 100, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8999850', 'the field afar', 2019, 52, 7.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14059620', 'the thing returns', 2021, 101, 4.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2149111', 'record paradise the musical life of joe lee', 2012, 53, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11177556', 'the amityville harvest', 2020, 93, 2.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14586176', 'a christmas number one', 2021, 112, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2094176', 'victimas del chantaje', 2011, 109, 9.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7160356', 'eat grow love', 2017, 53, 8.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2147550', 'life is not for cowards', 2012, 98, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9059896', 'the last supper the final days of the italian cannibal film', 2018, 51, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7165212', 'the work wife', 2019, 86, 4.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11409136', 'hoshi no ko', 2020, 110, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5601582', 'ovunque tu sarai', 2017, 89, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7056906', 'i love my mum', 2018, 86, 4.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15373868', 'kranti', 2023, 163, 5.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28437343', 'gj12 saga', 2023, 92, 8.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3466682', 'deadstar the movie', 2014, 63, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1636815', 'detective conan the lost ship in the sky', 2010, 103, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29457852', 'indiras emergency', 2023, 113, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1801523', 'at the edge of russia', 2010, 72, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1870526', 'spo0k', 2013, 103, 3.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11090896', 'spring follows winter', 2019, 90, 3.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10883362', 'sing me a song', 2019, 100, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6903440', 'manikarnika the queen of jhansi', 2019, 148, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15282148', 'a beautiful life', 2023, 98, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4038806', 'stray bullets', 2016, 83, 4.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14734144', 'you only live once', 2021, 85, 2.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6154306', 'amor a paso de gigante', 2016, 53, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3476372', 'the other side of the heart is white', 2014, 69, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt20783022', 'unidad gay lesbian latinos unidos', 2022, 60, 8.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2070862', 'temptation confessions of a marriage counselor', 2013, 111, 5.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7165594', 'a time for heaven', 2017, 87, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11924162', 'raani', 2021, 93, 8.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14773682', 'chitram x', 2021, 136, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6446740', 'aikatsu music awards the show where everyone gets an award', 2015, 56, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32778124', 'blur live at wembley stadium', 2024, 128, 8.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10939474', 'once upon a time in the apocalypse', 2021, 78, 3.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15100464', 'mabel', 2024, 83, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2628840', 'sattuman syyt', 2013, 45, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3742108', 'o brasil na batalha do atlântico', 2012, 82, 8.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1783305', 'insignificant celluloid', 2011, 78, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5255642', 'carrusel', 2012, 102, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12886356', 'choroibeti a journey', 2020, 97, 8.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4022132', 'tracking', 2022, 76, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2106480', 'whos watching the kids', 2012, 80, 4.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6268812', 'in my room', 2018, 119, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10776714', 'vindication swim', 2024, 98, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt16527290', 'wire room', 2022, 96, 3.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21979570', 'il soldato senza nome', 2023, 100, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14928886', 'gabriela the german with the bicycle', 2021, 95, 8.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7527082', 'hamid', 2018, 108, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9015120', 'the cross of the moment', 2016, 84, 8.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7833952', 'induced labor', 2018, 90, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6714656', 'dos besos troika', 2015, 111, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3683440', 'deyyam', 2021, 98, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7661762', 'kriminalnyye obstoyatelstva', 2011, 83, 2.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21623862', 'les 12 travaux dimelda', 2022, 93, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32475217', 'handsome guys', 2024, 101, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3389674', 'painting anna', 2019, 76, 7.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10500316', 'sister brother forever', 2017, 90, 9.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt31557983', 'imbroda el legado del maestro', 2024, 90, 8.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9808564', 'happy sardar', 2019, 153, 3.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2083174', 'road to ythaca', 2010, 70, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7213936', 'what will people say', 2017, 106, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12860870', 'the moths', 2020, 72, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5175426', 'newtons third law', 2017, 75, 5.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21815140', 'the pope drops in', 2023, 92, 4.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21202916', 'walden', 2023, 102, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3590648', 'love me', 2014, 80, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3302276', 'the kingdom within', 2014, 83, 8.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9425650', 'the poet', 2018, 123, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9347584', 'rogéria senhor astolfo barroso pinto', 2018, 82, 7.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3120406', 'star trek enterprise in conversation the first crew', 2013, 90, 8.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29582730', 'verdade ou consequência', 2023, 106, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5906392', 'thondi muthalum driksakshiyum', 2017, 135, 8.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1773774', 'the untitled kartik krishnan project', 2010, 75, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11120182', 'the butcher baronet', 2019, 73, 9.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6048638', 'a ghost waits', 2020, 80, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt35320751', 'balentes', 2024, 70, 6.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt26929417', 'birthing justice', 2023, 96, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6508998', 'elvis walks home', 2017, 90, 8.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3526286', 'horror', 2015, 97, 3.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12579470', 'robots', 2023, 93, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12308424', 'forget to die', 2018, 89, 8.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12986174', 'ayotzinapa 26', 2016, 96, 8.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2912144', 'manuscripts dont burn', 2013, 125, 7.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15420964', 'measures of men', 2023, 116, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5836432', '2nd greatest', 2016, 121, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5999530', 'before we vanish', 2017, 129, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11828004', 'rondo and bob', 2020, 100, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11648994', 'a lot of nothing', 2022, 104, 4.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10816448', 'the earth of three colors', 2021, 150, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10024036', 'satyarthi', 2019, 52, 8.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27705404', 'baato', 2020, 82, 7.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33094153', 'hyperfocus tomorrow x together vr concert', 2024, 60, 9.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15096280', 'the birthmark killer', 2021, 107, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8819168', 'employees mystery', 2019, 95, 7.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11011980', 'butenland', 2019, 82, 8.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2600170', 'sisi und ich erzähle euch die wahrheit', 2012, 84, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6236198', 'executor', 2017, 93, 4.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21390288', 'kong and jigme', 2022, 109, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8717948', 'americas secret war', 2017, 58, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3521332', 'traces of sandalwood', 2014, 95, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5903708', 'sole cuore amore', 2016, 113, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13916828', 'the witches of hollywood', 2020, 55, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1509797', 'living on love alone', 2010, 85, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28657882', 'hurricane season', 2023, 99, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2107803', 'the beat is the law fanfare for the common people', 2010, 91, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9266204', 'botox', 2020, 97, 5.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32263034', 'spiderman dimension rift', 2024, 127, 7.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2353751', '11100 oder die schule des lebens', 2012, 73, 8.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11069456', 'blood cove', 2019, 77, 4.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4428784', 'i fiori del male', 2015, 75, 2.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12800042', 'our gorgongosa', 2020, 60, 6.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5834410', 'the tigers apprentice', 2024, 84, 5.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2845640', 'patagonia de los sueños', 2014, 99, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5144770', 'the bookstore', 2016, 95, 8.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt30420755', 'adam eve', 2024, 95, 4.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10387818', 'centurion the dancing stallion', 2023, 98, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33355095', 'high stakes a night in the ward', 2024, 84, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27496775', 'sons', 2024, 100, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1987005', 'toro y torero', 2011, 75, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21325926', 'rangers of the lost ring', 2023, 79, 4.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2102348', 'kaf alqamar', 2011, 120, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14851900', 'being black in porn', 2021, 97, 9.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3177332', 'horror story', 2013, 91, 4.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1297925', 'devolved', 2010, 86, 3.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32886647', 'big brain billy theres nothing going on in my brain', 2020, 200, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1571249', 'the skeleton twins', 2014, 93, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3562816', 'nochnoy taverny ogonyok', 2012, 108, 3.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2412652', 'im me', 2012, 80, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8177638', 'the good exorcist', 2018, 86, 5.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1703123', 'birches', 2019, 90, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27746914', 'passing dreams', 2024, 85, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3522760', 'huba', 2014, 66, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2056658', 'my little friend', 2011, 73, 4.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10075650', 'indiana jones and the sanctuary of the black order', 2021, 100, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6485304', 'quién te cantará', 2018, 125, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1874577', 'kings nines', 2011, 78, 7.5);
+                VALUES ('tt11755740', 'texas chainsaw massacre', 2022, 81, 4.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
                 VALUES ('tt1175709', 'all good things', 2010, 101, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2272756', 'windigo', 2011, 93, 4.1);
+                VALUES ('tt11762114', 'mean girls', 2024, 112, 5.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10367074', 'red sandra', 2021, 107, 6.9);
+                VALUES ('tt11777738', 'a hero', 2021, 127, 7.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21366724', 'cosas de adultos', 2022, 98, 8.5);
+                VALUES ('tt1178665', 'a walk in the woods', 2015, 104, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt31549312', 'alien nemesis', 2023, 80, 2.4);
+                VALUES ('tt1179031', 'cold in july', 2014, 109, 6.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5218566', 'i did her wrong', 2016, 85, 9.3);
+                VALUES ('tt1179034', 'from paris with love', 2010, 92, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4363672', 'tough love', 2015, 89, 6.8);
+                VALUES ('tt1179056', 'a nightmare on elm street', 2010, 95, 5.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13248198', 'dogwashers', 2020, 107, 5.7);
+                VALUES ('tt1179069', '6 souls', 2010, 112, 6.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4132548', 'the measures', 2014, 46, 4.4);
+                VALUES ('tt1179933', '10 cloverfield lane', 2016, 103, 7.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1934469', 'wannabe macks', 2011, 74, 5.2);
+                VALUES ('tt11804152', 'till death', 2021, 91, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1886504', 'cowboys indians', 2011, 86, 2.4);
+                VALUES ('tt11813216', 'the banshees of inisherin', 2022, 114, 7.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11086496', 'the rolling stones bridges to buenos aires', 2019, 141, 7.6);
+                VALUES ('tt1181791', 'black death', 2010, 102, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4776964', 'faultless', 2016, 103, 6.4);
+                VALUES ('tt1182350', 'you will meet a tall dark stranger', 2010, 98, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1592534', 'todo lo que tú quieras', 2010, 101, 6.4);
+                VALUES ('tt11827628', 'memory', 2022, 114, 5.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3484312', 'zoe and the astronaut', 2018, 88, 5.3);
+                VALUES ('tt11847410', 'the fallout', 2021, 96, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29258210', 'the ringleader the case of the bling ring', 2023, 95, 5.6);
+                VALUES ('tt11851548', 'orphan first kill', 2022, 99, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4647432', 'get married urgently', 2015, 112, 4.2);
+                VALUES ('tt1185416', 'when in rome', 2010, 91, 5.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt26448350', 'dogs at the opera', 2023, 75, 4.6);
+                VALUES ('tt11858890', 'the creator', 2023, 133, 6.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1744826', 'au cas où je naurais pas la palme dor', 2011, 80, 5.9);
+                VALUES ('tt11866324', 'prey', 2022, 100, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3150876', 'tarr béla i used to be a filmmaker', 2013, 88, 7.1);
+                VALUES ('tt1188996', 'my name is khan', 2010, 165, 7.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3560420', 'nursery rhyme', 2017, 74, 6.2);
+                VALUES ('tt1189073', 'the skin i live in', 2011, 120, 7.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4488840', 'top coat cash', 2017, 105, 4.0);
+                VALUES ('tt1189340', 'the lincoln lawyer', 2011, 118, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1964868', 'late september', 2012, 87, 5.8);
+                VALUES ('tt11897478', 'the stranger', 2022, 117, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2070897', 'wrath of the crows', 2013, 87, 4.1);
+                VALUES ('tt11909878', 'hocus pocus 2', 2022, 103, 6.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7907898', 'up on the glass', 2020, 95, 4.1);
+                VALUES ('tt1192628', 'rango', 2011, 107, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5335198', 'selfieparty', 2016, 90, 5.0);
+                VALUES ('tt1193631', 'step up 3d', 2010, 107, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2119404', 'code red', 2013, 91, 4.2);
+                VALUES ('tt1194173', 'the bourne legacy', 2012, 135, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3340606', 'out of iran', 2013, 62, 5.9);
+                VALUES ('tt1195478', 'the fiveyear engagement', 2012, 124, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1821553', 'nostalgia the music of wim statius muller', 2013, 60, 9.3);
+                VALUES ('tt1196141', 'diary of a wimpy kid', 2010, 94, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2831554', 'pornumentary', 2013, 111, 4.6);
+                VALUES ('tt1196948', 'charlie countryman', 2013, 103, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14521410', 'shift', 2021, 61, 7.0);
+                VALUES ('tt11976134', 'singham again', 2024, 144, 4.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28129722', 'im rose darling', 2015, 141, 7.4);
+                VALUES ('tt11976532', 'vengeance', 2022, 107, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2837366', 'chanthaly', 2012, 98, 5.3);
+                VALUES ('tt11989890', 'david attenborough a life on our planet', 2020, 83, 8.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28437417', 'on i ona', 2024, 92, 4.8);
+                VALUES ('tt11998558', 'varisu', 2023, 169, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt26349734', 'trieste shines at night', 2023, 75, 7.1);
+                VALUES ('tt12003946', 'violent night', 2022, 112, 6.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1835933', 'three to dance', 2011, 110, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3202934', 'afternoon is night', 2015, 84, 8.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9354432', 'alberto and the concrete jungle', 2020, 99, 7.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13723064', 'all my friends are dead', 2020, 96, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2004419', 'sanatorium', 2013, 90, 4.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11211000', 'vladimir putins vacation in tuva', 2017, 46, 3.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10381602', 'kontora', 2019, 145, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2622728', 'die mit dem bauch tanzen', 2013, 79, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4538016', 'unless', 2016, 90, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4108170', 'il trovatore', 2014, 145, 7.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5437138', 'tectonic plate', 2016, 74, 6.2);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt22469456', 'lexicon', 2023, 100, 5.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32230877', 'a life directionless', 2022, 48, 5.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13399664', 'comrades cash how money found its way through the iron curtain', 2018, 79, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7420442', 'a family quartet', 2017, 90, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12194500', 'fearless foxes our story', 2020, 63, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3651358', 'ti sposo ma non troppo', 2014, 95, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7525514', 'bad reputation', 2018, 93, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt18377936', 'bloody mary', 2022, 91, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8774748', 'tiro e queda', 2019, 78, 3.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt19393984', 'the who incident', 2023, 77, 4.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8917170', 'rose plays julie', 2019, 100, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1454505', 'lapland odyssey', 2010, 92, 6.8);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8608144', 'the club of angels', 2020, 101, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6117486', 'those shocking shaking days', 2016, 88, 5.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6509432', 'the departure', 2017, 87, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5890002', 'love ke funday', 2016, 132, 6.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7290688', 'double echo', 2017, 89, 4.6);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1622560', 'luke and joe get lost', 2010, 62, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3058906', 'cru', 2014, 85, 6.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15715230', 'project space 13', 2021, 66, 5.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15152316', 'lockdown tower', 2022, 89, 4.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3762932', 'schwarze welt', 2014, 92, 6.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5661084', 'a foley artist', 2016, 101, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4310344', 'from my syrian room', 2014, 70, 6.9);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3524290', 'goli soda', 2014, 111, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5354986', 'depth two', 2016, 80, 7.7);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29173806', 'chitram choodara', 2024, 127, 4.5);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1365519', 'tomb raider', 2018, 119, 6.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2050620', 'songs of war music as a weapon', 2010, 52, 7.1);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3695700', 'die wirklichkeit kommt', 2014, 83, 3.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt20765982', 'yohanna', 2024, 85, 6.4);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1715348', 'stiff', 2010, 80, 3.0);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3345830', 'aajacha divas majha', 2013, 121, 7.3);
-INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3374866', 'purgatorio', 2014, 79, 4.9);
+                VALUES ('tt12004038', 'watcher', 2022, 96, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
                 VALUES ('tt1201607', 'harry potter and the deathly hallows part 2', 2011, 130, 8.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1784365', 'blackmail boys', 2010, 69, 4.2);
+                VALUES ('tt12037194', 'furiosa a mad max saga', 2024, 148, 7.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8259618', 'serendipity', 2018, 107, 6.5);
+                VALUES ('tt1204340', 'tyrannosaur', 2011, 92, 7.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt26763353', 'the trace of your lips', 2023, 81, 5.3);
+                VALUES ('tt1204342', 'the muppets', 2011, 103, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2982542', 'ru', 2014, 97, 7.9);
+                VALUES ('tt1204975', 'last vegas', 2013, 105, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6041134', 'deaths sonata', 2024, 103, 6.3);
+                VALUES ('tt1204977', 'ouija', 2014, 89, 4.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33047906', '37 the shadow and the prey', 2024, 93, 5.7);
+                VALUES ('tt1205537', 'jack ryan shadow recruit', 2014, 105, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3158906', 'north east africa the hidden truth', 2013, 121, 8.6);
+                VALUES ('tt1206543', 'out of the furnace', 2013, 116, 6.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14844492', 'laced', 2023, 99, 4.7);
+                VALUES ('tt1206885', 'rambo last blood', 2019, 89, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3686270', 'the way out', 2014, 103, 6.5);
+                VALUES ('tt1210166', 'moneyball', 2011, 133, 7.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5848986', 'you cant say no', 2018, 91, 4.7);
+                VALUES ('tt1210819', 'the lone ranger', 2013, 150, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3876910', 'dangerous', 2021, 99, 5.2);
+                VALUES ('tt1211837', 'doctor strange', 2016, 115, 7.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3717252', 'underworld blood wars', 2016, 91, 5.8);
+                VALUES ('tt1211956', 'escape plan', 2013, 115, 6.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6409490', 'the speed', 2012, 150, 4.8);
+                VALUES ('tt1212419', 'hereafter', 2010, 129, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8637424', 'la maravilla', 2019, 80, 6.5);
+                VALUES ('tt1212428', 'the lost city of z', 2016, 141, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2290597', 'possessions', 2012, 86, 5.1);
+                VALUES ('tt1212436', 'the backup plan', 2010, 104, 5.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10334998', 'remys demons', 2020, 104, 3.4);
+                VALUES ('tt1212450', 'lawless', 2012, 116, 7.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1876451', 'sparkle', 2012, 116, 5.8);
+                VALUES ('tt1213641', 'first man', 2018, 141, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29261532', 'under streetlights', 2024, 90, 8.8);
+                VALUES ('tt1213648', 'london boulevard', 2010, 103, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4519746', 'akela', 2017, 87, 8.4);
+                VALUES ('tt1213663', 'the worlds end', 2013, 109, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3497816', 'eighteen nineteen', 2012, 94, 6.2);
+                VALUES ('tt12141112', 'metal lords', 2022, 97, 6.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt31150488', 'spiderman seasons of change', 2022, 50, 8.1);
+                VALUES ('tt1214962', 'seeking justice', 2011, 105, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1732514', 'a schizophrenic love story', 2011, 98, 6.2);
+                VALUES ('tt1216475', 'cars 2', 2011, 106, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5776574', 'devils knock', 2016, 64, 5.9);
+                VALUES ('tt1216491', 'kill the messenger', 2014, 112, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15234108', 'networker baire', 2021, 90, 7.9);
+                VALUES ('tt1216492', 'leap year', 2010, 100, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2197566', 'epilogue', 2012, 90, 7.2);
+                VALUES ('tt1217209', 'brave', 2012, 93, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3561818', 'third eye', 2014, 90, 3.5);
+                VALUES ('tt1217613', 'battle los angeles', 2011, 116, 5.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14520478', 'the saviour brig pritam singh', 2021, 80, 8.9);
+                VALUES ('tt1219289', 'limitless', 2011, 105, 7.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2983884', 'entorno da beleza', 2012, 71, 7.6);
+                VALUES ('tt1219342', 'legend of the guardians the owls of gahoole', 2010, 97, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4605816', 'my fathers war', 2016, 97, 7.8);
+                VALUES ('tt1219827', 'ghost in the shell', 2017, 107, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2838406', 'the last inquisitors', 2013, 105, 6.3);
+                VALUES ('tt1220634', 'resident evil afterlife', 2010, 96, 5.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2290125', 'apocalypse theory', 2012, 111, 8.0);
+                VALUES ('tt1222817', 'zookeeper', 2011, 102, 5.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5131608', 'triokala the tree gifts of nature', 2016, 75, 6.7);
+                VALUES ('tt12261776', '65', 2023, 93, 5.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2786354', 'an ornament of faith', 2020, 89, 6.7);
+                VALUES ('tt12262116', 'thirteen lives', 2022, 147, 7.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32600135', 'operation war thunder', 2024, 74, 3.3);
+                VALUES ('tt1226229', 'get him to the greek', 2010, 109, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1226273', 'edge of darkness', 2010, 117, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12263384', 'extraction ii', 2023, 122, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1226753', 'the debt', 2010, 113, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1226837', 'beautiful boy', 2018, 120, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1228705', 'iron man 2', 2010, 124, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1228987', 'let me in', 2010, 116, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1229238', 'mission impossible ghost protocol', 2011, 132, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1229340', 'anchorman 2 the legend continues', 2013, 119, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1229822', 'jane eyre', 2011, 120, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1231583', 'due date', 2010, 95, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1231587', 'hot tub time machine', 2010, 99, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1232200', 'thats my boy', 2012, 116, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1232829', '21 jump street', 2012, 109, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1233301', 'ironclad', 2011, 121, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1234654', 'greenberg', 2010, 107, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1234719', 'red dawn', 2012, 93, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1234721', 'robocop', 2014, 117, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12349832', 'cuckoo', 2024, 102, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1235189', 'wild target', 2010, 98, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1235522', 'broken city', 2013, 109, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12361178', 'drishyam 2', 2021, 152, 8.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12361974', 'zack snyders justice league', 2021, 242, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1240982', 'your highness', 2011, 102, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12412888', 'sonic the hedgehog 2', 2022, 122, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1241317', 'death note', 2017, 101, 4.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1242432', 'i spit on your grave', 2010, 108, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1242460', 'we need to talk about kevin', 2011, 112, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1243957', 'the tourist', 2010, 103, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1243974', 'aloha', 2015, 105, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1244754', 'conviction', 2010, 107, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1245492', 'this is the end', 2013, 107, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1245526', 'red', 2010, 111, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1247690', 'serena', 2014, 109, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12477480', 'decision to leave', 2022, 139, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1250777', 'kickass', 2010, 117, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12530246', 'emancipation', 2022, 132, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12536294', 'spencer', 2021, 117, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1253863', '300 rise of an empire', 2014, 102, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1253864', 'immortals', 2011, 110, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1255919', 'holmes watson', 2018, 90, 3.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1255953', 'incendies', 2010, 131, 8.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12573454', 'sharper', 2023, 116, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12584954', 'twisters', 2024, 122, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1258972', 'the man with the iron fists', 2012, 95, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12593682', 'bullet train', 2022, 127, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1259521', 'the cabin in the woods', 2011, 95, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1259528', 'den of thieves', 2018, 140, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12610390', 'the union', 2024, 107, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12618926', 'parallel mothers', 2021, 123, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1261945', 'sex and the city 2', 2010, 146, 4.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1262416', 'scream 4', 2011, 111, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1262426', 'wicked', 2024, 160, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1265990', 'the roommate', 2011, 91, 4.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1267297', 'hercules', 2014, 98, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12676326', 'malcolm marie', 2021, 106, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12680684', 'the hand of god', 2021, 130, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1268799', 'a very harold kumar christmas', 2011, 90, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1270262', 'the devils double', 2011, 109, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1270761', 'dont be afraid of the dark', 2010, 99, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1270797', 'venom', 2018, 112, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1270798', 'xmen first class', 2011, 131, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1272878', '2 guns', 2013, 109, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12731980', 'old henry', 2021, 99, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1273235', 'a serbian film', 2010, 104, 4.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12735488', 'kalki 2898 ad', 2024, 180, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1273678', 'the spy next door', 2010, 94, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12747748', 'leave the world behind', 2023, 138, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12749596', 'host', 2020, 57, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12758060', 'tetris', 2023, 118, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1276104', 'looper', 2012, 119, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1276419', 'a royal affair', 2012, 137, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1277953', 'madagascar 3 europes most wanted', 2012, 93, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12789558', 'belfast', 2021, 98, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1279935', 'date night', 2010, 88, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12801262', 'luca', 2021, 95, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1282140', 'easy a', 2010, 92, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12823454', 'your place or mine', 2023, 109, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12834962', 'raksha bandhan', 2022, 108, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12838766', 'space sweepers', 2021, 136, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12844910', 'pathaan', 2023, 146, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1284575', 'bad teacher', 2011, 92, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1285009', 'the strangers prey at night', 2018, 85, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1285016', 'the social network', 2010, 120, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1285241', 'don 2', 2011, 148, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12873562', 'the invitation', 2022, 105, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1288558', 'evil dead', 2013, 91, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12888462', 'my octopus teacher', 2020, 85, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1289401', 'ghostbusters', 2016, 117, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1289403', 'the guernsey literary and potato peel pie society', 2018, 124, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12908110', 'mr harrigans phone', 2022, 104, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12908150', 'the life of chuck', 2024, 111, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1291150', 'teenage mutant ninja turtles', 2014, 101, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1291570', 'solace', 2015, 101, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12915716', 'adipurush', 2023, 179, 2.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1291580', 'behind the candelabra', 2013, 118, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1291584', 'warrior', 2011, 140, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12921446', 'the exorcist believer', 2023, 111, 4.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1292566', 'how to be single', 2016, 110, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1293847', 'xxx return of xander cage', 2017, 107, 5.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1294226', 'the last song', 2010, 107, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1294688', 'last night', 2010, 93, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1297919', 'blitz', 2011, 97, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1298644', 'the hustle', 2019, 93, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1298649', 'the watch', 2012, 102, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1298650', 'pirates of the caribbean on stranger tides', 2011, 136, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt12987894', 'american murder the family next door', 2020, 83, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1300854', 'iron man 3', 2013, 130, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1302006', 'the irishman', 2019, 209, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1302011', 'kung fu panda 2', 2011, 90, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13024674', 'army of thieves', 2021, 127, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1305797', 'enthiran', 2010, 174, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1306980', '5050', 2011, 100, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1307068', 'seeking a friend for the end of the world', 2012, 101, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1308728', 'the happytime murders', 2018, 91, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1308729', 'bullet to the head', 2012, 92, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13097932', 'one life', 2023, 109, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13109952', 'the trip', 2021, 113, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1311071', 'kill your darlings', 2013, 104, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1313092', 'animal kingdom', 2010, 113, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13130948', 'shehzada', 2023, 142, 4.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13131232', 'mission majnu', 2023, 129, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13143964', 'borat subsequent moviefilm', 2020, 95, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1314655', 'devil', 2010, 80, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1318514', 'rise of the planet of the apes', 2011, 105, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13186482', 'mufasa the lion king', 2024, 118, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13186604', 'uglies', 2024, 100, 4.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1320244', 'the last exorcism', 2010, 87, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1320253', 'the expendables', 2010, 103, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1320261', 'gullivers travels', 2010, 85, 4.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1321509', 'death at a funeral', 2010, 92, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1321510', 'in the heights', 2021, 143, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1321511', 'oldboy', 2013, 104, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1321860', 'the beaver', 2011, 91, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1321870', 'gangster squad', 2013, 113, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1322269', 'august osage county', 2013, 121, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1322312', 'going the distance', 2010, 102, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13223398', 'beast', 2022, 93, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1323045', 'frozen', 2010, 93, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1323594', 'despicable me', 2010, 95, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13238346', 'past lives', 2023, 105, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1324999', 'the twilight saga breaking dawn part 1', 2011, 117, 5.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1325004', 'the twilight saga eclipse', 2010, 124, 5.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1327194', 'the lucky one', 2012, 101, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13274016', 'reptile', 2023, 134, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1327773', 'the butler', 2013, 132, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13287846', 'napoleon', 2023, 158, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13314558', 'day shift', 2022, 113, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13320622', 'the lost city', 2022, 112, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13320662', 'slumberland', 2022, 117, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13327038', 'do revenge', 2022, 118, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1333125', 'movie 43', 2013, 94, 4.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1334102', 'the resident', 2011, 91, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1334260', 'never let me go', 2010, 103, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1334512', 'arthur', 2011, 110, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1334553', 'the perfect host', 2010, 93, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13345606', 'evil dead rise', 2023, 96, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13352968', 'good luck to you leo grande', 2022, 97, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1335975', '47 ronin', 2013, 128, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1336608', 'rock of ages', 2012, 123, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1336617', 'cyrus', 2010, 91, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13375076', 'the popes exorcist', 2023, 103, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1340094', 'the crow', 2024, 111, 4.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1340107', 'in a better world', 2010, 118, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1340138', 'terminator genisys', 2015, 126, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13403046', 'fresh', 2022, 114, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13405778', 'insidious the red door', 2023, 107, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1340800', 'tinker tailor soldier spy', 2011, 127, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1341167', 'four lions', 2010, 97, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1341188', 'how do you know', 2010, 121, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1343092', 'the great gatsby', 2013, 143, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13433802', 'a quiet place day one', 2024, 99, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1343727', 'dredd', 2012, 95, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13449624', 'jug jugg jeeyo', 2022, 148, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13452446', 'damsel', 2024, 110, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13453006', 'red rocket', 2021, 130, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13456318', 'persuasion', 2022, 108, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1345836', 'the dark knight rises', 2012, 164, 8.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13491110', 'antim the final truth', 2021, 138, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13510660', 'dhamaka', 2021, 103, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1351685', 'jack the giant slayer', 2013, 114, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13521006', 'beau is afraid', 2023, 179, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1355630', 'if i stay', 2014, 107, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1355631', 'the infiltrator', 2016, 127, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1355644', 'passengers', 2016, 116, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1355683', 'black mass', 2015, 123, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13560574', 'x', 2022, 105, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13603966', 'heart of stone', 2023, 122, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13610562', 'the bubble', 2022, 126, 4.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1361336', 'tom jerry', 2021, 101, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13622970', 'moana 2', 2024, 100, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13640696', 'see how they run', 2022, 98, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1365050', 'beasts of no nation', 2015, 137, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13651794', 'may december', 2023, 117, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1365519', 'tomb raider', 2018, 119, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1366344', 'the sitter', 2011, 81, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1366365', 'the cold light of day', 2012, 93, 4.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13664684', 'karthikeya 2', 2022, 150, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13669038', 'women talking', 2022, 104, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1369706', 'the ward', 2010, 89, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1371111', 'cloud atlas', 2012, 172, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1371150', 'this is where i leave you', 2014, 103, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1372686', 'coriolanus', 2011, 123, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1374989', 'pride and prejudice and zombies', 2016, 108, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1374992', 'upside down', 2012, 109, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13751694', 'animal', 2023, 204, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1375666', 'inception', 2010, 148, 8.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1375670', 'grown ups', 2010, 102, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1381404', 'the company you keep', 2012, 125, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13818368', 'fighter', 2024, 166, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13833688', 'the whale', 2022, 117, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13841850', 'men', 2022, 100, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1385826', 'the adjustment bureau', 2011, 106, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1385867', 'cop out', 2010, 107, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1386588', 'the other guys', 2010, 107, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1386697', 'suicide squad', 2016, 123, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1386703', 'total recall', 2012, 118, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1386932', 'ip man 2', 2010, 108, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13873302', 'against the ice', 2022, 102, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1389072', 'downsizing', 2017, 135, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1389096', 'stand up guys', 2012, 95, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1389137', 'we bought a zoo', 2011, 124, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1390411', 'in the heart of the sea', 2015, 122, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1392170', 'the hunger games', 2012, 142, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1392190', 'mad max fury road', 2015, 120, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1392214', 'prisoners', 2013, 153, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13923084', 'boy kills world', 2023, 111, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13927994', 'salaar', 2023, 175, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13957560', 'dumb money', 2023, 105, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1396218', 'mr poppers penguins', 2011, 94, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt13964390', 'under paris', 2024, 104, 5.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1396484', 'it', 2017, 135, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1397280', 'taken 2', 2012, 92, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1397514', 'journey 2 the mysterious island', 2012, 94, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1398426', 'straight outta compton', 2015, 147, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1399103', 'transformers dark of the moon', 2011, 154, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1399683', 'winters bone', 2010, 100, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1401143', 'rare exports', 2010, 84, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1401152', 'unknown', 2011, 113, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1402488', 'happy feet two', 2011, 100, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1403177', 'hesher', 2010, 106, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1403865', 'true grit', 2010, 110, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14039582', 'drive my car', 2021, 179, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1403981', 'remember me', 2010, 113, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1405365', 'celeste jesse forever', 2012, 92, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14079374', '14 peaks nothing is impossible', 2021, 101, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1408101', 'star trek into darkness', 2013, 132, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1408253', 'ride along', 2014, 99, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14088510', 'tarot', 2024, 92, 4.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1409024', 'men in black³', 2012, 106, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1410063', 'the flowers of war', 2011, 146, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14107554', 'dasvi', 2022, 125, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14109724', 'ticket to paradise', 2022, 104, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1411238', 'no strings attached', 2011, 108, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1411250', 'riddick', 2013, 119, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14114802', 'the outfit', 2022, 105, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1411697', 'the hangover part ii', 2011, 102, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1411704', 'hop', 2011, 95, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1412386', 'the best exotic marigold hotel', 2011, 124, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1412528', 'table 19', 2017, 87, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14128670', 'kimi', 2022, 89, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1413492', '12 strong', 2018, 130, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1413495', 'paranoia', 2013, 106, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14138650', 'the pale blue eye', 2022, 128, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1414382', 'you again', 2010, 105, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14152756', 'seaspiracy', 2021, 89, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1415283', 'nanny mcphee returns', 2010, 109, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1416801', 'kill the irishman', 2011, 106, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1418377', 'i frankenstein', 2014, 92, 5.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14208870', 'the fabelmans', 2022, 151, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14209916', 'cocaine bear', 2023, 95, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1421051', 'somewhere', 2010, 97, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1422136', 'a lonely place to die', 2011, 99, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14227048', 'family switch', 2023, 106, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14230388', 'asteroid city', 2023, 105, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14230458', 'poor things', 2023, 141, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1423995', 'stone', 2010, 105, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1424381', 'predators', 2010, 107, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1424432', 'senna', 2010, 106, 8.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14253846', 'speak no evil', 2022, 97, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14257582', 'wolfs', 2024, 108, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14260836', 'better man', 2024, 135, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1426329', 'lovelace', 2013, 93, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1428538', 'hansel gretel witch hunters', 2013, 88, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1430132', 'the wolverine', 2013, 126, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1430607', 'arthur christmas', 2011, 97, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1430612', 'brick mansions', 2014, 90, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1430626', 'the pirates band of misfits', 2012, 88, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14309446', 'me time', 2022, 101, 5.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1431045', 'deadpool', 2016, 108, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1431181', 'another year', 2010, 129, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1433108', 'faster', 2010, 98, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14331144', 'jujutsu kaisen 0', 2021, 112, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1433811', 'disconnect', 2012, 115, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1435513', 'hysteria', 2011, 100, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1436045', '13 assassins', 2010, 141, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1436562', 'rio', 2011, 96, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14371878', 'lift', 2024, 107, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1437358', 'sleep tight', 2011, 102, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14376344', 'cha cha real smooth', 2022, 107, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1438176', 'fright night', 2011, 106, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1438254', 'charlie st cloud', 2010, 99, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1439572', 'perfect sense', 2011, 92, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1440129', 'battleship', 2012, 131, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1440161', 'a little bit of heaven', 2011, 106, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1440292', 'submarine', 2010, 97, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1440345', 'this must be the place', 2011, 118, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1440728', 'the american', 2010, 105, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1441326', 'martha marcy may marlene', 2011, 102, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1441395', 'under the skin', 2013, 108, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1441912', 'the way', 2010, 123, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1441952', 'salmon fishing in the yemen', 2011, 107, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1441953', 'testament of youth', 2014, 129, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14439896', 'father stu', 2022, 124, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14444726', 'tár', 2022, 158, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1446192', 'rise of the guardians', 2012, 97, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1446714', 'prometheus', 2012, 124, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1448754', 'thanksgiving', 2023, 106, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1448755', 'killer elite', 2011, 116, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1449283', 'winnie the pooh', 2011, 63, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1450321', 'filth', 2013, 97, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14509110', 'no one will save you', 2023, 93, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1453405', 'monsters university', 2013, 104, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14537248', 'nefarious', 2023, 97, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14539740', 'godzilla x kong the new empire', 2024, 115, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1454029', 'the help', 2011, 146, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1454468', 'gravity', 2013, 91, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14549466', 'crimes of the future', 2022, 107, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1456635', 'goon', 2011, 92, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1456941', 'tomorrow when the war began', 2010, 104, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1457767', 'the conjuring', 2013, 112, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14577874', 'its whats inside', 2024, 103, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1458169', 'kidnap', 2017, 95, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1458175', 'the next three days', 2010, 133, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1462041', 'dream house', 2011, 92, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1462758', 'buried', 2010, 95, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1462764', 'indiana jones and the dial of destiny', 2023, 154, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1462769', 'the odd life of timothy green', 2012, 105, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1462900', 'the grandmaster', 2013, 130, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1464174', 'big mommas like father like son', 2011, 107, 4.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14641788', 'enola holmes 2', 2022, 129, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1464335', 'uncharted', 2022, 116, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1464540', 'i am number four', 2011, 111, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1464580', 'stake land', 2010, 98, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1464763', 'mute', 2018, 126, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1465522', 'tucker and dale vs evil', 2010, 89, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1469304', 'baywatch', 2017, 116, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1470023', 'macgruber', 2010, 90, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1470827', 'monsters', 2010, 94, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14715170', 'falling for christmas', 2022, 93, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14723224', 'the cost of deception', 2021, 125, 1.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1473832', 'bridget joness baby', 2016, 123, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1477076', 'saw 3d', 2010, 90, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1477834', 'aquaman', 2018, 143, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1477837', 'cedar rapids', 2011, 87, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1478338', 'bridesmaids', 2011, 125, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1478839', 'the art of racing in the rain', 2019, 109, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1478964', 'attack the block', 2011, 88, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1480295', 'killing season', 2013, 91, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1480656', 'cosmopolis', 2012, 109, 5.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1481572', 'happythankyoumoreplease', 2010, 100, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14817272', 'the weekend away', 2022, 89, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1482459', 'the lorax', 2012, 86, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14824600', 'the lord of the rings the war of the rohirrim', 2024, 134, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14826022', 'you people', 2023, 117, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1483013', 'oblivion', 2013, 124, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14846026', 'sisu', 2022, 91, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14849194', 'the holdovers', 2023, 133, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14856980', 'atlas', 2024, 118, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1485796', 'the greatest showman', 2017, 105, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14858658', 'blink twice', 2024, 102, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1486185', 'red riding hood', 2011, 100, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1486192', 'the raven', 2012, 110, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1486834', 'what if', 2013, 98, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1488555', 'the changeup', 2011, 112, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1488589', 'guillermo del toros pinocchio', 2022, 117, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1488606', 'triple frontier', 2019, 125, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1489887', 'booksmart', 2019, 102, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1489889', 'central intelligence', 2016, 107, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1490017', 'the lego movie', 2014, 100, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1491044', 'the iceman', 2012, 106, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14914430', 'unfrosted', 2024, 97, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14914988', 'satyaprem ki katha', 2023, 146, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14948432', 'red one', 2024, 123, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1496025', 'underworld awakening', 2012, 88, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14961016', 'im still here', 2024, 137, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1496422', 'the paperboy', 2012, 107, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14966898', 'late night with the devil', 2023, 93, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14992922', 'the tinder swindler', 2022, 114, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14993250', 'rocky aur rani kii prem kahaani', 2023, 168, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1499658', 'horrible bosses', 2011, 98, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt14998742', 'rebel moon part one a child of fire', 2023, 133, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15009428', 'argylle', 2024, 139, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1502397', 'bad boys for life', 2020, 124, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1502404', 'drive angry', 2011, 104, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1502407', 'halloween', 2018, 106, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1502712', 'fantastic four', 2015, 100, 4.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1504320', 'the kings speech', 2010, 118, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1506999', 'haywire', 2011, 93, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15083184', 'i came by', 2022, 110, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15097216', 'jai bhim', 2021, 164, 8.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1509767', 'the three musketeers', 2011, 110, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1512235', 'super', 2010, 96, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1512685', 'julias eyes', 2010, 118, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15145764', 'freddy', 2022, 124, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1515091', 'sherlock holmes a game of shadows', 2011, 129, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15153532', 'strays', 2023, 93, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15163652', 'thunivu', 2023, 146, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1517260', 'the host', 2013, 125, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1517268', 'barbie', 2023, 114, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1517451', 'a star is born', 2018, 136, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1517489', 'spy kids 4 all the time in the world', 2011, 89, 3.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1521197', 'anonymous', 2011, 130, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15239678', 'dune part two', 2024, 166, 8.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1524137', 'contraband', 2012, 109, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1524930', 'vacation', 2015, 99, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15255288', 'murder mystery 2', 2023, 89, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15255876', 'emily the criminal', 2022, 97, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15257160', 'pain hustlers', 2023, 123, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15268244', 'joy ride', 2023, 95, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1527186', 'melancholia', 2011, 135, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1527788', 'the man from nowhere', 2010, 119, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1528071', 'horns', 2013, 120, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1528100', 'exodus gods and kings', 2014, 150, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1528854', 'daddys home', 2015, 96, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1529572', 'trust', 2010, 106, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15301048', 'argentina 1985', 2022, 140, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1530509', 'the human centipede 2 full sequence', 2011, 91, 3.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15314262', 'the beekeeper', 2024, 105, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1531663', 'everything must go', 2010, 97, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1531901', 'byzantium', 2012, 118, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1532503', 'beginners', 2010, 105, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15325794', 'fall', 2022, 107, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15326988', 'ghosted', 2023, 117, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15327088', 'kantara', 2022, 148, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15334030', 'martin', 2024, 147, 2.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15339456', 'marcel the shell with shoes on', 2021, 90, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15339570', 'champions', 2023, 124, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1535108', 'elysium', 2013, 109, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1535109', 'captain phillips', 2013, 134, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1535438', 'hope springs', 2012, 100, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15354916', 'jawan', 2023, 169, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1535616', 'the divide', 2011, 112, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1536044', 'paranormal activity 2', 2010, 91, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1536537', 'what happened to monday', 2017, 123, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1538403', 'the mortal instruments city of bones', 2013, 130, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15392282', 'merry christmas', 2024, 144, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15398776', 'oppenheimer', 2023, 180, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1540011', 'blair witch', 2016, 89, 5.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1540128', 'playing for keeps', 2012, 105, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1540133', 'the guard', 2011, 96, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1541160', 'flypaper', 2011, 87, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1542344', '127 hours', 2010, 94, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15428134', 'dunki', 2023, 160, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15433956', 'hanu man', 2024, 158, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15434074', 'kho gaye hum kahan', 2023, 135, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1547234', 'premium rush', 2012, 91, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15474916', 'smile', 2022, 115, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1549572', 'another earth', 2011, 92, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1549920', 'the last stand', 2013, 107, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15501640', 'drishyam 2', 2022, 140, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1555149', 'elite squad 2 the enemy within', 2010, 115, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15552142', 'caddo lake', 2024, 103, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15574270', 'i saw the tv glow', 2024, 100, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1559547', 'beautiful creatures', 2013, 124, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15600222', 'an action hero', 2022, 130, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1560139', 'boy', 2010, 87, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1560220', 'zombieland double tap', 2019, 99, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1560747', 'the master', 2012, 138, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1560985', 'the devil inside', 2012, 83, 4.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1562871', 'raone', 2011, 156, 5.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1562872', 'zindagi na milegi dobara', 2011, 155, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1563738', 'one day', 2011, 107, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1563742', 'overboard', 2018, 112, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1564367', 'just go with it', 2011, 117, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1564585', 'skyline', 2010, 92, 4.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15654328', 'leo', 2023, 164, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15671028', 'no hard feelings', 2023, 103, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1567437', 'the voices', 2014, 103, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1567609', 'get the gringo', 2012, 96, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15679400', 'knock at the cabin', 2023, 100, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1568338', 'man on a ledge', 2012, 102, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1568346', 'the girl with the dragon tattoo', 2011, 158, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1568911', 'war horse', 2011, 146, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1568921', 'the secret world of arrietty', 2010, 94, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1570728', 'crazy stupid love', 2011, 118, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1571222', 'a dangerous method', 2011, 99, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1571234', 'mortal engines', 2018, 128, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1571249', 'the skeleton twins', 2014, 93, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1572315', 'texas chainsaw', 2013, 92, 4.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15732324', 'omg 2', 2023, 156, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15767808', 'the last kingdom seven kings must die', 2023, 117, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15782690', 'in the land of saints and sinners', 2023, 106, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1578275', 'the dilemma', 2011, 111, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15789038', 'elemental', 2023, 101, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15789472', 'nowhere', 2023, 109, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15791034', 'barbarian', 2022, 102, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1582507', 'house at the end of the street', 2012, 101, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1583420', 'larry crowne', 2011, 98, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1583421', 'gi joe retaliation', 2013, 110, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1584016', 'catfish', 2010, 87, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1586265', 'what to expect when youre expecting', 2012, 110, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1586752', 'machine gun preacher', 2011, 129, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1587310', 'maleficent', 2014, 97, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1587707', 'exit through the gift shop', 2010, 87, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1588170', 'i saw the devil', 2010, 144, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1588173', 'warm bodies', 2013, 98, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1588334', 'jeff who lives at home', 2011, 83, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1588398', 'sleeping beauty', 2011, 101, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1590089', 'confessions', 2010, 106, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1590193', 'the commuter', 2018, 104, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1591095', 'insidious', 2010, 103, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1591479', 'act of valor', 2012, 110, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1592281', 'take this waltz', 2011, 116, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1592525', 'lockout', 2012, 95, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1592873', 'lol', 2012, 97, 4.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1594562', 'the innkeepers', 2011, 101, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1595656', 'to the wonder', 2012, 112, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1596343', 'fast five', 2011, 130, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1596345', 'pawn sacrifice', 2014, 115, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1596346', 'soul surfer', 2011, 112, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1596350', 'this means war', 2012, 103, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1596363', 'the big short', 2015, 130, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1596365', 'the woman in black', 2012, 95, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt15979666', 'the archies', 2023, 141, 4.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1598642', 'z for zachariah', 2015, 98, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1598778', 'contagion', 2011, 106, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1598822', 'new years eve', 2011, 118, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1598828', 'one for the money', 2012, 91, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1599348', 'safe house', 2012, 115, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1600195', 'abduction', 2011, 106, 5.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1600196', 'the drop', 2014, 106, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1600524', 'heartbeats', 2010, 101, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1601913', 'the grey', 2011, 117, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1602613', 'only god forgives', 2013, 90, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1602620', 'amour', 2012, 127, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1605630', 'american reunion', 2012, 113, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1605717', 'frank', 2014, 95, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1605783', 'midnight in paris', 2011, 94, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1606378', 'a good day to die hard', 2013, 98, 5.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1606389', 'the vow', 2012, 104, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1606392', 'win win', 2011, 106, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1608290', 'zoolander 2', 2016, 101, 4.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1611224', 'abraham lincoln vampire hunter', 2012, 105, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1612774', 'rubber', 2010, 82, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1613750', 'kontiki', 2012, 118, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1614989', 'headhunters', 2011, 100, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1615065', 'savages', 2012, 131, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1615147', 'margin call', 2011, 107, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1615160', 'the foreigner', 2017, 113, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1615918', 'alvin and the chipmunks chipwrecked', 2011, 87, 4.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1616195', 'j edgar', 2011, 137, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1617661', 'jupiter ascending', 2015, 127, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1618434', 'murder mystery', 2019, 97, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1618442', 'the last witch hunter', 2015, 106, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1619029', 'jackie', 2016, 100, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1620680', 'a wrinkle in time', 2018, 109, 4.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1620719', 'dabangg', 2010, 126, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1620933', 'paan singh tomar', 2012, 135, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1620935', 'bleed for this', 2016, 117, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1620981', 'the addams family', 2019, 86, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1621045', 'think like a man', 2012, 122, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1622547', '30 minutes or less', 2011, 83, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1622979', 'final destination 5', 2011, 92, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1623205', 'oz the great and powerful', 2013, 130, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1623288', 'paranorman', 2012, 92, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1625346', 'young adult', 2011, 94, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1626146', 'hector and the search for happiness', 2014, 114, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt16277242', 'society of the snow', 2023, 144, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1628841', 'independence day resurgence', 2016, 120, 5.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1629757', 'chasing mavericks', 2012, 116, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1630029', 'avatar the way of water', 2022, 192, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt16300962', 'when evil lurks', 2023, 99, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt16304446', 'fair play', 2023, 113, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1631867', 'edge of tomorrow', 2014, 113, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1632708', 'friends with benefits', 2011, 109, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1634106', 'bloodshot', 2020, 109, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1634122', 'johnny english reborn', 2011, 101, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt16366836', 'venom the last dance', 2024, 110, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1636826', 'project x', 2012, 88, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1637688', 'in time', 2011, 109, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1637706', 'our idiot brother', 2011, 90, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1637725', 'ted', 2012, 106, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1638002', 'love rosie', 2014, 102, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1638355', 'the man from uncle', 2015, 116, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1639426', 'udaan', 2010, 134, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1640459', 'hobo with a shotgun', 2011, 86, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1641638', 'the legend is born ip man', 2010, 100, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt16419074', 'air', 2023, 111, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt16426418', 'challengers', 2024, 131, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt16428256', 'suzume', 2022, 122, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt16431870', 'the family plan', 2023, 118, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1645080', 'the art of getting by', 2011, 83, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1645089', 'inside job', 2010, 109, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1645155', 'erased', 2012, 100, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1645170', 'the dictator', 2012, 83, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1646971', 'how to train your dragon 2', 2014, 102, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1646980', 'the double', 2011, 98, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1646987', 'wrath of the titans', 2012, 99, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1647668', 'million dollar arm', 2014, 124, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1648179', 'here comes the boom', 2012, 105, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1648190', 'the dark tower', 2017, 95, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1648216', 'three steps above heaven', 2010, 118, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt16492678', 'demon slayer kimetsu no yaiba tsuzumi mansion arc', 2021, 87, 8.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1649418', 'the gray man', 2022, 122, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1649419', 'the impossible', 2012, 114, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1649444', 'rec 3 genesis', 2012, 80, 5.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1650043', 'diary of a wimpy kid rodrick rules', 2011, 99, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1650062', 'super 8', 2011, 112, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1650554', 'kickass 2', 2013, 103, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1653665', 'goodbye christopher robin', 2017, 107, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt16539454', 'pushpa the rule part 2', 2024, 201, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1655389', 'blonde', 2022, 167, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1655420', 'my week with marilyn', 2011, 99, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1655441', 'the age of adaline', 2015, 112, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1655442', 'the artist', 2011, 100, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1655460', 'wanderlust', 2012, 98, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1656186', 'stolen', 2012, 96, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1656190', 'safe', 2012, 94, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1657507', 'colombiana', 2011, 108, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1658837', 'the tall man', 2012, 106, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1659337', 'the perks of being a wallflower', 2012, 103, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1660648', 'ricky stanicky', 2024, 113, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1661199', 'cinderella', 2015, 105, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1661382', 'grudge match', 2013, 113, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1663202', 'the revenant', 2015, 156, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1663662', 'pacific rim', 2013, 131, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1666186', 'vampires suck', 2010, 82, 3.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1666801', 'the duff', 2015, 101, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1667310', 'deadfall', 2012, 95, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1667353', 'mirror mirror', 2012, 106, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1667889', 'ice age continental drift', 2012, 88, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1668191', 'hunting season', 2010, 140, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1670345', 'now you see me', 2013, 115, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1673434', 'the twilight saga breaking dawn part 2', 2012, 115, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1674771', 'entourage', 2015, 104, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1674784', 'trespass', 2011, 91, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1675192', 'take shelter', 2011, 120, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1675434', 'the intouchables', 2011, 112, 8.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1677720', 'ready player one', 2018, 140, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1679335', 'trolls', 2016, 92, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1682180', 'stoker', 2013, 99, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1683526', 'detachment', 2011, 98, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1684233', 'welcome to the punch', 2013, 99, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1684562', 'the fall guy', 2024, 126, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1686821', 'vampire academy', 2014, 104, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1687901', 'the awakening', 2011, 102, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1690953', 'despicable me 2', 2013, 98, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1691916', 'before i fall', 2017, 98, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1691917', 'planes', 2013, 91, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1692486', 'carnage', 2011, 80, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1694020', 'the guilt trip', 2012, 95, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1695843', 'haunted mansion', 2023, 123, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1698641', 'alexander and the terrible horrible no good very bad day', 2014, 81, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1700841', 'sausage party', 2016, 89, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt17009710', 'anatomy of a fall', 2023, 151, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1702439', 'safe haven', 2013, 115, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1702443', 'justin bieber never say never', 2011, 105, 1.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt17024450', 'the equalizer 3', 2023, 109, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1703148', 'the hunter', 2011, 100, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1703199', 'grave encounters', 2011, 92, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt17041964', 'navalny', 2022, 99, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1704573', 'bernie', 2011, 104, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1706593', 'chronicle', 2012, 84, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1706620', 'snowpiercer', 2013, 126, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1707386', 'les misérables', 2012, 158, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt17076046', 'weird the al yankovic story', 2022, 108, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1709143', 'the last days on mars', 2013, 98, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1711425', '21 over', 2013, 93, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1711525', 'office christmas party', 2016, 105, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1712170', 'alex cross', 2012, 101, 5.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1712261', 'triple 9', 2016, 115, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1713476', 'the bay', 2012, 85, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1714203', 'piranha 3dd', 2012, 83, 3.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1714206', 'the spectacular now', 2013, 95, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1714209', 'in the land of blood and honey', 2011, 127, 4.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1714210', 'weekend', 2011, 97, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1714915', 'only lovers left alive', 2013, 123, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt17163970', 'wallace gromit vengeance most fowl', 2024, 82, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1716772', 'the inbetweeners', 2011, 97, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1716777', 'people like us', 2012, 114, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1720616', 'friends with kids', 2011, 107, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1723121', 'were the millers', 2013, 110, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1723811', 'shame', 2011, 101, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1726592', 'before i go to sleep', 2014, 92, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1726669', 'killer joe', 2011, 102, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1727388', 'the way way back', 2013, 103, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1727770', 'absolutely anything', 2015, 85, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1727776', 'scouts guide to the zombie apocalypse', 2015, 93, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1727824', 'bohemian rhapsody', 2018, 134, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt17279496', 'civil war', 2024, 109, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1729637', 'bodyguard', 2011, 130, 4.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1730768', 'the zookeepers wife', 2017, 127, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1731141', 'enders game', 2013, 114, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1731697', 'the lords of salem', 2012, 101, 5.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1734493', 'unlocked', 2017, 98, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt17351924', 'saltburn', 2023, 131, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1735898', 'snow white and the huntsman', 2012, 127, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1736633', 'oslo august 31st', 2011, 95, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1740707', 'troll hunter', 2010, 103, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1741273', 'secret in their eyes', 2015, 111, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1742044', 'jersey boys', 2014, 134, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1742334', 'sabotage', 2014, 109, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1745960', 'top gun maverick', 2022, 130, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1748122', 'moonrise kingdom', 2012, 94, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1748179', 'red lights', 2012, 114, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1748227', 'the collection', 2012, 82, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt17505010', 'horizon an american saga chapter 1', 2024, 181, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt17526714', 'the substance', 2024, 141, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt17527468', 'bottoms', 2023, 91, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1753383', 'a dogs purpose', 2017, 100, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1754656', 'the little prince', 2015, 108, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1754700', 'the prototype', 2022, 97, 2.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1758692', 'like crazy', 2011, 86, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1758795', 'the to do list', 2013, 104, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1758810', 'the snowman', 2017, 119, 5.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1758830', 'this is 40', 2012, 134, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1763303', 'the first time', 2012, 95, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1764183', 'arbitrage', 2012, 107, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1764234', 'killing them softly', 2012, 97, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1764651', 'the expendables 2', 2012, 103, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt17663992', 'scream vi', 2023, 122, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1767354', 'odd thomas', 2013, 97, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1767372', 'shes funny that way', 2014, 93, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1772240', 'apollo 18', 2011, 86, 5.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1772250', 'the hidden face', 2011, 97, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1772264', 'stonehearst asylum', 2014, 112, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1772288', 'danny collins', 2015, 106, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1772341', 'wreckit ralph', 2012, 101, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1772925', 'jiro dreams of sushi', 2011, 81, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1778304', 'paranormal activity 3', 2011, 83, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1781769', 'anna karenina', 2012, 129, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1781922', 'no escape', 2015, 103, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1783232', 'conquest 1453', 2012, 162, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1783732', 'john dies at the end', 2012, 99, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1787988', 'talaash the answer lies within', 2012, 140, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1788391', 'kill list', 2011, 95, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1790809', 'pirates of the caribbean dead men tell no tales', 2017, 129, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1790864', 'the maze runner', 2014, 113, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1790885', 'zero dark thirty', 2012, 157, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1790886', 'the campaign', 2012, 85, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1791528', 'inherent vice', 2014, 148, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1791682', 'while were young', 2014, 97, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1798188', 'from up on poppy hill', 2011, 91, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1798603', 'bad santa 2', 2016, 92, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1798684', 'southpaw', 2015, 124, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1798709', 'her', 2013, 126, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1800241', 'american hustle', 2013, 138, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1800246', 'that awkward moment', 2014, 94, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1800302', 'gold', 2016, 120, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1800741', 'step up revolution', 2012, 99, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt18072316', 'bade miyan chote miyan', 2024, 163, 3.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1809398', 'unbroken', 2014, 137, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1814621', 'admission', 2013, 107, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1815862', 'after earth', 2013, 100, 4.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1817273', 'the place beyond the pines', 2012, 140, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1821480', 'kahaani', 2012, 122, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1821549', 'nebraska', 2013, 115, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1821658', 'the nut job', 2014, 85, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1821694', 'red 2', 2013, 116, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1821700', 'to strike', 2013, 130, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1823664', 'annie', 2014, 118, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1823672', 'chappie', 2015, 120, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1825157', 'the double', 2013, 93, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1825683', 'black panther', 2018, 134, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt18259086', 'sonic the hedgehog 3', 2024, 110, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1827487', 'once upon a time in anatolia', 2011, 157, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1832382', 'a separation', 2011, 123, 8.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1833116', 'the informer', 2019, 113, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1833673', 'dhoom 3', 2013, 172, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1837703', 'the fifth estate', 2013, 128, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1837709', 'winters tale', 2014, 118, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1838544', 'gone', 2012, 94, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1838556', 'honest thief', 2020, 99, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt18394190', 'old dads', 2023, 104, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1839492', 'ruby sparks', 2012, 104, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1839596', 'rockstar', 2011, 159, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1840309', 'divergent', 2014, 139, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1840417', 'the words', 2012, 102, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt18411490', 'tiger 3', 2023, 155, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt18412256', 'alien romulus', 2024, 119, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1843866', 'captain america the winter soldier', 2014, 136, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1846589', 'hunter killer', 2018, 121, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1850397', 'the loft', 2014, 108, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1850457', 'sisters', 2015, 118, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1853728', 'django unchained', 2012, 165, 8.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1853739', 'youre next', 2011, 95, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1854564', 'percy jackson sea of monsters', 2013, 106, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt18550140', 'holy spider', 2022, 118, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1855199', 'end of watch', 2012, 109, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1855325', 'resident evil retribution', 2012, 95, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt18559464', 'my old ass', 2024, 89, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1856101', 'blade runner 2049', 2017, 164, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1859650', 'to rome with love', 2012, 112, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1860213', 'dirty grandpa', 2016, 102, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1860242', 'the highwaymen', 2019, 132, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1860353', 'turbo', 2013, 96, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1860357', 'deepwater horizon', 2016, 107, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1862079', 'safety not guaranteed', 2012, 86, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1865505', 'song of the sea', 2014, 93, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1866249', 'the sessions', 2012, 95, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1869347', 'crooked house', 2017, 115, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1869716', 'the east', 2013, 116, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1872181', 'the amazing spiderman 2', 2014, 142, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1872194', 'the judge', 2014, 141, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1872818', 'liberal arts', 2012, 97, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1877830', 'the batman', 2022, 176, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1877832', 'xmen days of future past', 2014, 132, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1878870', 'the edge of seventeen', 2016, 104, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1879016', 'operation mincemeat', 2021, 128, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1881002', 'maggie', 2015, 95, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt18925334', 'pearl', 2022, 103, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1893256', 'redemption', 2013, 100, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1894476', 'how i live now', 2013, 101, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1895315', 'brimstone', 2016, 148, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1895587', 'spotlight', 2015, 129, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1896747', 'fly me to the moon', 2024, 132, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1899353', 'the raid redemption', 2011, 101, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1904996', 'parker', 2013, 118, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1905040', 'devils pass', 2013, 100, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1905041', 'fast furious 6', 2013, 130, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1907668', 'flight', 2012, 138, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1911644', 'the call', 2013, 94, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1911658', 'penguins of madagascar', 2014, 92, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1912398', 'god bless america', 2011, 105, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1915581', 'magic mike', 2012, 110, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1920849', 'bachelorette', 2012, 87, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1921064', 'pompeii', 2014, 105, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1922777', 'sinister', 2012, 110, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1924245', 'cry macho', 2021, 104, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1924396', 'the best offer', 2013, 131, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1924429', 'trance', 2013, 101, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1924435', 'lets be cops', 2014, 104, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1929263', 'heaven is for real', 2014, 99, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1931435', 'the big wedding', 2013, 89, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1931533', 'seven psychopaths', 2012, 110, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1932718', 'thanks for sharing', 2012, 112, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1934231', 'delhi belly', 2011, 103, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1935179', 'mud', 2012, 130, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1935859', 'miss peregrines home for peculiar children', 2016, 127, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1937149', 'the body', 2012, 112, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1937264', 'now is good', 2012, 103, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1937390', 'nymphomaniac vol i', 2013, 117, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1939659', 'carrie', 2013, 100, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt19500164', 'nimona', 2023, 101, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1950186', 'ford v ferrari', 2019, 152, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1951181', 'the immigrant', 2013, 120, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1951261', 'the hangover part iii', 2013, 100, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1951264', 'the hunger games catching fire', 2013, 146, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1951265', 'the hunger games mockingjay part 1', 2014, 123, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1951266', 'the hunger games mockingjay part 2', 2015, 137, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1954470', 'gangs of wasseypur', 2012, 321, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1956620', 'sex tape', 2014, 94, 5.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1959332', 'american mary', 2012, 103, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1959490', 'noah', 2014, 138, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1959563', 'the hitmans bodyguard', 2017, 118, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1961175', 'american assassin', 2017, 111, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt19623240', 'winniethepooh blood and honey', 2023, 84, 2.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt19637052', 'love lies bleeding', 2024, 104, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1964418', 'tomorrowland', 2015, 130, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1964624', 'in the house', 2012, 105, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1966604', 'the imposter', 2012, 99, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1967545', 'labor day', 2013, 111, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1971325', 'automata', 2014, 109, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1971352', 'compliance', 2012, 90, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1972571', 'a most wanted man', 2014, 122, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1972591', 'king arthur legend of the sword', 2017, 126, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1972779', 'the best of me', 2014, 118, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1974419', 'the neon demon', 2016, 117, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1976000', 'the two faces of january', 2014, 96, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1976009', 'victor frankenstein', 2015, 110, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt19770238', 'aftersun', 2022, 102, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1979319', 'rurouni kenshin part i origins', 2012, 134, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1979320', 'rush', 2013, 123, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1979376', 'toy story 4', 2019, 100, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1979388', 'the good dinosaur', 2015, 93, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt1980209', 'pain gain', 2013, 129, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
                 VALUES ('tt1980929', 'begin again', 2013, 104, 7.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1836818', 'im yours', 2011, 90, 5.5);
+                VALUES ('tt1981115', 'thor the dark world', 2013, 112, 6.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6183106', 'iron cowboy', 2018, 76, 6.6);
+                VALUES ('tt1981128', 'geostorm', 2017, 111, 5.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt30415406', 'ollie', 2024, 102, 6.6);
+                VALUES ('tt1981677', 'pitch perfect', 2012, 112, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27262393', 'unlocking the soul', 2023, 142, 7.8);
+                VALUES ('tt1985949', 'the angry birds movie', 2016, 97, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7905078', 'demonic doorways', 2021, 91, 3.1);
+                VALUES ('tt1985966', 'cloudy with a chance of meatballs 2', 2013, 95, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3763866', 'zoom', 2015, 96, 6.0);
+                VALUES ('tt19864802', 'land of bad', 2024, 113, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14722516', 'a letter from yene', 2022, 50, 6.1);
+                VALUES ('tt1987680', 'the upside', 2017, 126, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8060120', 'watch this movie', 2019, 120, 7.8);
+                VALUES ('tt1990314', 'robot frank', 2012, 89, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15048126', 'the grandmaster of kungfu', 2019, 74, 6.4);
+                VALUES ('tt1991245', 'chernobyl diaries', 2012, 86, 5.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11974842', 'murungaikai chips', 2021, 140, 3.5);
+                VALUES ('tt1999995', 'would you rather', 2012, 93, 5.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21431644', 'zombie town', 2023, 92, 3.8);
+                VALUES ('tt2002718', 'machete kills', 2013, 107, 5.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4452756', 'novi hendikep', 2015, 48, 8.5);
+                VALUES ('tt2004420', 'neighbors', 2014, 97, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1841729', 'luz teimosa', 2010, 75, 7.1);
+                VALUES ('tt2005151', 'war dogs', 2016, 114, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt26626445', 'adios amigo', 2024, 156, 6.0);
+                VALUES ('tt2005374', 'the frozen ground', 2013, 105, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5796882', 'the bobot', 2018, 100, 4.7);
+                VALUES ('tt2006295', 'the 33', 2015, 127, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5911600', 'wolves', 2022, 103, 4.8);
+                VALUES ('tt2011311', 'the outsider', 2018, 120, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8661302', 'the lookout', 2018, 105, 5.6);
+                VALUES ('tt20115766', 'knox goes away', 2023, 114, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2131526', 'he thinks hes the best', 2011, 76, 7.4);
+                VALUES ('tt2013293', 'the wind rises', 2013, 126, 7.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6407698', 'gogoler kirti', 2014, 135, 6.3);
+                VALUES ('tt2015381', 'guardians of the galaxy', 2014, 121, 8.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4541748', 'kallappadam', 2015, 133, 6.9);
+                VALUES ('tt2016894', 'ek tha tiger', 2012, 132, 5.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1735173', 'a última estrada da praia', 2010, 93, 7.2);
+                VALUES ('tt2016940', 'man of tai chi', 2013, 105, 6.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6075948', 'maria per roma', 2016, 93, 5.5);
+                VALUES ('tt2017020', 'the smurfs 2', 2013, 105, 5.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5588850', 'chris brown welcome to my life', 2017, 80, 5.6);
+                VALUES ('tt2017038', 'all is lost', 2013, 106, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13294546', 'wer rettet emily', 2021, 90, 7.0);
+                VALUES ('tt20215234', 'conclave', 2024, 120, 7.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32293175', 'world between us', 2024, 90, 6.6);
+                VALUES ('tt20215968', 'hit man', 2023, 115, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5461272', 'we have never been kids', 2015, 104, 7.1);
+                VALUES ('tt20221436', 'emilia pérez', 2024, 132, 5.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1702002', 'light in darkness the return of red light bandit', 2010, 83, 5.9);
+                VALUES ('tt2023453', 'diary of a wimpy kid dog days', 2012, 94, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9174388', 'the wrath', 2018, 94, 5.3);
+                VALUES ('tt20234774', 'wicked little letters', 2023, 100, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10416616', 'masal satosu sihirli davet', 2019, 100, 3.5);
+                VALUES ('tt2023587', 'mama', 2013, 100, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12369756', 'avenger dogs 2 wonder dogs', 2020, 70, 4.9);
+                VALUES ('tt2023690', 'sightseers', 2012, 88, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8531242', 'encroach', 2018, 87, 3.3);
+                VALUES ('tt2024432', 'identity thief', 2013, 111, 5.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8593814', 'bandstand the broadway musical on screen', 2018, 130, 8.8);
+                VALUES ('tt2024469', 'nonstop', 2014, 106, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11703266', 'orchestra', 2021, 111, 7.0);
+                VALUES ('tt2024519', 'the broken circle breakdown', 2012, 111, 7.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10996896', 'gundu', 2019, 141, 7.1);
+                VALUES ('tt2024544', '12 years a slave', 2013, 134, 8.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28840429', 'ice cold murder coffee and jessica wongso', 2023, 86, 5.9);
+                VALUES ('tt20256528', 'what is a woman', 2022, 95, 8.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13365752', 'the end of the storm', 2020, 99, 7.7);
+                VALUES ('tt2025690', 'the finest hours', 2016, 117, 6.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt26629159', 'sally mae the revenge of the twin dragons', 2022, 145, 6.6);
+                VALUES ('tt2034031', 'laggies', 2014, 99, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6505968', 'euthanizer', 2017, 85, 6.7);
+                VALUES ('tt2034800', 'the great wall', 2016, 103, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6732796', 'damo suzuki sound carriers live at marieantoinette', 2017, 122, 9.0);
+                VALUES ('tt2039338', 'flatliners', 2017, 109, 5.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27759718', 'twisted marriage therapist', 2023, 85, 5.7);
+                VALUES ('tt2039393', 'the gambler', 2014, 111, 6.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1846445', 'a cube of sugar', 2011, 116, 7.1);
+                VALUES ('tt2042568', 'inside llewyn davis', 2013, 104, 7.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8429394', 'the return', 2020, 90, 4.5);
+                VALUES ('tt2049403', 'beetlejuice beetlejuice', 2024, 105, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt34710163', 'problem toh hai', 2024, 129, 9.4);
+                VALUES ('tt2051879', 'europa report', 2013, 90, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32219638', 'der wienkrimi blind ermittelt tod im palais', 2024, 88, 7.2);
+                VALUES ('tt2053425', 'rust and bone', 2012, 120, 7.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15745084', 'v for vengeance', 2022, 86, 4.2);
+                VALUES ('tt2053463', 'side effects', 2013, 106, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2822578', 'gravy', 2015, 95, 5.4);
+                VALUES ('tt20561198', 'the promised land', 2023, 127, 7.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32252593', 'saka perawan', 2024, 91, 5.0);
+                VALUES ('tt2056771', 'a bigger splash', 2015, 125, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6819658', 'indestructible el alma de la salsa', 2017, 78, 7.2);
+                VALUES ('tt2057392', 'eye in the sky', 2015, 102, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2217809', 'gamer', 2011, 92, 4.9);
+                VALUES ('tt2058107', 'the railway man', 2013, 116, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6182720', 'the el duce tapes', 2019, 104, 7.3);
+                VALUES ('tt2058673', 'point break', 2015, 114, 5.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5797370', 'maximilian', 2016, 77, 8.9);
+                VALUES ('tt2059171', '13 sins', 2014, 93, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6587226', 'drancy 1943 the big escape', 2017, 52, 7.8);
+                VALUES ('tt2066051', 'rocketman', 2019, 121, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt25729566', 'a winter tale at shimla', 2023, 140, 8.0);
+                VALUES ('tt2071550', 'open grave', 2013, 102, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28607155', 'infinitas terras ou relatos do meu tempo em crise', 2023, 112, 8.1);
+                VALUES ('tt2072233', 'sleepless', 2017, 95, 5.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6506468', 'el lamento', 2016, 88, 5.0);
+                VALUES ('tt2076220', 'holy motors', 2012, 115, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1571210', 'länger leben', 2010, 98, 6.5);
+                VALUES ('tt2076298', 'ip man 4 the finale', 2019, 107, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21915352', 'something walks in the woods', 2023, 81, 3.8);
+                VALUES ('tt2076822', 'chaos walking', 2021, 109, 5.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4249580', 'cannibals and carpet fitters', 2017, 83, 5.2);
+                VALUES ('tt2080374', 'steve jobs', 2015, 122, 7.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9364406', 'tkkg', 2019, 95, 5.8);
+                VALUES ('tt2082197', 'barfi', 2012, 151, 8.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12531376', 'swinging blossom', 2017, 90, 6.4);
+                VALUES ('tt2083383', 'trouble with the curve', 2012, 111, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5673792', 'manithan', 2016, 150, 6.9);
+                VALUES ('tt2084970', 'the imitation game', 2014, 114, 8.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2556704', 'himala ngayon', 2012, 120, 8.9);
+                VALUES ('tt2084989', 'upstream color', 2013, 96, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2944510', 'environmental enforcement', 2013, 78, 6.0);
+                VALUES ('tt20850406', 'sita ramam', 2022, 163, 8.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3576352', 'followed', 2015, 83, 5.2);
+                VALUES ('tt2088003', 'big game', 2014, 110, 5.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11561866', 'masameer the movie', 2020, 110, 5.9);
+                VALUES ('tt2091256', 'captain underpants the first epic movie', 2017, 89, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4056974', 'homely meals', 2014, 142, 6.3);
+                VALUES ('tt2091473', 'promised land', 2012, 106, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3921116', 'ada', 2015, 57, 5.0);
+                VALUES ('tt2091935', 'mr right', 2015, 95, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2305003', 'thumb n it', 2012, 67, 2.8);
+                VALUES ('tt2094018', 'hours', 2013, 97, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4332794', 'elixir', 2015, 90, 6.5);
+                VALUES ('tt2094766', 'assassins creed', 2016, 115, 5.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15019350', 'tutankhamun the last exhibition', 2022, 90, 6.9);
+                VALUES ('tt2096672', 'dumb and dumber to', 2014, 109, 5.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29630754', 'doctor doctor', 2024, 98, 7.2);
+                VALUES ('tt2096673', 'inside out', 2015, 95, 8.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt34773193', 'promise of decades', 2024, 109, 5.8);
+                VALUES ('tt2097298', 'mcfarland usa', 2015, 129, 7.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11080160', 'nhan duyen nguoi yeu tien kiep', 2019, 89, 5.0);
+                VALUES ('tt2097307', 'hit and run', 2012, 100, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2443164', 'the sea in between', 2013, 82, 8.3);
+                VALUES ('tt2101341', 'dead man down', 2013, 118, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3044748', 'alex ali', 2014, 84, 6.5);
+                VALUES ('tt2101383', 'knight of cups', 2015, 118, 5.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4955134', 'vigor', 2020, 80, 7.8);
+                VALUES ('tt2101441', 'spring breakers', 2012, 94, 5.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7497376', 'the deminer', 2017, 83, 7.9);
+                VALUES ('tt2101473', 'the physician', 2013, 155, 7.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5348692', 'chaddi dosth', 2013, 132, 7.0);
+                VALUES ('tt2101569', 'in your eyes', 2014, 106, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11212440', 'a walking tour of historic murray hill', 2019, 60, 7.4);
+                VALUES ('tt21027780', 'fallen leaves', 2023, 81, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3213570', 'innocent lilies', 2013, 98, 7.2);
+                VALUES ('tt2103217', 'maniac', 2012, 89, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2372461', '1210', 2012, 73, 6.0);
+                VALUES ('tt2103254', 'tammy', 2014, 97, 4.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3261022', 'kajarya', 2013, 132, 6.5);
+                VALUES ('tt2103267', 'adore', 2013, 112, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13021150', 'trust me', 2020, 56, 7.5);
+                VALUES ('tt2103281', 'dawn of the planet of the apes', 2014, 130, 7.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8903480', 'shadows of the empire', 2019, 76, 5.3);
+                VALUES ('tt2105044', 'vhs', 2012, 116, 5.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13352376', 'lyvias house', 2023, 116, 6.0);
+                VALUES ('tt21051906', 'a family affair', 2024, 111, 5.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8905766', 'sinterklaas het pieten duo het gestolen speelgoed', 2018, 45, 7.3);
+                VALUES ('tt2106361', 'into the storm', 2014, 89, 5.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2334739', 'masters', 2012, 144, 5.8);
+                VALUES ('tt21064584', 'the iron claw', 2023, 132, 7.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2173190', 'dors mon lapin', 2013, 83, 5.4);
+                VALUES ('tt2106476', 'the hunt', 2012, 115, 8.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5115676', 'my brothers and sisters in the north', 2016, 90, 7.3);
+                VALUES ('tt2106651', 'spectral', 2016, 107, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt26543358', 'the idiot', 2023, 95, 6.2);
+                VALUES ('tt2109184', 'paranormal activity 4', 2012, 88, 4.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3705608', 'cursed', 2017, 112, 5.6);
+                VALUES ('tt2109248', 'transformers age of extinction', 2014, 165, 5.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28635495', 'photophobia', 2023, 70, 6.3);
+                VALUES ('tt21097228', 'a different man', 2024, 112, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9500822', 'the last apostle journies in the holy land', 2020, 125, 7.5);
+                VALUES ('tt2112124', 'chennai express', 2013, 141, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt26172954', 'otro sol', 2023, 86, 6.4);
+                VALUES ('tt2113681', 'the 100 yearold man who climbed out the window and disappeared', 2013, 114, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28635008', 'yutori desu ga nani ka international', 2023, 116, 6.2);
+                VALUES ('tt2118624', 'the final girls', 2015, 91, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9114098', 'gunpowder heart', 2019, 87, 5.7);
+                VALUES ('tt21188080', 'lisa frankenstein', 2024, 101, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt13479354', 'veluthu kattu', 2010, 135, 8.5);
+                VALUES ('tt21192142', 'all of us strangers', 2023, 105, 7.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3175260', 'heartbreak', 2019, 92, 6.5);
+                VALUES ('tt2119532', 'hacksaw ridge', 2016, 139, 8.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2290840', 'masquerade', 2012, 131, 7.8);
+                VALUES ('tt2119543', 'the house with a clock in its walls', 2018, 105, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7449594', 'music when the lights go out', 2017, 70, 6.5);
+                VALUES ('tt2120120', 'pixels', 2015, 105, 5.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1592858', 'do you see colors when you close your eyes', 2010, 83, 7.1);
+                VALUES ('tt2121382', 'force majeure', 2014, 120, 7.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt17716526', 'hit big', 2022, 123, 5.7);
+                VALUES ('tt21235248', 'ghostbusters frozen empire', 2024, 115, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6430538', 'bitter grapes', 2016, 59, 8.2);
+                VALUES ('tt2125435', 'beasts of the southern wild', 2012, 93, 7.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28490634', 'swan song', 2023, 103, 7.2);
+                VALUES ('tt2125608', 'searching for sugar man', 2012, 86, 8.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9105886', 'uncle david 2', 2018, 84, 5.8);
+                VALUES ('tt21261712', 'back to black', 2024, 122, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3886670', 'a royal hangover', 2014, 102, 6.7);
+                VALUES ('tt2126355', 'san andreas', 2015, 114, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2521236', 'an irish exorcism', 2013, 85, 4.5);
+                VALUES ('tt2126357', 'second act', 2018, 103, 5.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2235555', 'if i cant have you', 2010, 72, 5.6);
+                VALUES ('tt2132285', 'the bling ring', 2013, 90, 5.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29274601', 'vjeran tomic the spiderman of paris', 2023, 86, 6.6);
+                VALUES ('tt21382296', 'carryon', 2024, 119, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6410100', 'the pass rusher', 2016, 82, 7.1);
+                VALUES ('tt21383812', 'crew', 2024, 118, 5.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt19077862', 'city of vultures 3', 2022, 83, 5.9);
+                VALUES ('tt2139555', 'playing it cool', 2014, 94, 5.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt27047417', 'carnage collection vicious violence vengeance', 2023, 72, 4.1);
+                VALUES ('tt2139881', 'long shot', 2019, 125, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1523972', 'tomorrows end', 2011, 100, 8.7);
+                VALUES ('tt2140203', 'wolf children', 2012, 117, 8.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15257766', 'sara the force of the sea', 2023, 108, 4.4);
+                VALUES ('tt2140373', 'saving mr banks', 2013, 125, 7.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1266037', 'a distant neighbourhood', 2010, 98, 7.0);
+                VALUES ('tt2140379', 'selfless', 2015, 117, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5714216', 'black butler book of murder', 2014, 116, 7.9);
+                VALUES ('tt2140465', 'tanu weds manu returns', 2015, 128, 7.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6273456', 'the european', 2016, 90, 6.7);
+                VALUES ('tt2140479', 'the accountant', 2016, 128, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2013243', 'la run', 2011, 104, 6.7);
+                VALUES ('tt2140507', 'the current war', 2017, 102, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4571846', 'the spy who went into the cold', 2013, 75, 6.5);
+                VALUES ('tt2140619', 'two night stand', 2014, 86, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1684609', 'beware of christians', 2011, 94, 6.5);
+                VALUES ('tt21454134', 'the bikeriders', 2023, 116, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4122870', 'phoebes father', 2015, 95, 9.4);
+                VALUES ('tt21626284', 'lost ladies', 2023, 122, 8.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29330913', 'vicky vidya ka woh wala video', 2024, 152, 5.2);
+                VALUES ('tt2167266', 'tracks', 2013, 112, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt19412968', 'reshala brother', 2022, 90, 4.1);
+                VALUES ('tt21692408', 'kung fu panda 4', 2024, 94, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1802198', 'man with no name', 2010, 92, 7.3);
+                VALUES ('tt2170299', 'bad words', 2013, 89, 6.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33364878', 'punish evil', 2024, 85, 6.2);
+                VALUES ('tt2170439', 'horrible bosses 2', 2014, 108, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2170593', 'st vincent', 2014, 102, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2172584', 'maps to the stars', 2014, 111, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2172934', '3 days to kill', 2014, 117, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2176013', 'jab tak hai jaan', 2012, 176, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2177771', 'the monuments men', 2014, 118, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2178470', 'yeh jawaani hai deewani', 2013, 160, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2179116', 'the kings of summer', 2013, 95, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2179136', 'american sniper', 2014, 133, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2180339', 'deep water', 2022, 115, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2180411', 'into the woods', 2014, 125, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt21807222', 'saw x', 2023, 118, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2181931', 'english vinglish', 2012, 134, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt21823606', 'a real pain', 2024, 90, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2183014', 'love at first sight', 2023, 91, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt21830902', 'upgraded', 2024, 104, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2184339', 'the purge', 2013, 85, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt21867434', 'blackberry', 2023, 120, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2187153', 'thuppakki', 2012, 165, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt21909764', 'culpa mía', 2023, 117, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2191701', 'grown ups 2', 2013, 101, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2193215', 'the counselor', 2013, 117, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt21942866', 'dream scenario', 2023, 102, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2194499', 'about time', 2013, 123, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2199571', 'run all night', 2015, 114, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2199711', 'vishwaroopam', 2013, 148, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt22022452', 'inside out 2', 2024, 96, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2203308', 'aashiqui 2', 2013, 132, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2203939', 'the other woman', 2014, 109, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt22041854', 'priscilla', 2023, 113, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt22048412', 'maxxxine', 2024, 103, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2205697', 'stuck in love', 2012, 97, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2209418', 'before midnight', 2013, 109, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2209764', 'transcendence', 2014, 119, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2213054', 'kai po che', 2013, 120, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2222042', 'love and monsters', 2020, 109, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2223990', 'draft day', 2014, 110, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2224026', 'home', 2015, 94, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2226417', 'insidious chapter 2', 2013, 106, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2226597', 'the mountain between us', 2017, 112, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2229499', 'don jon', 2013, 90, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt22297828', 'chor nikal ke bhaga', 2023, 110, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2230358', 'curse of chucky', 2013, 97, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2231253', 'wild card', 2015, 92, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2231461', 'rampage', 2018, 107, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2231554', 'grave encounters 2', 2012, 98, 5.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2234003', 'calvary', 2014, 102, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2234155', 'the internship', 2013, 119, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2235695', 'rebecca', 2020, 123, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt22375054', 'strange darling', 2023, 97, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2238050', 'white bird in a blizzard', 2014, 91, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2239822', 'valerian and the city of a thousand planets', 2017, 136, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt22408160', 'kinds of kindness', 2024, 164, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2241351', 'money monster', 2016, 98, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2243537', 'a haunted house', 2013, 86, 5.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2244901', 'i give it a year', 2013, 97, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2245084', 'big hero 6', 2014, 102, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2250912', 'spiderman homecoming', 2017, 133, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2258337', 'eega', 2012, 145, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2261331', 'black sea', 2014, 114, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2262227', 'the book of life', 2014, 95, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2263944', 'dragon ball z battle of gods', 2013, 85, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2265171', 'the raid 2', 2014, 150, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2265398', 'drinking buddies', 2013, 90, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2267968', 'kung fu panda 3', 2016, 95, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2267998', 'gone girl', 2014, 149, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2268016', 'magic mike xxl', 2015, 115, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt22687790', 'a haunting in venice', 2023, 103, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2273657', 'true story', 2015, 99, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2274648', 'hellboy', 2019, 120, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2275946', 'redirected', 2014, 99, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2277860', 'finding dory', 2016, 97, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2278388', 'the grand budapest hotel', 2014, 99, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2278871', 'blue is the warmest colour', 2013, 180, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2279373', 'the spongebob movie sponge out of water', 2015, 92, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2281587', 'muppets most wanted', 2014, 107, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2283336', 'men in black international', 2019, 114, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2283362', 'jumanji welcome to the jungle', 2017, 119, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2283748', 'omg oh my god', 2012, 125, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2293640', 'minions', 2015, 91, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2294449', '22 jump street', 2014, 112, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2294629', 'frozen', 2013, 102, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2294677', 'in a world', 2013, 93, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2302755', 'olympus has fallen', 2013, 119, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2304771', 'mandela long walk to freedom', 2013, 141, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2304933', 'the 5th wave', 2016, 112, 5.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2305051', 'wild', 2014, 115, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2310332', 'the hobbit the battle of the five armies', 2014, 144, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2312718', 'homefront', 2013, 100, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt23137390', 'immaculate', 2024, 89, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt23137904', 'rebel moon part two the scargiver', 2024, 122, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt23149780', 'eden', 2024, 129, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2316204', 'alien covenant', 2017, 122, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2316411', 'enemy', 2013, 91, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2317225', 'the machine', 2013, 91, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2317337', 'vicky donor', 2012, 126, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2318092', 'endless love', 2014, 104, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2321405', 'my life as a zucchini', 2016, 70, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2321549', 'the babadook', 2014, 94, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2322441', 'fifty shades of grey', 2015, 125, 4.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2326554', 'a girl walks home alone at night', 2014, 101, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2326612', 'the captive', 2014, 112, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2328900', 'mary queen of scots', 2018, 124, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt23289160', 'godzilla minus one', 2023, 124, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2331143', 'like father like son', 2013, 121, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2333784', 'the expendables 3', 2014, 126, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2333804', 'the zero theorem', 2013, 107, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2334649', 'fruitvale station', 2013, 85, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2334871', 'snatched', 2017, 90, 4.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2334873', 'blue jasmine', 2013, 98, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2334879', 'white house down', 2013, 131, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2338151', 'pk', 2014, 153, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2339741', 'the woman in black 2 angel of death', 2014, 98, 4.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2343793', 'third person', 2013, 137, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2345737', 'the rover', 2014, 103, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2345759', 'the mummy', 2017, 110, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt23468450', 'longlegs', 2024, 101, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2347569', 'frances ha', 2012, 86, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2350496', 'the lunchbox', 2013, 104, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt23558280', 'elevation', 2024, 91, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt23561236', 'american fiction', 2023, 117, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2356180', 'bhaag milkha bhaag', 2013, 186, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2357129', 'jobs', 2013, 128, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2357291', 'rio 2', 2014, 101, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2358891', 'the great beauty', 2013, 141, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2358925', 'unfinished business', 2015, 91, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2359024', 'blue ruin', 2013, 90, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2359810', 'raanjhanaa', 2013, 140, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2361317', 'live by night', 2016, 129, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2361509', 'the intern', 2015, 121, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2364841', 'runner runner', 2013, 88, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2368619', 'the take', 2016, 92, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2369135', 'need for speed', 2014, 132, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2370248', 'short term 12', 2013, 96, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2372222', 'kick', 2014, 146, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt23736044', 'monster', 2023, 127, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2375559', '1 nenokkadine', 2014, 170, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2375605', 'the act of killing', 2012, 117, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2377322', 'deliver us from evil', 2014, 118, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2377938', 'special 26', 2013, 144, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2378281', 'instructions not included', 2013, 122, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2378507', 'the glass castle', 2017, 127, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2379713', 'spectre', 2015, 148, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2380307', 'coco', 2017, 105, 8.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2381111', 'brooklyn', 2015, 117, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2381249', 'mission impossible rogue nation', 2015, 131, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2381941', 'focus', 2015, 105, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2381991', 'the huntsman winters war', 2016, 114, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2382009', 'nymphomaniac vol ii', 2013, 124, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2382320', 'no time to die', 2021, 163, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2382396', 'joe', 2013, 117, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt23849204', '12th fail', 2023, 147, 8.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2386490', 'how to train your dragon the hidden world', 2019, 104, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2387433', 'dark skies', 2013, 97, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2387499', 'keeping up with the joneses', 2016, 105, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2387559', 'delivery man', 2013, 105, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2388715', 'oculus', 2013, 104, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2388771', 'mowgli legend of the jungle', 2018, 104, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2390361', 'enough said', 2013, 93, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2395427', 'avengers age of ultron', 2015, 141, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2395469', 'gully boy', 2019, 154, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2396589', 'mudbound', 2017, 134, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2397535', 'predestination', 2014, 97, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2398231', 'the homesman', 2014, 122, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2400463', 'the invitation', 2015, 100, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2401878', 'anomalisa', 2015, 90, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2402101', 'dark places', 2015, 113, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2402157', 'the november man', 2014, 108, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2402927', 'carol', 2015, 118, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2403021', 'the green inferno', 2013, 100, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2404181', 'belle', 2013, 100, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2404233', 'gods of egypt', 2016, 127, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2404311', 'the family', 2013, 111, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2404425', 'woman in gold', 2015, 109, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2404435', 'the magnificent seven', 2016, 132, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2404461', 'the past', 2013, 130, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2404463', 'the heat', 2013, 117, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2406566', 'atomic blonde', 2017, 115, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt24082438', '20 days in mariupol', 2023, 97, 8.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt24169886', 'the instigators', 2024, 101, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt24268454', 'the kerala story', 2023, 138, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2428170', 'creep', 2014, 77, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2431286', 'philomena', 2013, 98, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2436386', 'project almanac', 2015, 106, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2438644', 'department q the keeper of lost causes', 2013, 96, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt24458622', 'the six triple eight', 2024, 127, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2446042', 'taken 3', 2014, 108, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2446980', 'joy', 2015, 124, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt24485052', 'sirf ek bandaa kaafi hai', 2023, 132, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2450186', 'vhs2', 2013, 96, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2452042', 'the peanuts movie', 2015, 88, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2452200', 'son of a gun', 2014, 108, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2452244', 'isnt it romantic', 2019, 89, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2452254', 'clouds of sils maria', 2014, 124, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2452386', 'the fundamentals of caring', 2016, 97, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2461132', 'happy new year', 2014, 180, 5.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2461150', 'masterminds', 2016, 95, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2463208', 'the adam project', 2022, 106, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2463288', 'walk of shame', 2014, 95, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2467046', 'left behind', 2014, 110, 3.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2473510', 'paranormal activity the ghost dimension', 2015, 88, 4.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2473682', 'paranormal activity the marked ones', 2014, 84, 5.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2479478', 'the ridiculous 6', 2015, 119, 4.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2479800', 'palo alto', 2013, 100, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt24807110', 'dont move', 2024, 92, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2481498', 'extremely wicked shockingly evil and vile', 2019, 110, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt24871974', 'subservience', 2024, 106, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2488496', 'star wars episode vii the force awakens', 2015, 138, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2490326', 'cooties', 2014, 88, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2493486', 'last knights', 2015, 115, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2494280', 'stretch', 2014, 94, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2494362', 'bone tomahawk', 2015, 132, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2503944', 'burnt', 2015, 101, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2510894', 'hotel transylvania 2', 2015, 89, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2515034', 'the gunman', 2015, 115, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2527336', 'star wars episode viii the last jedi', 2017, 152, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2527338', 'star wars episode ix the rise of skywalker', 2019, 141, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2528814', 'gods not dead', 2014, 113, 4.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2531344', 'blockers', 2018, 102, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2537176', 'i spit on your grave 2', 2013, 106, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2543164', 'arrival', 2016, 116, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2543472', 'wonder', 2017, 113, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2545118', 'blackfish', 2013, 83, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2547584', 'the light between oceans', 2016, 133, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2548396', 'the cloverfield paradox', 2018, 102, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2554274', 'crimson peak', 2015, 119, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2555736', 'the second best exotic marigold hotel', 2015, 122, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2556308', 'holiday', 2014, 160, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2557478', 'pacific rim uprising', 2018, 111, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2557490', 'a million ways to die in the west', 2014, 116, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2560078', 'boston strangler', 2023, 112, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2561572', 'get hard', 2015, 100, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2562232', 'birdman or the unexpected virtue of ignorance', 2014, 119, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2567026', 'alice through the looking glass', 2016, 113, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2567712', 'starred up', 2013, 106, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2568862', 'going in style', 2017, 96, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2574698', 'gunday', 2014, 152, 2.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2576852', 'the tale of the princess kaguya', 2013, 137, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2582496', 'me and earl and the dying girl', 2015, 105, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2582502', 'fathers daughters', 2015, 116, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2582576', 'sand castle', 2017, 113, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2582782', 'hell or high water', 2016, 102, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2582802', 'whiplash', 2014, 106, 8.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2582846', 'the fault in our stars', 2014, 126, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2584384', 'jojo rabbit', 2019, 108, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2591814', 'the garden of words', 2013, 46, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2592614', 'resident evil the final chapter', 2016, 107, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt26047818', 'anyone but you', 2023, 103, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2610768', 'celal and ceren', 2013, 114, 3.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2614684', '71', 2014, 99, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2620590', 'leatherface', 2017, 90, 5.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2626350', 'step up all in', 2014, 112, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2631186', 'baahubali the beginning', 2015, 159, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2637276', 'ted 2', 2015, 115, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2637294', 'hot tub time machine 2', 2015, 93, 5.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2638144', 'benhur', 2016, 123, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2639336', 'greta', 2018, 98, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt26446278', 'the count of montecristo', 2024, 178, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt26458038', 'manjummel boys', 2024, 135, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt26470109', 'oddity', 2024, 98, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2649554', 'midnight special', 2016, 112, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2652092', 'the good lie', 2014, 110, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt26548265', 'maharaja', 2024, 141, 8.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2660888', 'star trek beyond', 2016, 122, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt26625693', 'the order', 2024, 116, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt26659814', 'auron mein kahan dum tha', 2024, 150, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt26660021', 'aavesham', 2024, 155, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2669336', 'time lapse', 2014, 104, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2671706', 'fences', 2016, 139, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt26736843', 'the watchers', 2024, 102, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2674426', 'me before you', 2016, 110, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt26745657', 'madgaon express', 2024, 143, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt26753003', 'trap', 2024, 105, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2675914', 'in order of disappearance', 2014, 116, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2679042', 'hitman agent 47', 2015, 96, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2692250', 'night at the museum secret of the tomb', 2014, 98, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2692904', 'locke', 2013, 85, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt26932223', 'bhool bhulaiyaa 3', 2024, 158, 4.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt26936666', 'vettaiyan', 2024, 163, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt26940324', 'jackpot', 2024, 106, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2702724', 'the boss', 2016, 99, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt27028399', 'murder mubarak', 2024, 140, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2704998', 'game night', 2018, 100, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2709692', 'the grinch', 2018, 85, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2709768', 'the secret life of pets', 2016, 86, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt27131358', 'we live in time', 2024, 108, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2713180', 'fury', 2014, 134, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2717822', 'blackhat', 2015, 133, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2718492', 'ida', 2013, 82, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt27196021', 'small things like these', 2024, 98, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2719848', 'everest', 2015, 121, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2720680', 'the salvation', 2014, 92, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2726560', 'the longest ride', 2015, 123, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2737050', 'two days one night', 2014, 95, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2737304', 'bird box', 2018, 124, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt27403986', 'juror 2', 2024, 114, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt27459160', 'teri baaton mein aisa uljha jiya', 2024, 141, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt27470893', 'chandu champion', 2024, 142, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt27489557', 'abigail', 2024, 109, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt27503384', 'perfect days', 2023, 124, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt27510174', 'stree 2 sarkate ka aatank', 2024, 147, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2752200', 'young beautiful', 2013, 95, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2752772', 'sinister 2', 2015, 97, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt27534307', 'speak no evil', 2024, 110, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt27540542', 'lucky baskhar', 2024, 148, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2756032', 'the one i love', 2014, 91, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2758880', 'winter sleep', 2014, 196, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2762506', 'bacurau', 2019, 131, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2763304', 't2 trainspotting', 2017, 117, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt27657135', 'saturday night', 2024, 109, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2771200', 'beauty and the beast', 2017, 129, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2771372', 'veronica mars', 2014, 107, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt27719898', 'kaiva', 2023, 138, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt27729779', 'the platform 2', 2024, 99, 4.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt27744786', 'shaitaan', 2024, 132, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2788710', 'the interview', 2014, 112, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2788732', 'petes dragon', 2016, 102, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt27911000', 'terrifier 3', 2024, 125, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt27989067', 'lust stories 2', 2023, 132, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2798920', 'annihilation', 2018, 115, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2800240', 'serial bad weddings', 2014, 97, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt28015403', 'heretic', 2024, 111, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2802144', 'kingsman the secret service', 2014, 129, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2802154', 'leviathan', 2014, 140, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt28075881', 'do patti', 2024, 126, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt28082769', 'september 5', 2024, 95, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2820852', 'furious 7', 2015, 137, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt28218009', 'surongo', 2023, 150, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2823054', 'mike and dave need wedding dates', 2016, 98, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt28249919', 'presence', 2024, 84, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt28259207', 'kill', 2023, 105, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2837574', 'the old man the gun', 2018, 93, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2848292', 'pitch perfect 2', 2015, 115, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2850386', 'the croods a new age', 2020, 95, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2854926', 'tag', 2018, 100, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt28607951', 'anora', 2024, 139, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2866360', 'coherence', 2013, 89, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2869728', 'ride along 2', 2016, 102, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2870612', 'as above so below', 2014, 93, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2870648', 'amy', 2015, 128, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2870708', 'wish i was here', 2014, 106, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2870756', 'magic in the moonlight', 2014, 97, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2872518', 'the shack', 2017, 132, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2872718', 'nightcrawler', 2014, 117, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2872732', 'lucy', 2014, 89, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2872750', 'shaun the sheep movie', 2015, 85, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2873282', 'red sparrow', 2018, 140, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2883512', 'chef', 2014, 114, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2884018', 'macbeth', 2015, 113, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2884206', 'i origins', 2014, 106, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2888046', 'ip man 3', 2015, 105, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2891174', '99 homes', 2014, 112, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2906216', 'dungeons dragons honor among thieves', 2023, 134, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2908446', 'the divergent series insurgent', 2015, 119, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2910814', 'the signal', 2014, 97, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2910904', 'the dressmaker', 2015, 119, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2911666', 'john wick', 2014, 101, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2918436', 'the lazarus effect', 2015, 83, 5.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt29268110', 'smile 2', 2024, 127, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2932536', '47 meters down', 2017, 89, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2935476', 'far from the madding crowd', 2015, 119, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2935510', 'ad astra', 2019, 123, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2935622', 'the school for good and evil', 2022, 147, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2937696', 'everybody wants some', 2016, 117, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2937898', 'a most violent year', 2014, 125, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2938956', 'the transporter refueled', 2015, 96, 5.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2948356', 'zootopia', 2016, 108, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2948372', 'soul', 2020, 100, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2953050', 'encanto', 2021, 102, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt29623480', 'the wild robot', 2024, 102, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2967224', 'hot pursuit', 2015, 87, 5.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2975578', 'the purge anarchy', 2014, 103, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2975590', 'batman v superman dawn of justice', 2016, 151, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2980210', 'a hologram for the king', 2016, 98, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2980516', 'the theory of everything', 2014, 123, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2980592', 'the guest', 2014, 100, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2980648', 'the hundredfoot journey', 2014, 122, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2980794', 'highway', 2014, 133, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt29808429', 'color of victory', 2024, 157, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2987732', 'suck me shakespeer', 2013, 119, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2990140', 'the christmas chronicles', 2018, 104, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2991224', 'tangerines', 2013, 87, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt2994190', 'camp xray', 2014, 117, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt30057084', 'babygirl', 2024, 114, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3007512', 'the water diviner', 2014, 111, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3011894', 'wild tales', 2014, 122, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3014284', 'the lego ninjago movie', 2017, 101, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3014866', 'criminal', 2016, 113, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt30321146', 'in a violent nature', 2024, 94, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3040964', 'the jungle book', 2016, 106, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3042408', 'who am i', 2014, 102, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3045616', 'mortdecai', 2015, 107, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt30505698', 'friendship', 2024, 100, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3062096', 'inferno', 2016, 121, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3063516', 'jackass presents bad grandpa', 2013, 92, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3064298', 'man up', 2015, 88, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3065204', 'the conjuring 2', 2016, 134, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3072482', 'hardcore henry', 2015, 96, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3076658', 'creed', 2015, 133, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3077214', 'suffragette', 2015, 106, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3079380', 'spy', 2015, 120, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3083016', 'beverly hills cop axel f', 2024, 118, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3086442', 'goodnight mommy', 2014, 99, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3089630', 'artemis fowl', 2020, 95, 4.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt30953759', 'no other land', 2024, 92, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3097204', 'the inbetweeners 2', 2014, 96, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3099498', 'tusk', 2014, 102, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3104988', 'crazy rich asians', 2018, 120, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3108894', 'the tender bar', 2021, 106, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3110958', 'now you see me 2', 2016, 129, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3118452', 'circle', 2015, 87, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3120280', 'sierra burgess is a loser', 2018, 105, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3139072', 'son of batman', 2014, 74, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3148502', 'tamasha', 2015, 139, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3149038', 'a brilliant young mind', 2014, 111, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3152592', 'scoob', 2020, 93, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3152624', 'trainwreck', 2015, 125, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3155298', 'luther the fallen sun', 2023, 129, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3165612', 'sleeping with other people', 2015, 101, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3168230', 'mr holmes', 2015, 104, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3169706', 'pride', 2014, 119, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3170832', 'room', 2015, 118, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3172532', 'the diary of a teenage girl', 2015, 102, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3174376', 'before i wake', 2016, 97, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3179568', 'men women children', 2014, 119, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3181822', 'the boy next door', 2015, 91, 4.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3183660', 'fantastic beasts and where to find them', 2016, 132, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3195644', 'insidious chapter 3', 2015, 97, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3201640', 'extinction', 2018, 95, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3203606', 'trumbo', 2015, 124, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3203616', 'the cobbler', 2014, 99, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3205376', 'slow west', 2015, 84, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3215824', 'those who wish me dead', 2021, 100, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3224458', 'a beautiful day in the neighborhood', 2019, 109, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3228774', 'cruella', 2021, 134, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt32308617', 'savi', 2024, 126, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3231054', 'risen', 2016, 107, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3235888', 'it follows', 2014, 100, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3247714', 'survivor', 2015, 96, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3253930', 'marshland', 2014, 105, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3256226', 'io', 2019, 96, 4.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3262342', 'loving vincent', 2017, 94, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3263904', 'sully', 2016, 96, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3272066', 'reminiscence', 2021, 116, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3276924', 'heist', 2015, 93, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3278330', 'tale of tales', 2015, 134, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3280262', 'cult of chucky', 2017, 91, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3281548', 'little women', 2019, 135, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3286052', 'the blackcoats daughter', 2015, 93, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3289728', 'equals', 2015, 101, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3289956', 'the autopsy of jane doe', 2016, 86, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3291150', 'the expendables 4', 2023, 103, 4.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3300542', 'london has fallen', 2016, 99, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3300980', 'the 12th man', 2017, 135, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3312830', 'youth', 2015, 124, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3315342', 'logan', 2017, 137, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3316948', 'american ultra', 2015, 96, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3316960', 'still alice', 2014, 101, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3317234', 'game over man', 2018, 101, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3319920', 'regression', 2015, 106, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3322364', 'concussion', 2015, 123, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3322420', 'queen', 2013, 146, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3322940', 'annabelle', 2014, 99, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3332064', 'pan', 2015, 111, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3348730', 'jigsaw', 2017, 92, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3359350', 'road house', 2024, 121, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3361792', 'tolkien', 2019, 112, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3369806', 'max', 2015, 111, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3371366', 'transformers the last knight', 2017, 154, 5.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3381008', 'the brothers grimsby', 2016, 83, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3385516', 'xmen apocalypse', 2016, 144, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3385524', 'stan ollie', 2018, 98, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3387520', 'scary stories to tell in the dark', 2019, 108, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3387542', 'the forest', 2016, 93, 4.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3387648', 'the taking of deborah logan', 2014, 90, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3390572', 'haider', 2014, 160, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3393786', 'jack reacher never go back', 2016, 118, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3395184', 'spring', 2014, 109, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3397884', 'sicario', 2015, 121, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3398268', 'when marnie was there', 2014, 103, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3401882', 'fist fight', 2017, 91, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3402236', 'murder on the orient express', 2017, 114, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3405236', 'raees', 2017, 143, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3410834', 'the divergent series allegiant', 2016, 120, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3411444', 'ferdinand', 2017, 108, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3416532', 'a monster calls', 2016, 108, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3416742', 'what we do in the shadows', 2014, 86, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3416744', 'the end of the tour', 2015, 106, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3416828', 'ice age collision course', 2016, 94, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3417422', 'drishyam', 2013, 160, 8.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3420504', 'finch', 2021, 115, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3427252', 'the boogeyman', 2023, 98, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt34365591', 'mahavatar narsimha', 2024, 130, 8.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3442006', 'cake', 2014, 102, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3447590', 'matilda the musical', 2022, 117, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3450650', 'paul blart mall cop 2', 2015, 94, 4.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3450958', 'war for the planet of the apes', 2017, 140, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3460252', 'the hateful eight', 2015, 168, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3461252', 'the blue elephant', 2014, 170, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3464902', 'the lobster', 2015, 119, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3469046', 'despicable me 3', 2017, 89, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3470600', 'sing', 2016, 108, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3480822', 'black widow', 2021, 134, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3488710', 'the walk', 2015, 123, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3495026', 'fan', 2016, 142, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3498820', 'captain america civil war', 2016, 147, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3499096', 'race', 2016, 134, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3501632', 'thor ragnarok', 2017, 130, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3503406', 'the whole truth', 2016, 93, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3504048', 'housebound', 2014, 107, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3513498', 'the lego movie 2 the second part', 2019, 107, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3513500', 'chip n dale rescue rangers', 2022, 97, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3513548', 'richard jewell', 2019, 131, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3521126', 'the disaster artist', 2017, 104, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3521164', 'moana', 2016, 107, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3522806', 'mechanic resurrection', 2016, 98, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3530002', 'the night before', 2015, 101, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3531824', 'nerve', 2016, 96, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3532216', 'american made', 2017, 115, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3544082', '45 years', 2015, 95, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3544112', 'sing street', 2016, 106, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3547740', 'the bélier family', 2014, 106, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3553442', 'whiskey tango foxtrot', 2016, 112, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3553976', 'captain fantastic', 2016, 118, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3554046', 'space jam a new legacy', 2021, 115, 4.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3564472', 'girls trip', 2017, 122, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3567288', 'the visit', 2015, 94, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3569230', 'legend', 2015, 132, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3581652', 'west side story', 2021, 156, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3605418', 'knock knock', 2015, 99, 4.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3606752', 'cars 3', 2017, 102, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3606756', 'incredibles 2', 2018, 118, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3606888', 'a street cat named bob', 2016, 103, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3612126', 'the grudge', 2019, 94, 4.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3612616', 'mommy', 2014, 139, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3616916', 'the wave', 2015, 105, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3622592', 'paper towns', 2015, 109, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3626476', 'vacation friends', 2021, 103, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3631112', 'the girl on the train', 2016, 112, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3640424', 'allied', 2016, 124, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3647498', 'blood father', 2016, 88, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3654796', 'creep 2', 2017, 78, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3655326', 'life is a dream', 2014, 81, 4.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3659388', 'the martian', 2015, 144, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3661210', 'the dig', 2021, 112, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3666024', 'the red turtle', 2016, 80, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3672742', 'turbo kid', 2015, 93, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3679040', 'kisi ka bhai kisi ki jaan', 2023, 145, 3.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3682448', 'bridge of spies', 2015, 142, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3691740', 'the bfg', 2016, 117, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3698408', 'coming soon', 2014, 134, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3704428', 'elvis', 2022, 159, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3706352', 'all the old knives', 2022, 101, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3713166', 'unfriended', 2014, 83, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3715320', 'irrational man', 2015, 95, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3716530', 'elle', 2016, 130, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3717252', 'underworld blood wars', 2016, 91, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3717490', 'power rangers', 2017, 124, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3721936', 'american honey', 2016, 163, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3721964', 'gringo', 2018, 111, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3722070', 'the lady in the van', 2015, 104, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3731562', 'kong skull island', 2017, 118, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3735246', 'bajirao mastani', 2015, 158, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3741700', 'godzilla king of the monsters', 2019, 132, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3741834', 'lion', 2016, 118, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3748172', 'geralds game', 2017, 103, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3748528', 'rogue one a star wars story', 2016, 133, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3750872', 'the wife', 2017, 99, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3758172', 'jungle', 2017, 115, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3758542', 'ferrari', 2023, 130, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3758814', 'the ice road', 2021, 109, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3760922', 'my big fat greek wedding 2', 2016, 94, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3766354', 'the equalizer 2', 2018, 121, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3767372', 'piku', 2015, 123, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3774114', 'snowden', 2016, 134, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3774694', 'love', 2015, 135, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3778644', 'solo a star wars story', 2018, 135, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3783958', 'la la land', 2016, 128, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3787590', 'we are your friends', 2015, 96, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3792960', 'the brand new testament', 2015, 114, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3794354', 'sonic the hedgehog', 2020, 99, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3797868', 'the choice', 2016, 111, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3799232', 'the kissing booth', 2018, 105, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3799694', 'the nice guys', 2016, 116, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3801314', 'kaththi', 2014, 166, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3808342', 'son of saul', 2015, 107, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3811906', 'malignant', 2021, 111, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3813310', 'cop car', 2015, 88, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3824458', 'tangerine', 2015, 88, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3829266', 'the predator', 2018, 107, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3829920', 'only the brave', 2017, 134, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3833480', 'the outpost', 2019, 123, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3841424', 'land of mine', 2015, 100, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3846674', 'to all the boys ive loved before', 2018, 99, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3848892', 'baby', 2015, 159, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3850214', 'dope', 2015, 103, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3850590', 'krampus', 2015, 98, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3860916', 'cargo', 2017, 105, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3861390', 'dumbo', 2019, 112, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3863552', 'bajrangi bhaijaan', 2015, 163, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3874544', 'the boss baby', 2017, 97, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3881784', 'stronger', 2017, 119, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3882082', 'the boy', 2016, 97, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3890160', 'baby driver', 2017, 113, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3892172', 'leave no trace', 2018, 109, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3896198', 'guardians of the galaxy vol 2', 2017, 136, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3901826', 'the breadwinner', 2017, 94, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3907584', 'all the bright places', 2020, 107, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3915174', 'puss in boots the last wish', 2022, 102, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3922798', 'the siege of jadotville', 2016, 108, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3922818', 'the space between us', 2017, 120, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3949660', 'teenage mutant ninja turtles out of the shadows', 2016, 112, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3960412', 'popstar never stop never stopping', 2016, 87, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3966404', 'mustang', 2015, 97, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3967856', 'okja', 2017, 120, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt3986820', 'the endless', 2017, 111, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4003440', 'the house that jack built', 2018, 152, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4005402', 'colonia', 2015, 110, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4016934', 'the handmaiden', 2016, 145, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4034228', 'manchester by the sea', 2016, 137, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4034354', 'swiss army man', 2016, 97, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4044364', 'citizenfour', 2014, 114, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4046784', 'maze runner the scorch trials', 2015, 131, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4048272', 'toni erdmann', 2016, 162, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4052882', 'the shallows', 2016, 86, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4062536', 'green room', 2015, 95, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4068576', 'the nightingale', 2018, 136, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4073790', 'the darkest minds', 2018, 104, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4080728', 'a man called ove', 2015, 116, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4094724', 'the purge election year', 2016, 108, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4116284', 'the lego batman movie', 2017, 104, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4123430', 'fantastic beasts the crimes of grindelwald', 2018, 134, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4123432', 'fantastic beasts the secrets of dumbledore', 2022, 142, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4126476', 'after', 2019, 105, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4136084', 'florence foster jenkins', 2016, 111, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4139124', 'keanu', 2016, 100, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4139588', 'polar', 2019, 118, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4154664', 'captain marvel', 2019, 123, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4154756', 'avengers infinity war', 2018, 149, 8.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4154796', 'avengers endgame', 2019, 181, 8.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4154916', 'replicas', 2018, 107, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4158096', 'free fire', 2016, 91, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4160708', 'dont breathe', 2016, 88, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4169250', 'ms dhoni the untold story', 2016, 184, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4172430', '13 hours the secret soldiers of benghazi', 2016, 144, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4176826', 'look whos back', 2015, 116, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4178092', 'the gift', 2015, 108, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4190530', 'anthropoid', 2016, 120, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4191580', 'meet the blacks', 2016, 94, 4.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4196776', 'jason bourne', 2016, 123, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4196848', 'mr church', 2016, 104, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4209788', 'mollys game', 2017, 140, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4218572', 'widows', 2018, 129, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4218696', 'the wall', 2017, 88, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4225622', 'the babysitter', 2017, 85, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4226388', 'victoria', 2015, 138, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4229236', 'cobain montage of heck', 2015, 132, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4244994', 'the last duel', 2021, 152, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4244998', 'alpha', 2018, 96, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4255304', 'the void', 2016, 90, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4257858', 'going clear scientology the prison of belief', 2015, 119, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4257926', 'miracles from heaven', 2016, 109, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4262980', 'shin godzilla', 2016, 120, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4263482', 'the witch', 2015, 92, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4267026', 'hell house llc', 2015, 93, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4273292', 'under the shadow', 2016, 84, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4273800', 'the good nurse', 2022, 121, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4276820', 'the founder', 2016, 115, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4281724', 'terrifier', 2016, 85, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4287320', 'the circle', 2017, 110, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4302938', 'kubo and the two strings', 2016, 101, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4326444', 'julieta', 2016, 99, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4332232', 'fractured', 2019, 99, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4334266', 'the bad batch', 2016, 118, 5.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4357394', 'tau', 2018, 97, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4361050', 'ouija origin of evil', 2016, 99, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4364194', 'the peanut butter falcon', 2019, 97, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4385888', '20th century women', 2016, 119, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4387040', 'airlift', 2016, 130, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4425200', 'john wick chapter 2', 2017, 122, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4430212', 'drishyam', 2015, 163, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4434004', 'udta punjab', 2016, 148, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4435072', 'liger', 2022, 140, 2.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4438848', 'neighbors 2 sorority rising', 2016, 92, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4443658', 'better watch out', 2016, 89, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4463894', 'shaft', 2019, 111, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4465564', 'fifty shades darker', 2017, 118, 4.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4468740', 'paddington 2', 2017, 103, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4477536', 'fifty shades freed', 2018, 105, 4.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4481414', 'gifted', 2017, 101, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4481514', 'the house', 2017, 88, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4495098', 'gran turismo', 2023, 134, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4500922', 'maze runner the death cure', 2018, 143, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4501244', 'why him', 2016, 111, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4504044', 'the prodigy', 2019, 92, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4513674', 'café society', 2016, 96, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4513678', 'ghostbusters afterlife', 2021, 124, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4520364', 'morgan', 2016, 92, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4520988', 'frozen ii', 2019, 103, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4530422', 'overlord', 2018, 110, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4532826', 'robin hood', 2018, 116, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4535650', 'dilwale', 2015, 158, 5.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4537896', 'white boy rick', 2018, 111, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4540710', 'miss sloane', 2016, 132, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4547056', 'the girl with all the gifts', 2016, 111, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4547194', 'i kill giants', 2017, 106, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4550098', 'nocturnal animals', 2016, 116, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4555426', 'darkest hour', 2017, 125, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4560436', 'mile 22', 2018, 94, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4566758', 'mulan', 2020, 115, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4572514', 'patriots day', 2016, 133, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4572792', 'the book of henry', 2017, 105, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4573394', 'endless corridor', 2014, 52, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4575576', 'christopher robin', 2018, 104, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4589218', 'five nights at freddys', 2023, 109, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4590256', 'hes all that', 2021, 88, 4.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4593060', 'pinocchio', 2022, 105, 5.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4595186', 'luckiest girl alive', 2022, 113, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4595882', 'can you ever forgive me', 2018, 106, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4614584', 'purple hearts', 2022, 122, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4622512', 'battle of the sexes', 2017, 121, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4624424', 'storks', 2016, 87, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4630562', 'the fate of the furious', 2017, 136, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4633690', 'shot caller', 2017, 121, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4633694', 'spiderman into the spiderverse', 2018, 117, 8.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4635372', 'masaan', 2015, 109, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4648786', 'harriet', 2019, 125, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4649466', 'kingsman the golden circle', 2017, 141, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4651520', 'bad moms', 2016, 100, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4669788', 'on the basis of sex', 2018, 120, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4669986', 'loving', 2016, 123, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4680182', 'colossal', 2016, 109, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4682266', 'the new mutants', 2020, 94, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4682786', 'collateral beauty', 2016, 97, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4686844', 'the death of stalin', 2017, 107, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4687108', 'in the tall grass', 2019, 101, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4695012', 'it comes at night', 2017, 91, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4698684', 'hunt for the wilderpeople', 2016, 101, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4701182', 'bumblebee', 2018, 114, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4714782', 'personal shopper', 2016, 105, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4729430', 'klaus', 2019, 96, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4731136', 'a cure for wellness', 2016, 146, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4733624', 'fatherhood', 2021, 109, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4758646', 'war machine', 2017, 122, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4761112', 'the mauritanian', 2021, 129, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4761916', 'unfriended dark web', 2018, 92, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4765284', 'pitch perfect 3', 2017, 93, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4769836', 'the doover', 2016, 108, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4772188', 'flow', 2024, 85, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4776998', 'the promise', 2016, 133, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4777008', 'maleficent mistress of evil', 2019, 119, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4779682', 'the meg', 2018, 113, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4781612', 'imperium', 2016, 109, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4786282', 'lights out', 2016, 81, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4799050', 'rough night', 2017, 101, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4799066', 'midnight sun', 2018, 91, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4815122', 'time trap', 2017, 87, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4824302', 'mothers day', 2016, 118, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4827558', 'high life', 2018, 113, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4832640', 'sultan', 2016, 170, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4846232', 'good time', 2017, 102, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4846340', 'hidden figures', 2016, 127, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4849438', 'baahubali 2 the conclusion', 2017, 167, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4853102', 'batman the killing joke', 2016, 76, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4857264', 'the invisible guest', 2016, 106, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4873118', 'the covenant', 2023, 123, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4877122', 'the emoji movie', 2017, 86, 3.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4878482', 'dumplin', 2018, 110, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4881806', 'jurassic world fallen kingdom', 2018, 128, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4899370', 'megan leavey', 2017, 116, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4900716', 'kapoor sons', 2016, 132, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4901306', 'perfect strangers', 2016, 96, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4912910', 'mission impossible fallout', 2018, 147, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4913966', 'the curse of la llorona', 2019, 93, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4916630', 'just mercy', 2019, 137, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4919268', 'bad boys ride or die', 2024, 115, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4925292', 'lady bird', 2017, 94, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4934950', 'talvar', 2015, 132, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4954522', 'raw', 2016, 99, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4964788', 'everybody knows', 2018, 133, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4971344', 'the sisters brothers', 2018, 122, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4972582', 'split', 2016, 117, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4975722', 'moonlight', 2016, 111, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4978420', 'borderlands', 2024, 101, 4.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4986098', 'the titan', 2018, 97, 4.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4995540', 'being the ricardos', 2021, 131, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4995776', 'the red sea diving resort', 2019, 129, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4995790', 'the square', 2017, 151, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt4998632', 'ambulance', 2022, 136, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5001718', 'everything everything', 2017, 96, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5001754', 'braven', 2018, 94, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5013056', 'dunkirk', 2017, 106, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5022702', 'hush', 2016, 82, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5027774', 'three billboards outside ebbing missouri', 2017, 115, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5028340', 'mary poppins returns', 2018, 130, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5033998', 'charlies angels', 2019, 118, 5.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5034838', 'godzilla vs kong', 2021, 113, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5040012', 'nosferatu', 2024, 132, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5052448', 'get out', 2017, 104, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5052474', 'sicario day of the soldado', 2018, 122, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5057140', 'hold the dark', 2018, 125, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5073642', 'color out of space', 2019, 111, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5074352', 'dangal', 2016, 161, 8.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5078204', 'two is a family', 2016, 118, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5080556', '20', 2018, 148, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5083738', 'the favourite', 2018, 119, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5090568', 'transformers rise of the beasts', 2023, 127, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5093026', 'papillon', 2017, 133, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5095030', 'antman and the wasp', 2018, 118, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5097410', 'noelle', 2019, 100, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5104604', 'isle of dogs', 2018, 101, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5108870', 'morbius', 2022, 104, 5.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5109280', 'raya and the last dragon', 2021, 107, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5109784', 'mother', 2017, 121, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5112584', 'lee', 2023, 117, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5113040', 'the secret life of pets 2', 2019, 86, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5113044', 'minions the rise of gru', 2022, 87, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5116302', 'togo', 2019, 113, 7.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
                 VALUES ('tt5117670', 'peter rabbit', 2018, 95, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt29294048', 'bogdanas longs to stay', 2023, 80, 8.8);
+                VALUES ('tt5121816', 'the bar', 2017, 102, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7624514', 'rewind die zweite chance', 2017, 106, 5.3);
+                VALUES ('tt5140878', 'annabelle creation', 2017, 109, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt21229840', 'padma shri kaur singh', 2022, 122, 7.8);
+                VALUES ('tt5144174', 'the dry', 2020, 117, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6510288', 'devi', 2017, 116, 4.8);
+                VALUES ('tt5151570', 'mrs harris goes to paris', 2022, 115, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14881696', 'uncle tom ii an american odyssey', 2022, 114, 6.5);
+                VALUES ('tt5155780', 'the discovery', 2017, 102, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5652498', 'taxi 121', 2016, 90, 5.6);
+                VALUES ('tt5164214', 'oceans eight', 2018, 110, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2279261', 'shadows of love', 2012, 90, 5.4);
+                VALUES ('tt5164432', 'love simon', 2018, 110, 7.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3174084', 'the werewolf game the villagers side', 2013, 110, 5.1);
+                VALUES ('tt5165344', 'rustom', 2016, 148, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3996014', 'made you look', 2015, 70, 7.4);
+                VALUES ('tt5168192', 'i daniel blake', 2016, 100, 7.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt22973154', 'he comes to kill', 2022, 50, 5.1);
+                VALUES ('tt5177088', 'the girl in the spiders web', 2018, 115, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6437820', 'backkom bear agent 008', 2017, 86, 4.6);
+                VALUES ('tt5177120', 'the ministry of ungentlemanly warfare', 2024, 122, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3610326', 'the pastor', 2016, 90, 6.0);
+                VALUES ('tt5186714', 'the salesman', 2016, 124, 7.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3185124', 'idle threat man on emission', 2012, 65, 6.2);
+                VALUES ('tt5198068', 'wolfwalkers', 2020, 103, 8.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2112209', 'mutual friends', 2013, 86, 6.3);
+                VALUES ('tt5208252', 'operation finale', 2018, 122, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt26348316', 'cielo abierto', 2023, 65, 7.7);
+                VALUES ('tt5215952', 'the wailing', 2016, 156, 7.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8168050', 'teidät tuomitaan elinkautiseen', 2018, 85, 4.2);
+                VALUES ('tt5220122', 'hotel transylvania 3 summer vacation', 2018, 97, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7989494', 'crypto heads', 2021, 100, 7.6);
+                VALUES ('tt5246700', 'how it ends', 2018, 113, 5.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33037915', 'manorajyam', 2024, 112, 5.3);
+                VALUES ('tt5247022', 'paterson', 2016, 118, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1941629', 'am ende der milchstrasse', 2012, 93, 7.4);
+                VALUES ('tt5294518', 'eli', 2019, 98, 5.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4460792', 'calm with horses', 2019, 100, 6.8);
+                VALUES ('tt5294550', 'all the money in the world', 2017, 132, 6.8);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3565434', 'the shortest way home cs lewis and mere christianity', 2013, 58, 6.8);
+                VALUES ('tt5302918', 'nyad', 2023, 121, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6702956', 'the war of chimeras', 2017, 94, 7.6);
+                VALUES ('tt5304992', 'set it up', 2018, 105, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2884496', 'if thats so then im a murderer', 2012, 70, 8.4);
+                VALUES ('tt5308322', 'happy death day', 2017, 96, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9031530', 'being mario götze', 2018, 136, 7.0);
+                VALUES ('tt5311514', 'your name', 2016, 106, 8.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1814888', 'the glass man', 2011, 108, 6.0);
+                VALUES ('tt5315210', 'lou', 2022, 107, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt12767100', 'grave intentions', 2021, 88, 4.0);
+                VALUES ('tt5315212', 'senior year', 2022, 111, 5.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11252154', 'cinecitta', 2012, 110, 8.1);
+                VALUES ('tt5323662', 'a silent voice the movie', 2016, 130, 8.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15379842', 'the silence of my hands', 2024, 80, 6.2);
+                VALUES ('tt5354160', 'mirror game', 2016, 147, 8.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt11192466', 'river of hope', 2020, 110, 6.9);
+                VALUES ('tt5362988', 'wind river', 2017, 107, 7.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5132392', 'the gilligan manifesto', 2018, 85, 4.8);
+                VALUES ('tt5363618', 'sound of metal', 2019, 120, 7.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt32741836', 'horrible', 2024, 101, 5.7);
+                VALUES ('tt5390504', 'detroit', 2017, 143, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3907180', 'remake remix ripoff about copy culture turkish pop cinema', 2014, 96, 7.8);
+                VALUES ('tt5397194', 'anon', 2018, 100, 6.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2398306', 'marriage material', 2014, 103, 5.0);
+                VALUES ('tt5431890', 'official secrets', 2019, 112, 7.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4120540', 'het nieuwe eten tomorrows food', 2014, 51, 8.8);
+                VALUES ('tt5433138', 'f9 the fast saga', 2021, 143, 5.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt28259725', 'visal adare', 2024, 120, 5.8);
+                VALUES ('tt5433140', 'fast x', 2023, 141, 5.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10011362', 'red white wasted', 2019, 89, 6.3);
+                VALUES ('tt5439796', 'logan lucky', 2017, 118, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt34154087', 'gut instinct', 2024, 84, 6.2);
+                VALUES ('tt5442430', 'life', 2017, 104, 6.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt14368728', 'intervenção é proibido morrer', 2021, 90, 6.3);
+                VALUES ('tt5460276', 'kaabil', 2017, 139, 7.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8207810', 'dr sivan', 2013, 108, 5.0);
+                VALUES ('tt5461944', 'hotel mumbai', 2018, 123, 7.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt24229422', '13 novembre 2015 anatomie dune instruction', 2022, 90, 6.6);
+                VALUES ('tt5462602', 'the big sick', 2017, 120, 7.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9362276', 'persecuted', 2019, 102, 6.5);
+                VALUES ('tt5463162', 'deadpool 2', 2018, 119, 7.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt5925370', 'blood moon river', 2017, 65, 3.9);
+                VALUES ('tt5478478', 'hostiles', 2017, 134, 7.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2120171', 'wadim', 2011, 90, 8.2);
+                VALUES ('tt5500218', 'samaritan', 2022, 102, 5.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1645141', 'sironia', 2011, 105, 6.5);
+                VALUES ('tt5501104', 'border', 2018, 110, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3684498', 'avantyuristy', 2014, 90, 4.2);
+                VALUES ('tt5503686', 'hustlers', 2019, 110, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4630462', 'grotesque', 2016, 90, 7.7);
+                VALUES ('tt5516328', 'ghost stories', 2017, 98, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3342156', 'death makes life possible', 2015, 64, 6.7);
+                VALUES ('tt5519340', 'bright', 2017, 117, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt34154028', 'everyone still has problems with sex', 2024, 72, 6.4);
+                VALUES ('tt5523010', 'the nutcracker and the four realms', 2018, 99, 5.6);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt7351178', 'odnoklassnitsy novyypovorot', 2017, 76, 4.3);
+                VALUES ('tt5525650', 'the goat life', 2024, 173, 7.1);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt3346766', 'marys land', 2013, 116, 6.6);
+                VALUES ('tt5535276', 'maestro', 2023, 129, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt22493506', 'pastor lothar stops', 2022, 85, 7.5);
+                VALUES ('tt5536736', 'the meyerowitz stories', 2017, 112, 6.9);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt24797140', 'salem', 2023, 103, 5.3);
+                VALUES ('tt5537002', 'killers of the flower moon', 2023, 206, 7.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9816988', 'gold', 2019, 83, 5.2);
+                VALUES ('tt5541240', 'to the bone', 2017, 107, 6.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt2055711', 'photographic memory', 2011, 87, 6.9);
+                VALUES ('tt5541848', 'what the health', 2017, 97, 7.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4966046', 'awaken the shadowman', 2017, 83, 3.6);
+                VALUES ('tt5562070', 'wish dragon', 2021, 98, 7.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt6234948', 'trompete dourado', 2016, 62, 8.3);
+                VALUES ('tt5563334', 'the good liar', 2019, 109, 6.7);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10469798', 'waterproof', 2019, 90, 6.7);
+                VALUES ('tt5571734', 'pink', 2016, 136, 8.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt15127460', 'the human voice', 2021, 58, 6.4);
+                VALUES ('tt5580036', 'i tonya', 2017, 119, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5580266', 'the hate u give', 2018, 133, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5580390', 'the shape of water', 2017, 123, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5592248', 'the beguiled', 2017, 93, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5606664', 'doctor sleep', 2019, 152, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5607714', 'on body and soul', 2017, 116, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5610554', 'tully', 2018, 95, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5613484', 'mid90s', 2018, 85, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5619332', 'life of the party', 2018, 105, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5635026', 'peter pan wendy', 2023, 106, 4.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5635086', 'gods own country', 2017, 104, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5638642', 'the ritual', 2017, 94, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5640450', 'arq', 2016, 88, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5648882', 'the burial', 2023, 126, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5649108', 'thoroughbreds', 2017, 92, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5649144', 'the florida project', 2017, 111, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5657846', 'daddys home 2', 2017, 100, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5657856', 'brawl in cell block 99', 2017, 132, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5672290', 'the first omen', 2024, 119, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5688932', 'sorry to bother you', 2018, 112, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5690360', 'slender man', 2018, 93, 3.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5691670', 'under the silver lake', 2018, 139, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5697572', 'cats', 2019, 110, 2.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5700672', 'train to busan', 2016, 118, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5710514', 'i dont feel at home in this world anymore', 2017, 93, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5715874', 'the killing of a sacred deer', 2017, 121, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5719700', 'home again', 2017, 97, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5719748', 'cold pursuit', 2019, 119, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5723272', 'in the fade', 2017, 106, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5726086', 'insidious the last key', 2018, 103, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5726616', 'call me by your name', 2017, 132, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5727208', 'uncut gems', 2019, 135, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5727282', 'borg vs mcenroe', 2017, 107, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5742374', 'you were never really here', 2017, 89, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5748448', 'copshop', 2021, 107, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5755238', 'leo', 2023, 102, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5758778', 'skyscraper', 2018, 102, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5761544', 'kandahar', 2023, 119, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5764096', 'hindi medium', 2017, 132, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5774060', 'underwater', 2020, 95, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5774450', 'summer of 84', 2018, 105, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5776858', 'phantom thread', 2017, 130, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5783956', 'when we first met', 2018, 97, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5797184', 'escape from pretoria', 2020, 106, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5813916', 'the mountain ii', 2016, 135, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5814060', 'the nun', 2018, 96, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5814534', 'spies in disguise', 2019, 102, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5816682', 'victoria abdul', 2017, 111, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5822536', 'paddington in peru', 2024, 106, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5825380', 'wonder wheel', 2017, 101, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5827916', 'a hidden life', 2019, 174, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5834262', 'hotel artemis', 2018, 94, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5834426', 'moonfall', 2022, 130, 5.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5848272', 'ralph breaks the internet', 2018, 112, 7.0);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
                 VALUES ('tt5862312', 'veronica', 2017, 105, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt33302465', 'black theta', 2024, 109, 7.4);
+                VALUES ('tt5865326', 'the laundromat', 2019, 96, 6.3);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt4708348', 'the silenced', 2015, 99, 5.7);
+                VALUES ('tt5867314', 'the empty man', 2020, 137, 6.2);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt8923116', 'fistful of dirt', 2018, 91, 5.5);
+                VALUES ('tt5884052', 'pokémon detective pikachu', 2019, 104, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt9101048', 'cankar', 2018, 93, 6.9);
+                VALUES ('tt5884796', 'plane', 2023, 107, 6.5);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt1236250', 'gigola', 2010, 102, 5.1);
+                VALUES ('tt5886046', 'escape room', 2019, 99, 6.4);
 INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
-                VALUES ('tt10342350', 'a ship of human skin', 2019, 101, 5.2);
+                VALUES ('tt5886440', 'marrowbone', 2017, 110, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5895028', '13th', 2016, 100, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5918982', 'possessor', 2020, 103, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5929754', 'wildlife', 2018, 105, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5932728', 'the professor and the madman', 2019, 124, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5935704', 'padmaavat', 2018, 163, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5946128', 'dear zindagi', 2016, 151, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5956100', 'tiger zinda hai', 2017, 161, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5962210', 'ingrid goes west', 2017, 98, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5968394', 'captive state', 2019, 109, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5971474', 'the little mermaid', 2023, 135, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5982852', 'jolly llb 2', 2017, 137, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt5988370', 'reis', 2017, 108, 1.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6000478', 'roman j israel esq', 2017, 122, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6018306', 'last flag flying', 2017, 125, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6038600', 'smolensk', 2016, 120, 1.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6048922', 'greyhound', 2020, 91, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6053438', 'first reformed', 2017, 113, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6079516', 'i see you', 2019, 98, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6079772', 'the protégé', 2021, 109, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6095472', 'the angry birds movie 2', 2019, 97, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6105098', 'the lion king', 2019, 118, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6107548', 'late night', 2019, 102, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6108090', 'secret superstar', 2017, 150, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6108178', 'disobedience', 2017, 114, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6111574', 'the woman in the window', 2021, 100, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6116856', 'the night comes for us', 2018, 121, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6133130', 'professor marston the wonder women', 2017, 108, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6133466', 'the first purge', 2018, 97, 5.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6139732', 'aladdin', 2019, 128, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6141246', 'the aeronauts', 2019, 100, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6146586', 'john wick chapter 3 parabellum', 2019, 130, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6148156', 'vikram vedha', 2017, 147, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6155172', 'roma', 2018, 135, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6160448', 'white noise', 2022, 136, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6166392', 'wonka', 2023, 116, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6182908', 'smallfoot', 2018, 96, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6189022', 'angel has fallen', 2019, 121, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6195094', 'incident in a ghostland', 2018, 91, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6212478', 'american animals', 2018, 116, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6214928', '1922', 2017, 102, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6217306', 'apostle', 2018, 130, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6218358', 'calibre', 2018, 101, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6246322', 'dont breathe 2', 2021, 98, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6259380', 'code 8', 2019, 98, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6263850', 'deadpool wolverine', 2024, 128, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6264654', 'free guy', 2021, 115, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6265828', 'a ghost story', 2017, 92, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6266538', 'vice', 2018, 132, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6269368', 'the clovehitch killer', 2018, 109, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6277462', 'brahmastra part one shiva', 2022, 167, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6285944', 'the banker', 2020, 120, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6288124', 'dont worry he wont get far on foot', 2018, 114, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6292852', 'i am mother', 2019, 113, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6294822', 'the post', 2017, 116, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6304046', 'thelma', 2017, 116, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6304162', 'loveless', 2017, 127, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6306064', 'adrift', 2018, 96, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6316138', 'ayla the daughter of war', 2017, 125, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6320628', 'spiderman far from home', 2019, 129, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6324278', 'abominable', 2019, 97, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6333060', 'icarus', 2017, 120, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6334354', 'the suicide squad', 2021, 132, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6341832', 'oxygen', 2021, 100, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6343314', 'creed ii', 2018, 130, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6348138', 'missing link', 2019, 93, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6359956', 'a bad moms christmas', 2017, 104, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6394270', 'bombshell', 2019, 109, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6398184', 'downton abbey', 2019, 122, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6402468', 'blood red sky', 2021, 121, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6412452', 'the ballad of buster scruggs', 2018, 133, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6432466', 'moxie', 2021, 111, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6436726', '7500', 2019, 93, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6443346', 'black adam', 2022, 125, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6450804', 'terminator dark fate', 2019, 128, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6452574', 'sanju', 2018, 155, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6455162', 'bhool bhulaiyaa 2', 2022, 143, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6467266', 'sing 2', 2021, 110, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6472976', 'five feet apart', 2019, 116, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6475714', 'monster hunter', 2020, 103, 5.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6476140', 'serenity', 2019, 106, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6485666', 'mersal', 2017, 172, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6491178', 'dragged across concrete', 2018, 159, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6495056', 'migration', 2023, 83, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6499752', 'upgrade', 2018, 100, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6513120', 'fighting with my family', 2019, 108, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6513656', 'escape plan 2 hades', 2018, 93, 3.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6521876', 'jay and silent bob reboot', 2019, 105, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6527426', 'zero', 2018, 164, 5.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6533240', 'night hunter', 2018, 98, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6535880', 'haunt', 2019, 92, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6543652', 'cold war', 2018, 89, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6565702', 'xmen dark phoenix', 2019, 113, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6566576', 'fear street part one 1994', 2021, 107, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6571548', 'the white tiger', 2021, 125, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6587046', 'the boy and the heron', 2023, 124, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6587640', 'trolls world tour', 2020, 91, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6628102', 'the wild pear tree', 2018, 188, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6628394', 'bad times at the el royale', 2018, 141, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6644200', 'a quiet place', 2018, 90, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6654210', 'infinite', 2021, 106, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6663582', 'the spy who dumped me', 2018, 117, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6673612', 'dolittle', 2020, 101, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6679794', 'outlaw king', 2018, 121, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6697582', 'arif v 216', 2018, 125, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6710474', 'everything everywhere all at once', 2022, 139, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6718170', 'the super mario bros movie', 2023, 92, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6723592', 'tenet', 2020, 150, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6738136', 'revenge', 2017, 108, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6742252', 'the guilty', 2018, 85, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6751668', 'parasite', 2019, 132, 8.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6768578', 'dogman', 2018, 103, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6772802', 'hillbilly elegy', 2020, 116, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6772950', 'truth or dare', 2018, 100, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6781982', 'night school', 2018, 111, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6791096', 'i feel pretty', 2018, 110, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6791350', 'guardians of the galaxy vol 3', 2023, 150, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6802308', 'the 1517 to paris', 2018, 94, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6802400', 'coming 2 america', 2021, 110, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6803046', 'the vast of night', 2019, 91, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6806448', 'fast furious presents hobbs shaw', 2019, 137, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6820256', 'arctic', 2018, 98, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6823368', 'glass', 2019, 129, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6850820', 'peppermint', 2018, 101, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6856242', 'the kings man', 2021, 131, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6857112', 'us', 2019, 116, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6857166', 'book club', 2018, 104, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6857376', 'palmer', 2021, 110, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6865690', 'the professor', 2018, 90, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6878038', 'a taxi driver', 2017, 137, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6878306', 'news of the world', 2020, 118, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6902332', 'the marksman', 2021, 108, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6902676', 'guns akimbo', 2019, 98, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6908274', 'mirage', 2018, 128, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6911608', 'mamma mia here we go again', 2018, 114, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6920084', 'resident evil welcome to raccoon city', 2021, 107, 5.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6921996', 'johnny english strikes again', 2018, 89, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6924650', 'midway', 2019, 138, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6938828', 'at eternitys gate', 2018, 111, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6966692', 'green book', 2018, 130, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6968614', 'the mother', 2023, 115, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6977338', 'good boys', 2019, 90, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6987770', 'destination wedding', 2018, 87, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6990206', 'crimea', 2017, 99, 3.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt6998518', 'mandy', 2018, 121, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7008872', 'boy erased', 2018, 115, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7014006', 'eighth grade', 2018, 93, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7019842', '96', 2018, 158, 8.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7040874', 'a simple favor', 2018, 117, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7043012', 'velvet buzzsaw', 2019, 113, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7057496', 'forgotten', 2017, 108, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7060344', 'raatchasan', 2018, 146, 8.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7069210', 'the conjuring the devil made me do it', 2021, 112, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7097896', 'venom let there be carnage', 2021, 97, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7098658', 'raazi', 2018, 138, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7125860', 'if beale street could talk', 2018, 119, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7126948', 'wonder woman 1984', 2020, 151, 5.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7131622', 'once upon a time in hollywood', 2019, 161, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7137380', 'destroyer', 2018, 121, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7139936', 'a rainy day in new york', 2019, 92, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7144666', 'the black phone', 2021, 103, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7146812', 'onward', 2020, 102, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7149730', 'the silencing', 2020, 93, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7153766', 'unsane', 2018, 98, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7160372', 'the zone of interest', 2023, 105, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7212754', 'ludo', 2020, 150, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7214954', 'luck', 2022, 105, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7218518', 'pad man', 2018, 140, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7221896', 'cumali ceber', 2017, 100, 1.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7236034', 'i want to eat your pancreas', 2018, 109, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7242142', 'blindspotting', 2018, 95, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7268738', 'minnal murali', 2021, 143, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7280898', '22 july', 2018, 143, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7282468', 'burning', 2018, 148, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7286456', 'joker', 2019, 122, 8.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7294534', 'arjun reddy', 2017, 182, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7315484', 'the silence', 2019, 90, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7322224', 'triangle of sadness', 2022, 147, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7329656', '47 meters down uncaged', 2019, 90, 5.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7339248', 'the art of selfdefense', 2019, 104, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7347846', 'the lodge', 2019, 108, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7349662', 'blackkklansman', 2018, 135, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7349950', 'it chapter two', 2019, 169, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7374948', 'always be my maybe', 2019, 101, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7392212', 'rangasthalam', 2018, 170, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7395114', 'the devil all the time', 2020, 138, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7401588', 'instant family', 2018, 118, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7405458', 'a man called otto', 2022, 126, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7430722', 'war', 2019, 151, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7431594', 'race 3', 2018, 160, 1.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7456310', 'anna', 2019, 118, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7466810', '777 charlie', 2022, 164, 8.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7475578', 'munich the edge of war', 2021, 130, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7485048', 'super 30', 2019, 154, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7504726', 'the call of the wild', 2020, 100, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7504818', 'rons gone wrong', 2021, 107, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7510222', 'despicable me 4', 2024, 94, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7518786', '83', 2021, 162, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7533152', 'the boy who harnessed the wind', 2019, 113, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7547410', 'dora and the lost city of gold', 2019, 102, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7549892', 'terrified', 2017, 87, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7549996', 'judy', 2019, 118, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7550000', 'project power', 2020, 113, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7550014', 'no exit', 2022, 95, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7556122', 'the old guard', 2020, 125, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7557108', 'saint maud', 2019, 84, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7599146', 'sound of freedom', 2023, 131, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7605074', 'the wandering earth', 2019, 125, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7608028', 'the open house', 2018, 94, 3.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7634968', 'what men want', 2019, 117, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7638348', 'boss level', 2020, 100, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7653254', 'marriage story', 2019, 137, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7657566', 'death on the nile', 2022, 127, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7664504', 'three identical strangers', 2018, 96, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7668870', 'searching', 2018, 102, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7693316', 'devotion', 2022, 139, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7711170', 'alone', 2020, 98, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7713068', 'birds of prey and the fantabulous emancipation of one harley quinn', 2020, 109, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7721800', 'bharat', 2019, 150, 4.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7725596', 'badhaai ho', 2018, 124, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7734218', 'stuber', 2019, 93, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7737528', 'kate', 2021, 106, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7737786', 'greenland', 2020, 119, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7737800', 'woman of the hour', 2023, 95, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7740496', 'nightmare alley', 2021, 150, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7740510', 'antlers', 2021, 99, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7748244', 'mortal world', 2018, 107, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7752126', 'brightburn', 2019, 90, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7772580', 'the perfection', 2018, 90, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7775622', 'free solo', 2018, 100, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7784604', 'hereditary', 2018, 127, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7798604', 'we have a ghost', 2023, 126, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7798634', 'ready or not', 2019, 95, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7825208', 'marighella', 2019, 155, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7838252', 'kgf chapter 1', 2018, 154, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7846844', 'enola holmes', 2020, 123, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7886848', 'sadak 2', 2020, 133, 1.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7888964', 'nobody', 2021, 92, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7905466', 'they shall not grow old', 2018, 99, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7914416', 'one cut of the dead', 2017, 96, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7939766', 'im thinking of ending things', 2020, 134, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7946422', 'prospect', 2018, 100, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7958736', 'ma', 2019, 99, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7959026', 'the mule', 2018, 116, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7961060', 'dragon ball super broly', 2018, 100, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7975244', 'jumanji the next level', 2019, 123, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7979580', 'the mitchells vs the machines', 2021, 114, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7984734', 'the lighthouse', 2019, 109, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7984766', 'the king', 2019, 140, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7985648', 'the legend of tomiris', 2019, 156, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7985704', 'operation fortune ruse de guerre', 2023, 114, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt7991608', 'red notice', 2021, 118, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8009428', 'hustle', 2022, 117, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8041270', 'jurassic world dominion', 2022, 147, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8075192', 'shoplifters', 2018, 121, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8079248', 'yesterday', 2019, 116, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8080204', 'hypnotic', 2023, 93, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8093700', 'the woman king', 2022, 135, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8097030', 'turning red', 2022, 100, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8106534', '6 underground', 2019, 128, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8108198', 'andhadhun', 2018, 139, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8108202', 'stree', 2018, 128, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8108268', 'the tashkent files', 2019, 134, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8108274', 'tanhaji the unsung warrior', 2020, 135, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8110232', 'the many saints of newark', 2021, 120, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8110330', 'dil bechara', 2020, 101, 8.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8110640', 'in the shadow of the moon', 2019, 115, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8110652', 'bodies bodies bodies', 2022, 94, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8114980', 'willys wonderland', 2021, 88, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8115900', 'the bad guys', 2022, 100, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8130968', 'badla', 2019, 118, 7.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8151874', 'honey boy', 2019, 94, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8155288', 'happy death day 2u', 2019, 100, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8178634', 'rrr', 2022, 187, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8201170', 'the perfect date', 2019, 89, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8201852', 'you should have left', 2020, 93, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8206668', 'bad education', 2019, 108, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8228288', 'the platform', 2019, 94, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8236336', 'the report', 2019, 119, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8239946', 'tumbbad', 2018, 108, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8242084', 'my spy', 2020, 99, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8244784', 'the hunt', 2020, 90, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8267604', 'capernaum', 2018, 126, 8.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8291224', 'uri the surgical strike', 2019, 138, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8291806', 'pain and glory', 2019, 113, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8323668', 'jerry and marge go large', 2022, 96, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8332922', 'a quiet place part ii', 2020, 97, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8350360', 'annabelle comes home', 2019, 106, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8356942', 'the 355', 2022, 122, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8359848', 'climax', 2018, 97, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8361028', 'cam', 2018, 94, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8364368', 'crawl', 2019, 87, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8367814', 'the gentlemen', 2019, 113, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8368368', 'the apprentice', 2024, 122, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8368406', 'vivarium', 2019, 97, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8368408', 'gunpowder milkshake', 2021, 114, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8368512', 'the courier', 2020, 112, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8372298', 'swallow', 2019, 94, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8385148', 'hitmans wifes bodyguard', 2021, 100, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8385474', 'a dogs journey', 2019, 109, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8404256', 'snake eyes', 2021, 121, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8404614', 'the two popes', 2019, 125, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8426926', 'shamshera', 2022, 178, 4.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8503618', 'hamilton', 2020, 160, 8.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8508734', 'his house', 2020, 93, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8521778', 'bob marley one love', 2024, 107, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8521876', 'yes day', 2021, 86, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8522006', 'happiest season', 2020, 102, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8526872', 'dolemite is my name', 2019, 118, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8544498', 'the way back', 2020, 108, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8579674', '1917', 2019, 119, 8.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8580274', 'eurovision song contest the story of fire saga', 2020, 123, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8589698', 'teenage mutant ninja turtles mutant mayhem', 2023, 99, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8613070', 'portrait of a lady on fire', 2019, 122, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8623904', 'last christmas', 2019, 103, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8629748', 'spenser confidential', 2020, 111, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8633462', 'quo vadis aida', 2020, 101, 8.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8633478', 'run', 2020, 90, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8637428', 'the farewell', 2019, 100, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8652728', 'waves', 2019, 135, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8663516', 'childs play', 2019, 90, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8672856', 'tu jhoothi main makkaar', 2023, 150, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8688634', '21 bridges', 2019, 99, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8695030', 'the dead dont die', 2019, 104, 5.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8718158', 'the hating game', 2021, 102, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8721424', 'tick tick boom', 2021, 115, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8722346', 'queen slim', 2019, 132, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8745676', 'the swimmers', 2022, 134, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8760708', 'm3gan', 2022, 102, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8772262', 'midsommar', 2019, 148, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8781414', 'freaks', 2018, 105, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8784956', 'ava', 2020, 96, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8790086', 'kraven the hunter', 2024, 127, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8847712', 'the french dispatch', 2021, 107, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8850222', 'peninsula', 2020, 116, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8864596', 'transformers one', 2024, 104, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8912936', 'dc league of superpets', 2022, 105, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8936646', 'extraction', 2020, 116, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8946378', 'knives out', 2019, 130, 7.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8954732', 'the princess switch', 2018, 101, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8960382', 'radhe shyam', 2022, 138, 5.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8983202', 'kabir singh', 2019, 173, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt8999762', 'the brutalist', 2024, 216, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9016974', 'synchronic', 2019, 102, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9032400', 'eternals', 2021, 156, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9051908', 'living', 2022, 102, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9052870', 'chhichhore', 2019, 143, 8.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9071322', 'dark waters', 2019, 126, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9072352', 'relic', 2020, 89, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9086228', 'gretel hansel', 2020, 87, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9100018', 'cobweb', 2023, 88, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9100054', 'the lost daughter', 2021, 121, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9110170', 'wrong turn', 2021, 109, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9114286', 'black panther wakanda forever', 2022, 161, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9115530', 'the eyes of tammy faye', 2021, 126, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9130508', 'cherry', 2021, 142, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9179430', 'vikram', 2022, 175, 8.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9185206', 'are you there god its me margaret', 2023, 106, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9196192', 'cuties', 2020, 96, 3.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9198364', 'three thousand years of longing', 2022, 108, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9203694', 'stowaway', 2021, 116, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9214772', 'monkey man', 2024, 121, 6.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9214832', 'emma', 2020, 124, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9218128', 'gladiator ii', 2024, 148, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9224104', 'meg 2 the trench', 2023, 116, 5.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9243804', 'the green knight', 2021, 130, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9243946', 'el camino', 2019, 122, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9252468', 'mosul', 2019, 101, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9263550', 'rocketry the nambi effect', 2022, 157, 8.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9288046', 'the sea beast', 2022, 115, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9288822', 'the wonder', 2022, 108, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9340860', 'let him go', 2020, 113, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9347730', 'candyman', 2021, 91, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9354842', 'to all the boys ps i still love you', 2020, 101, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9354944', 'jexi', 2019, 84, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9362722', 'spiderman across the spiderverse', 2023, 140, 8.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9362930', 'blue beetle', 2023, 127, 5.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9376612', 'shangchi and the legend of the ten rings', 2021, 132, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9389998', 'pushpa the rise part 1', 2021, 179, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9398640', 'between two ferns the movie', 2019, 82, 6.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9411972', 'where the crawdads sing', 2022, 125, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9412098', 'fyre', 2019, 97, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9419056', 'the unholy', 2021, 99, 5.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9419884', 'doctor strange in the multiverse of madness', 2022, 126, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9421570', 'the guilty', 2021, 90, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9426210', 'weathering with you', 2019, 112, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9466114', 'the idea of you', 2024, 115, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9477520', 'asuran', 2019, 141, 8.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9484998', 'palm springs', 2020, 90, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9495224', 'black mirror bandersnatch', 2018, 90, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9531772', 'sooryavanshi', 2021, 145, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9603212', 'mission impossible dead reckoning part one', 2023, 163, 7.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9606374', 'on the rocks', 2020, 96, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9619798', 'the wrong missy', 2020, 90, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9620288', 'king richard', 2021, 144, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9620292', 'promising young woman', 2020, 113, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9637132', 'samrat prithviraj', 2022, 135, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9639470', 'last night in soho', 2021, 116, 7.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9660502', 'close', 2022, 104, 7.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9663764', 'aquaman and the lost kingdom', 2023, 124, 5.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9682428', 'night swim', 2024, 98, 4.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9683478', 'the half of it', 2020, 104, 6.9);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9686708', 'the king of staten island', 2020, 136, 7.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9686790', 'shotgun wedding', 2022, 101, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9691136', 'shadow in the cloud', 2020, 83, 5.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9701940', 'fear street part two 1978', 2021, 109, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9701942', 'fear street part three 1666', 2021, 114, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9731534', 'the night house', 2020, 107, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9731598', 'bros', 2022, 115, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9742794', 'the vault', 2021, 118, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9764362', 'the menu', 2022, 107, 7.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9770150', 'nomadland', 2020, 107, 7.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9777644', 'da 5 bloods', 2020, 154, 6.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9777666', 'the tomorrow war', 2021, 138, 6.6);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9783600', 'spiderhead', 2022, 106, 5.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9784456', 'the kissing booth 2', 2020, 134, 5.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9784798', 'judas and the black messiah', 2021, 126, 7.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9806192', 'i lost my body', 2019, 81, 7.5);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9812474', 'lamb', 2021, 106, 6.3);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9844522', 'escape room tournament of champions', 2021, 88, 5.8);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9848626', 'hotel transylvania 4 transformania', 2022, 87, 6.0);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9851854', 'major', 2022, 150, 8.1);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9866072', 'holidate', 2020, 104, 6.2);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9873892', 'they cloned tyrone', 2023, 122, 6.7);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9893250', 'i care a lot', 2020, 118, 6.4);
+INSERT INTO movies (tconst, norm_title, start_year, runtime_minutes, imdb_rating) 
+                VALUES ('tt9900782', 'kaithi', 2019, 145, 8.4);
 COMMIT;

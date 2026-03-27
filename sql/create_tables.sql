@@ -34,4 +34,4 @@ CREATE TABLE rt_reviews (
     review_id NUMBER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
     norm_title VARCHAR2(300),
     tomatometer_rating INTEGER,
-    critics_consensus VARCHAR2(5000));
+    critics_consensus VARCHAR2(4000));
